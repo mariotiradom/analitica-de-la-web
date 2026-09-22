@@ -1,0 +1,12 @@
+{
+  "source": "universidad_peruana_cayetano_heredia",
+  "career": "Ingeniería Ambiental",
+  "page_url": "https://cayetano.edu.pe/pregrado/carreras/ingenieria-ambiental",
+  "brochure_url": "https://upch-repo-comercial.s3.dualstack.us-east-1.amazonaws.com/brochures/br_ambiental.pdf",
+  "captured_at": "2026-09-22T04:21:51.377607+00:00",
+  "files": {
+    "html": "data/cayetano/ingenieria-ambiental/source.html",
+    "courses": "data/cayetano/ingenieria-ambiental/courses.json"
+  },
+  "course_count": 66
+}

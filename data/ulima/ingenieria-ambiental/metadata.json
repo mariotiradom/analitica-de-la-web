@@ -1,0 +1,12 @@
+{
+  "source": "universidad_de_lima",
+  "career": "Ingeniería Ambiental",
+  "catalog_url": "https://www.ulima.edu.pe/pregrado",
+  "pdf_url": "https://www.ulima.edu.pe/sites/default/files/2026-02/malla_ing_ambiental_2026.pdf",
+  "captured_at": "2026-09-22T05:08:52.557310+00:00",
+  "files": {
+    "pdf": "data/ulima/ingenieria-ambiental/malla.pdf"
+  },
+  "content_type": "application/pdf",
+  "size_bytes": 6065932
+}

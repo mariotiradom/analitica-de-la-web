@@ -1,0 +1,12 @@
+{
+  "source": "universidad_peruana_cayetano_heredia",
+  "career": "Psicología PGE",
+  "page_url": "https://cayetano.edu.pe/pregrado/carreras/psicologia-pge",
+  "brochure_url": "https://upch-repo-comercial.s3.dualstack.us-east-1.amazonaws.com/pge-brochures/BR_MC_PSICOLOGIA_PGE_RGB.pdf",
+  "captured_at": "2026-09-22T04:22:04.591562+00:00",
+  "files": {
+    "html": "data/cayetano/psicologia-pge/source.html",
+    "courses": "data/cayetano/psicologia-pge/courses.json"
+  },
+  "course_count": 88
+}

@@ -1,0 +1,352 @@
+[
+  {
+    "name": "COMUNICACIÓN Y REDACCIÓN I",
+    "cycle": "Ciclo 1",
+    "modality": "NP"
+  },
+  {
+    "name": "CÁLCULO DIFERENCIAL PARA INGENIERÍA",
+    "cycle": "Ciclo 1",
+    "modality": "P"
+  },
+  {
+    "name": "QUÍMICA GENERAL",
+    "cycle": "Ciclo 1",
+    "modality": "P"
+  },
+  {
+    "name": "FILOSOFÍA Y ÉTICA",
+    "cycle": "Ciclo 1",
+    "modality": "NP"
+  },
+  {
+    "name": "DESARROLLO PERSONAL Y AUTONOMÍA",
+    "cycle": "Ciclo 1",
+    "modality": "SP"
+  },
+  {
+    "name": "INTRODUCCIÓN A LA INGENIERÍA INFORMÁTICA",
+    "cycle": "Ciclo 1",
+    "modality": "SP"
+  },
+  {
+    "name": "INGLÉS 1",
+    "cycle": "Ciclo 1",
+    "modality": "NP"
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA I",
+    "cycle": "Ciclo 1",
+    "modality": "NP"
+  },
+  {
+    "name": "COMUNICACIÓN Y REDACCIÓN II",
+    "cycle": "Ciclo 2",
+    "modality": "NP"
+  },
+  {
+    "name": "ÁLGEBRA MATRICIAL Y GEOMETRÍA ANALÍTICA",
+    "cycle": "Ciclo 2",
+    "modality": "P"
+  },
+  {
+    "name": "FÍSICA PARA INGENIERÍA 1",
+    "cycle": "Ciclo 2",
+    "modality": "P"
+  },
+  {
+    "name": "FUNDAMENTOS DE PROGRAMACIÓN",
+    "cycle": "Ciclo 2",
+    "modality": "P"
+  },
+  {
+    "name": "CIENCIAS SOCIALES EN EL CONTEXTO ACTUAL",
+    "cycle": "Ciclo 2",
+    "modality": "NP"
+  },
+  {
+    "name": "PENSAMIENTO CIENTÍFICO E INVESTIGACIÓN",
+    "cycle": "Ciclo 2",
+    "modality": "NP"
+  },
+  {
+    "name": "CULTURA AMBIENTAL Y DESARROLLO SOSTENIBLE",
+    "cycle": "Ciclo 2",
+    "modality": "NP"
+  },
+  {
+    "name": "INGLÉS 2",
+    "cycle": "Ciclo 2",
+    "modality": "NP"
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA II",
+    "cycle": "Ciclo 2",
+    "modality": "NP"
+  },
+  {
+    "name": "CÁLCULO INTEGRAL PARA INGENIERÍA",
+    "cycle": "Ciclo 3",
+    "modality": "P"
+  },
+  {
+    "name": "ELECTRÓNICA DIGITAL Y",
+    "cycle": "Ciclo 3",
+    "modality": null
+  },
+  {
+    "name": "ROBÓTICA",
+    "cycle": "Ciclo 3",
+    "modality": "P"
+  },
+  {
+    "name": "PROCESOS DE INNOVACIÓN EN INGENIERÍA",
+    "cycle": "Ciclo 3",
+    "modality": "SP"
+  },
+  {
+    "name": "BASES DE DATOS I",
+    "cycle": "Ciclo 3",
+    "modality": "P"
+  },
+  {
+    "name": "PARADIGMAS DE LENGUAJES DE",
+    "cycle": "Ciclo 3",
+    "modality": null
+  },
+  {
+    "name": "PROGRAMACIÓN",
+    "cycle": "Ciclo 3",
+    "modality": "P"
+  },
+  {
+    "name": "ESTRUCTURAS DISCRETAS I",
+    "cycle": "Ciclo 3",
+    "modality": "P"
+  },
+  {
+    "name": "INGLÉS 3",
+    "cycle": "Ciclo 3",
+    "modality": "NP"
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA III",
+    "cycle": "Ciclo 3",
+    "modality": "NP"
+  },
+  {
+    "name": "CÁLCULO VECTORIAL PARA INGENIERÍA",
+    "cycle": "Ciclo 4",
+    "modality": "P"
+  },
+  {
+    "name": "FUNDAMENTOS DE DISEÑO",
+    "cycle": "Ciclo 4",
+    "modality": "P"
+  },
+  {
+    "name": "ORGANIZACIÓN Y ARQUITECTURA DE COMPUTADORES",
+    "cycle": "Ciclo 4",
+    "modality": "P"
+  },
+  {
+    "name": "PROGRAMACIÓN ORIENTADA A OBJETOS",
+    "cycle": "Ciclo 4",
+    "modality": "P"
+  },
+  {
+    "name": "BASES DE DATOS II",
+    "cycle": "Ciclo 4",
+    "modality": "P"
+  },
+  {
+    "name": "ESTRUCTURAS DISCRETAS II",
+    "cycle": "Ciclo 4",
+    "modality": "P"
+  },
+  {
+    "name": "INGLÉS 4",
+    "cycle": "Ciclo 4",
+    "modality": "NP"
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA IV",
+    "cycle": "Ciclo 4",
+    "modality": "P"
+  },
+  {
+    "name": "ESTADÍSTICA Y PROBABILIDADES PARA INGENIERÍA",
+    "cycle": "Ciclo 5",
+    "modality": "P"
+  },
+  {
+    "name": "HUMAN-CENTERED DESIGN",
+    "cycle": "Ciclo 5",
+    "modality": "P"
+  },
+  {
+    "name": "PROGRAMACIÓN PARA CIENCIA DE DATOS",
+    "cycle": "Ciclo 5",
+    "modality": "P"
+  },
+  {
+    "name": "SISTEMAS DE INFORMACIÓN",
+    "cycle": "Ciclo 5",
+    "modality": "P"
+  },
+  {
+    "name": "ALGORITMOS Y ESTRUCTURA DE DATOS",
+    "cycle": "Ciclo 5",
+    "modality": "P"
+  },
+  {
+    "name": "SISTEMAS OPERATIVOS",
+    "cycle": "Ciclo 5",
+    "modality": "P"
+  },
+  {
+    "name": "PROYECTO INTEGRADOR",
+    "cycle": "Ciclo 6",
+    "modality": "P"
+  },
+  {
+    "name": "MACHINE LEARNING",
+    "cycle": "Ciclo 6",
+    "modality": "P"
+  },
+  {
+    "name": "ANÁLISIS Y DISEÑO DE ALGORITMOS",
+    "cycle": "Ciclo 6",
+    "modality": "P"
+  },
+  {
+    "name": "NETWORKING & CLOUD COMPUTING",
+    "cycle": "Ciclo 6",
+    "modality": "P"
+  },
+  {
+    "name": "INGENIERÍA DE SOFTWARE",
+    "cycle": "Ciclo 6",
+    "modality": "P"
+  },
+  {
+    "name": "DESARROLLO PROFESIONAL",
+    "cycle": "Ciclo 7",
+    "modality": "P"
+  },
+  {
+    "name": "CRIPTOGRAFÍA Y SEGURIDAD INFORMÁTICA",
+    "cycle": "Ciclo 7",
+    "modality": "P"
+  },
+  {
+    "name": "OPTIMIZATION FOR MACHINE LEARNING",
+    "cycle": "Ciclo 7",
+    "modality": "P"
+  },
+  {
+    "name": "VISUALIZACIÓN DE DATOS",
+    "cycle": "Ciclo 7",
+    "modality": "P"
+  },
+  {
+    "name": "TECNOLOGÍAS DE LA INFORMACIÓN",
+    "cycle": "Ciclo 7",
+    "modality": "P"
+  },
+  {
+    "name": "ARQUITECTURA DE SOFTWARE",
+    "cycle": "Ciclo 7",
+    "modality": "P"
+  },
+  {
+    "name": "COMPUTACIÓN PARALELA, CONCURRENTE Y DISTRIBUIDA",
+    "cycle": "Ciclo 7",
+    "modality": "P"
+  },
+  {
+    "name": "ENTREPRENEURSHIP AND INNOVATION",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "INGENIERÍA DE REQUERIMIENTOS",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "ARTIFICIAL INTELLIGENCE",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "GESTIÓN DE PROYECTOS DE TI",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "DESARROLLO DE SISTEMAS WEB",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "DESARROLLO DE SISTEMAS MÓVILES",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "ASIGNATURA ELECTIVA I",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "ASIGNATURA ELECTIVA II",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "INFORMATICS CAPSTONE PROJECT",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "EXPERIENCIA EN INGENIERÍA INFORMÁTICA",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "PROYECTO DE TESIS EN INGENIERÍA INFORMÁTICA",
+    "cycle": null,
+    "modality": "SP"
+  },
+  {
+    "name": "IMPLEMENTACIÓN DE PROYECTOS DE TI",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "ASIGNATURA ELECTIVA III",
+    "cycle": null,
+    "modality": "SP"
+  },
+  {
+    "name": "TRABAJO DE INVESTIGACIÓN",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "DERECHO Y ÉTICA EN LA INFORMÁTICA",
+    "cycle": null,
+    "modality": "NP"
+  },
+  {
+    "name": "TÓPICOS AVANZADOS DE SEGURIDAD INFORMÁTICA",
+    "cycle": null,
+    "modality": "NP"
+  },
+  {
+    "name": "ASIGNATURA ELECTIVA IV",
+    "cycle": null,
+    "modality": "NP"
+  }
+]

@@ -1,0 +1,437 @@
+[
+  {
+    "name": "Matemáticas básicas",
+    "cycle": "Ciclo CICLO 1",
+    "modality": "P"
+  },
+  {
+    "name": "Filosofía y ética",
+    "cycle": "Ciclo CICLO 1",
+    "modality": "NP"
+  },
+  {
+    "name": "Biología general",
+    "cycle": "Ciclo CICLO 1",
+    "modality": "P"
+  },
+  {
+    "name": "Introducción a la Psicología",
+    "cycle": "Ciclo CICLO 1",
+    "modality": "SP"
+  },
+  {
+    "name": "Comunicación y redacción I",
+    "cycle": "Ciclo CICLO 1",
+    "modality": "NP"
+  },
+  {
+    "name": "Desarrollo personal y autonomía",
+    "cycle": "Ciclo CICLO 1",
+    "modality": "SP"
+  },
+  {
+    "name": "Inglés 1",
+    "cycle": "Ciclo CICLO 1",
+    "modality": "NP"
+  },
+  {
+    "name": "Actividad complementaria I",
+    "cycle": "Ciclo CICLO 1",
+    "modality": "P"
+  },
+  {
+    "name": "Bases biológicas del comportamiento",
+    "cycle": "Ciclo CICLO 2",
+    "modality": "P"
+  },
+  {
+    "name": "Comunicación y redacción II",
+    "cycle": "Ciclo CICLO 2",
+    "modality": "NP"
+  },
+  {
+    "name": "Ciencias sociales en el contexto actual",
+    "cycle": "Ciclo CICLO 2",
+    "modality": "NP"
+  },
+  {
+    "name": "Taller de creatividad y emprendimiento",
+    "cycle": "Ciclo CICLO 2",
+    "modality": "P"
+  },
+  {
+    "name": "Pensamiento científico e Investigación",
+    "cycle": "Ciclo CICLO 2",
+    "modality": "NP"
+  },
+  {
+    "name": "Cultura ambiental y desarrollo sostenible",
+    "cycle": "Ciclo CICLO 2",
+    "modality": "NP"
+  },
+  {
+    "name": "Inglés 2",
+    "cycle": "Ciclo CICLO 2",
+    "modality": "NP"
+  },
+  {
+    "name": "Actividad complementaria II",
+    "cycle": "Ciclo CICLO 2",
+    "modality": "P"
+  },
+  {
+    "name": "Estadística aplicada a la Psicología I",
+    "cycle": "Ciclo CICLO 3",
+    "modality": "P"
+  },
+  {
+    "name": "Psicología del Desarrollo Humano I",
+    "cycle": "Ciclo CICLO 3",
+    "modality": "P"
+  },
+  {
+    "name": "Historia y sistemas psicológicos",
+    "cycle": "Ciclo CICLO 3",
+    "modality": "P"
+  },
+  {
+    "name": "Psicología cognitiva I: procesos psicológicos básicos",
+    "cycle": "Ciclo CICLO 3",
+    "modality": "P"
+  },
+  {
+    "name": "Emoción y motivación",
+    "cycle": "Ciclo CICLO 3",
+    "modality": "P"
+  },
+  {
+    "name": "Neuropsicología",
+    "cycle": "Ciclo CICLO 3",
+    "modality": "P"
+  },
+  {
+    "name": "Psicología experimental",
+    "cycle": "Ciclo CICLO 3",
+    "modality": "P"
+  },
+  {
+    "name": "Inglés 3",
+    "cycle": "Ciclo CICLO 3",
+    "modality": "NP"
+  },
+  {
+    "name": "Actividad complementaria III",
+    "cycle": "Ciclo CICLO 3",
+    "modality": "P"
+  },
+  {
+    "name": "Estadística aplicada a la Psicología II",
+    "cycle": "Ciclo CICLO 4",
+    "modality": "P"
+  },
+  {
+    "name": "Entrevista y observación en Psicología",
+    "cycle": "Ciclo CICLO 4",
+    "modality": "P"
+  },
+  {
+    "name": "Psicología del desarrollo humano II",
+    "cycle": "Ciclo CICLO 4",
+    "modality": "P"
+  },
+  {
+    "name": "Psicología cognitiva II: pensamiento y lenguaje",
+    "cycle": "Ciclo CICLO 4",
+    "modality": "P"
+  },
+  {
+    "name": "Psicología de la personalidad",
+    "cycle": "Ciclo CICLO 4",
+    "modality": "P"
+  },
+  {
+    "name": "Métodos de investigación",
+    "cycle": "Ciclo CICLO 4",
+    "modality": "SP"
+  },
+  {
+    "name": "Psicopatología",
+    "cycle": "Ciclo CICLO 4",
+    "modality": "P"
+  },
+  {
+    "name": "Inglés 4",
+    "cycle": "Ciclo CICLO 4",
+    "modality": "NP"
+  },
+  {
+    "name": "Actividad complementaria IV",
+    "cycle": "Ciclo CICLO 4",
+    "modality": "P"
+  },
+  {
+    "name": "Psicología clínica y de salud",
+    "cycle": "Ciclo CICLO 5",
+    "modality": "P"
+  },
+  {
+    "name": "Psicología organizacional",
+    "cycle": "Ciclo CICLO 5",
+    "modality": "P"
+  },
+  {
+    "name": "Psicología Educacional",
+    "cycle": "Ciclo CICLO 5",
+    "modality": "P"
+  },
+  {
+    "name": "Psicología social – comunitaria",
+    "cycle": "Ciclo CICLO 5",
+    "modality": "P"
+  },
+  {
+    "name": "Teoría y construcción de test",
+    "cycle": "Ciclo CICLO 5",
+    "modality": "P"
+  },
+  {
+    "name": "Evaluación cualitativa",
+    "cycle": "Ciclo CICLO 5",
+    "modality": "P"
+  },
+  {
+    "name": "Asignatura electiva I",
+    "cycle": "Ciclo CICLO 5",
+    "modality": "SP"
+  },
+  {
+    "name": "Desarrollo afectivo sexual",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "Evaluación psicométrica aplicada",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "Epistemología de la Psicología",
+    "cycle": null,
+    "modality": "SP"
+  },
+  {
+    "name": "Liderazgo y emprendimiento",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "Asignatura electiva II",
+    "cycle": null,
+    "modality": "SP"
+  },
+  {
+    "name": "Asignatura de especialidad I",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "Asignatura de especialidad II",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "Evaluación y Diagnóstico Psicopatológico",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "Evaluación y Diagnóstico Neuropsicológico",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "Evaluación y Diagnóstico Comunitario",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "Evaluación de Programas y Proyectos Psicosociales",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "Competencias Laborales",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "Evaluación y Diagnóstico Organizacional",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "Evaluación y Diagnóstico Educacional",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "Evaluación y Diagnóstico Psicopedagógico",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "Programas preventivos – promocionales",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "Orientación y consejería psicológica",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "Ética y deontología",
+    "cycle": null,
+    "modality": "SP"
+  },
+  {
+    "name": "Terapias psicológicas",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "Intervención cognitivo conductual",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "Taller de tesis I",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "Asignatura electiva III",
+    "cycle": null,
+    "modality": "SP"
+  },
+  {
+    "name": "Intervención en emergencias y desastres",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "Management and entrepreneurship",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "Taller de tesis II",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "Asignatura electiva IV",
+    "cycle": null,
+    "modality": "SP"
+  },
+  {
+    "name": "Asignatura electiva V",
+    "cycle": null,
+    "modality": "SP"
+  },
+  {
+    "name": "Asignatura de especialidad III",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "Asignatura de especialidad IV",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "Asignatura de especialidad V",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "Intervención en Psicología de la Salud",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "Psicoterapia Cognitivo Conductual",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "Psicofarmacología",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "Programas de Mejoramiento Comunicacional",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "Programas de Mejoramiento Ambiental",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "Programas de Intervención Psicosocial",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "Desarrollo del Talento Humano",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "Salud y Seguridad en el Trabajo",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "Comportamiento del Consumidor",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "Psicología Escolar y Problemas de Aprendizaje",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "Psicología Instruccional",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "Intervención en Necesidades Educativas Especiales",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "Desarrollo de competencias profesionales I",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "Taller de tesis III",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "Desarrollo de competencias profesionales II",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "Trabajo de investigación",
+    "cycle": null,
+    "modality": "P"
+  }
+]

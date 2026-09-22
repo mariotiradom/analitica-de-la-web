@@ -1,0 +1,307 @@
+[
+  {
+    "name": "BIOLOGÍA I",
+    "cycle": "Ciclo 1",
+    "modality": "P"
+  },
+  {
+    "name": "QUÍMICA I",
+    "cycle": "Ciclo 1",
+    "modality": "P"
+  },
+  {
+    "name": "MATEMÁTICAS I",
+    "cycle": "Ciclo 1",
+    "modality": "P"
+  },
+  {
+    "name": "COMUNICACIÓN Y REDACCIÓN I",
+    "cycle": "Ciclo 1",
+    "modality": "NP"
+  },
+  {
+    "name": "CIENCIAS SOCIALES",
+    "cycle": "Ciclo 1",
+    "modality": "NP"
+  },
+  {
+    "name": "INGLÉS 1",
+    "cycle": "Ciclo 1",
+    "modality": "NP"
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA I",
+    "cycle": "Ciclo 1",
+    "modality": "NP"
+  },
+  {
+    "name": "BOTÁNICA FARMACÉUTICA",
+    "cycle": "Ciclo 2",
+    "modality": "P"
+  },
+  {
+    "name": "QUÍMICA II",
+    "cycle": "Ciclo 2",
+    "modality": "P"
+  },
+  {
+    "name": "MATEMÁTICAS II",
+    "cycle": "Ciclo 2",
+    "modality": "P"
+  },
+  {
+    "name": "FILOSOFÍA Y ÉTICA",
+    "cycle": "Ciclo 2",
+    "modality": "NP"
+  },
+  {
+    "name": "COMUNICACIÓN Y REDACCIÓN II",
+    "cycle": "Ciclo 2",
+    "modality": "NP"
+  },
+  {
+    "name": "CULTURA AMBIENTAL Y DESARROLLO SOSTENIBLE",
+    "cycle": "Ciclo 2",
+    "modality": "NP"
+  },
+  {
+    "name": "INGLÉS 2",
+    "cycle": "Ciclo 2",
+    "modality": "NP"
+  },
+  {
+    "name": "QUÍMICA ORGÁNICA",
+    "cycle": "Ciclo 3",
+    "modality": "P"
+  },
+  {
+    "name": "FÍSICA I",
+    "cycle": "Ciclo 3",
+    "modality": "P"
+  },
+  {
+    "name": "ESTADÍSTICA Y PROBABILIDADES",
+    "cycle": "Ciclo 3",
+    "modality": "P"
+  },
+  {
+    "name": "COMPUTACIÓN",
+    "cycle": "Ciclo 3",
+    "modality": "P"
+  },
+  {
+    "name": "HISTORIA DEL PENSAMIENTO CIENTÍFICO",
+    "cycle": "Ciclo 3",
+    "modality": "P"
+  },
+  {
+    "name": "INGLÉS 3",
+    "cycle": "Ciclo 3",
+    "modality": "NP"
+  },
+  {
+    "name": "ASIGNATURA ELECTIVA I",
+    "cycle": "Ciclo 3",
+    "modality": "P"
+  },
+  {
+    "name": "FISICOQUÍMICA",
+    "cycle": "Ciclo 4",
+    "modality": "P"
+  },
+  {
+    "name": "QUÍMICA ORGÁNICA II",
+    "cycle": "Ciclo 4",
+    "modality": "P"
+  },
+  {
+    "name": "ANATOMÍA",
+    "cycle": "Ciclo 4",
+    "modality": null
+  },
+  {
+    "name": "HUMANA",
+    "cycle": "Ciclo 4",
+    "modality": "P"
+  },
+  {
+    "name": "FARMACOGNOSIA",
+    "cycle": "Ciclo 4",
+    "modality": "P"
+  },
+  {
+    "name": "INGLÉS 4",
+    "cycle": "Ciclo 4",
+    "modality": "NP"
+  },
+  {
+    "name": "ACTIVIDAD",
+    "cycle": "Ciclo 4",
+    "modality": null
+  },
+  {
+    "name": "COMPLEMENTARIA II",
+    "cycle": "Ciclo 4",
+    "modality": "P"
+  },
+  {
+    "name": "FISICOQUÍMICA II",
+    "cycle": "Ciclo 5",
+    "modality": "P"
+  },
+  {
+    "name": "OPERACIONES Y PROCESOS FARMACÉUTICOS",
+    "cycle": "Ciclo 5",
+    "modality": "P"
+  },
+  {
+    "name": "BIOQUÍMICA",
+    "cycle": "Ciclo 5",
+    "modality": "P"
+  },
+  {
+    "name": "QUÍMICA ANALÍTICA",
+    "cycle": "Ciclo 5",
+    "modality": "P"
+  },
+  {
+    "name": "INVESTIGACIÓN CIENTÍFICA",
+    "cycle": "Ciclo 5",
+    "modality": "P"
+  },
+  {
+    "name": "FARMACIA MAGISTRAL Y OFICINAL",
+    "cycle": "Ciclo 6",
+    "modality": "P"
+  },
+  {
+    "name": "BIOLOGÍA MOLECULAR DE LA CÉLULA",
+    "cycle": "Ciclo 6",
+    "modality": "P"
+  },
+  {
+    "name": "FISIOLOGÍA HUMANA",
+    "cycle": "Ciclo 6",
+    "modality": "P"
+  },
+  {
+    "name": "MICROBIOLOGÍA GENERAL",
+    "cycle": "Ciclo 6",
+    "modality": "P"
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA III",
+    "cycle": "Ciclo 6",
+    "modality": "P"
+  },
+  {
+    "name": "BIOFARMACIA Y FARMACOCINÉTICA",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "FISIOPATOLOGÍA",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "PARASITOLOGÍA HUMANA",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "QUÍMICA FARMACÉUTICA",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "ANALÍTICA E INSTRUMENTACIÓN FARMACÉUTICA",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "PHARMACOEPIDEMIOLOGY",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "LEGISLACIÓN Y DEONTOLOGÍA FARMACÉUTICA",
+    "cycle": null,
+    "modality": "NP"
+  },
+  {
+    "name": "FARMACOLOGÍA",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "BROMATOLOGÍA",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "SEMIOLOGÍA",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "ASIGNATURA ELECTIVA II",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA IV",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "INDUSTRIA FARMACÉUTICA",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "TOXICOLOGÍA Y QUÍMICA LEGAL",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "GESTIÓN Y CONTROL DE CALIDAD FARMACÉUTICA",
+    "cycle": null,
+    "modality": "NP"
+  },
+  {
+    "name": "SEGUIMIENTO FARMACOTERAPÉUTICO",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "PROYECTO DE TESIS",
+    "cycle": null,
+    "modality": "NP"
+  },
+  {
+    "name": "FARMACIA HOSPITALARIA Y ATENCIÓN FARMACÉUTICA",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "SALUD PÚBLICA",
+    "cycle": null,
+    "modality": "NP"
+  },
+  {
+    "name": "ADMINISTRACIÓN Y GERENCIA ESTRATÉGICA FARMACÉUTICA",
+    "cycle": null,
+    "modality": "NP"
+  },
+  {
+    "name": "PRÁCTICAS PRE PROFESIONALES O INTERNADO FARMACÉUTICO/HOSPITALARIO",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "TRABAJO DE INVESTIGACIÓN",
+    "cycle": null,
+    "modality": "P"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "source": "universidad_peruana_cayetano_heredia",
+  "career": "Química",
+  "page_url": "https://cayetano.edu.pe/pregrado/carreras/quimica",
+  "brochure_url": null,
+  "captured_at": "2026-09-22T04:22:06.432398+00:00",
+  "files": {
+    "html": "data/cayetano/quimica/source.html",
+    "courses": "data/cayetano/quimica/courses.json"
+  },
+  "course_count": 0
+}

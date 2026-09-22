@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.egg-info/
+*.py[cod]
+.env
+
+data/*/source.html
+data/*/catalog.html
+data/*/plan-estudios-*.pdf
+data/*/*/source.html
+data/*/*/malla.pdf

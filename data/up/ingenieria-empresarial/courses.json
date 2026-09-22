@@ -1,0 +1,206 @@
+[
+  {
+    "name": "Nivelación en Lenguaje",
+    "cycle": "Ciclo 0"
+  },
+  {
+    "name": "Nivelación en Matemáticas",
+    "cycle": "Ciclo 0"
+  },
+  {
+    "name": "Nivelación en Informática",
+    "cycle": "Ciclo 0"
+  },
+  {
+    "name": "Lenguaje I",
+    "cycle": "Ciclo I"
+  },
+  {
+    "name": "Matemáticas I",
+    "cycle": "Ciclo I"
+  },
+  {
+    "name": "Economía General I",
+    "cycle": "Ciclo I"
+  },
+  {
+    "name": "Introducción a la Ingeniería",
+    "cycle": "Ciclo I"
+  },
+  {
+    "name": "Lenguaje II",
+    "cycle": "Ciclo II"
+  },
+  {
+    "name": "Economía General II",
+    "cycle": "Ciclo II"
+  },
+  {
+    "name": "Fundamentos de Contabilidad",
+    "cycle": "Ciclo II"
+  },
+  {
+    "name": "Matemáticas II",
+    "cycle": "Ciclo II"
+  },
+  {
+    "name": "Tecnología y Negocios Digitales",
+    "cycle": "Ciclo II"
+  },
+  {
+    "name": "Investigación Académica",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Estadística I",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Contabilidad Financiera Intermedia",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Herramientas de Programación",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Cursos de Introducción al Quehacer Científico",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Cursos de Desarrollo Personal",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Marketing Estratégico",
+    "cycle": "Ciclo IV"
+  },
+  {
+    "name": "Estadística II",
+    "cycle": "Ciclo IV"
+  },
+  {
+    "name": "Ingeniería de Procesos",
+    "cycle": "Ciclo IV"
+  },
+  {
+    "name": "Arquitectura del Sistema de Información",
+    "cycle": "Ciclo IV"
+  },
+  {
+    "name": "Desing Thinking and Technological Innovation",
+    "cycle": "Ciclo IV"
+  },
+  {
+    "name": "Fundamentos de Finanzas",
+    "cycle": "Ciclo V"
+  },
+  {
+    "name": "Fundamentos de Analítica",
+    "cycle": "Ciclo V"
+  },
+  {
+    "name": "Ingeniería de Datos",
+    "cycle": "Ciclo V"
+  },
+  {
+    "name": "Investigación de Operaciones",
+    "cycle": "Ciclo V"
+  },
+  {
+    "name": "Métodos de Investigación Cuantitativa",
+    "cycle": "Ciclo V"
+  },
+  {
+    "name": "Gestión del Capital Humano",
+    "cycle": "Ciclo VI"
+  },
+  {
+    "name": "Física",
+    "cycle": "Ciclo VI"
+  },
+  {
+    "name": "Procesos de Suministro",
+    "cycle": "Ciclo VI"
+  },
+  {
+    "name": "Gestión de Proyectos",
+    "cycle": "Ciclo VI"
+  },
+  {
+    "name": "Cursos de Ciencias Sociales",
+    "cycle": "Ciclo VI"
+  },
+  {
+    "name": "Estrategia",
+    "cycle": "Ciclo VII"
+  },
+  {
+    "name": "Desarrollo de Soluciones Empresariales",
+    "cycle": "Ciclo VII"
+  },
+  {
+    "name": "Procesos de Producción",
+    "cycle": "Ciclo VII"
+  },
+  {
+    "name": "Metodologías Ágiles",
+    "cycle": "Ciclo VII"
+  },
+  {
+    "name": "Cursos de Pensamiento Crítico",
+    "cycle": "Ciclo VII"
+  },
+  {
+    "name": "Tecnología para el Desarrollo Sostenible",
+    "cycle": "Ciclo VIII"
+  },
+  {
+    "name": "Infraestructura Tecnológica",
+    "cycle": "Ciclo VIII"
+  },
+  {
+    "name": "Procesos de Distribución",
+    "cycle": "Ciclo VIII"
+  },
+  {
+    "name": "Transformación Digital y Gestión del Cambio",
+    "cycle": "Ciclo VIII"
+  },
+  {
+    "name": "Formulación y Evaluación de Proyectos",
+    "cycle": "Ciclo VIII"
+  },
+  {
+    "name": "Cursos de Procesos Sociales",
+    "cycle": "Ciclo VIII"
+  },
+  {
+    "name": "Gerencia de Ingeniería de Valor",
+    "cycle": "Ciclo IX"
+  },
+  {
+    "name": "Emprendimiento Tecnológico",
+    "cycle": "Ciclo IX"
+  },
+  {
+    "name": "Cursos de Pensamiento Crítico",
+    "cycle": "Ciclo IX"
+  },
+  {
+    "name": "Cursos de Procesos Sociales",
+    "cycle": "Ciclo IX"
+  },
+  {
+    "name": "Ética",
+    "cycle": "Ciclo X"
+  },
+  {
+    "name": "Proyección Social",
+    "cycle": "Ciclo X"
+  },
+  {
+    "name": "Trabajo Final de Ingeniería Empresarial",
+    "cycle": "Ciclo X"
+  }
+]

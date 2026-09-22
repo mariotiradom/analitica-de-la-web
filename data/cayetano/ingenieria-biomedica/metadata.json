@@ -1,0 +1,12 @@
+{
+  "source": "universidad_peruana_cayetano_heredia",
+  "career": "Ingeniería Biomédica",
+  "page_url": "https://cayetano.edu.pe/pregrado/carreras/ingenieria-biomedica",
+  "brochure_url": "https://upch-repo-comercial.s3.dualstack.us-east-1.amazonaws.com/brochures/br_biomedica.pdf",
+  "captured_at": "2026-09-22T04:21:52.363800+00:00",
+  "files": {
+    "html": "data/cayetano/ingenieria-biomedica/source.html",
+    "courses": "data/cayetano/ingenieria-biomedica/courses.json"
+  },
+  "course_count": 69
+}

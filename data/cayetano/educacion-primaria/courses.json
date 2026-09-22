@@ -1,0 +1,337 @@
+[
+  {
+    "name": "DESARROLLO PERSONAL Y COMUNICACIÓN ASERTIVA",
+    "cycle": "Ciclo 1",
+    "modality": null
+  },
+  {
+    "name": "FILOSOFÍA E HISTORIA DE LA EDUCACIÓN",
+    "cycle": "Ciclo 1",
+    "modality": null
+  },
+  {
+    "name": "COMUNICACIÓN Y REDACCIÓN I",
+    "cycle": "Ciclo 1",
+    "modality": null
+  },
+  {
+    "name": "ESTRATEGIAS PARA EL APRENDIZAJE AUTÓNOMO",
+    "cycle": "Ciclo 1",
+    "modality": null
+  },
+  {
+    "name": "MATEMÁTICAS BÁSICAS",
+    "cycle": "Ciclo 1",
+    "modality": null
+  },
+  {
+    "name": "CIENCIAS SOCIALES",
+    "cycle": "Ciclo 1",
+    "modality": null
+  },
+  {
+    "name": "FILOSOFÍA",
+    "cycle": "Ciclo 1",
+    "modality": null
+  },
+  {
+    "name": "COMUNICACIÓN Y REDACCIÓN II",
+    "cycle": "Ciclo 2",
+    "modality": null
+  },
+  {
+    "name": "REALIDAD PERUANA, CIUDADANÍA Y GLOBALIZACIÓN",
+    "cycle": "Ciclo 2",
+    "modality": null
+  },
+  {
+    "name": "ÉTICA",
+    "cycle": "Ciclo 2",
+    "modality": null
+  },
+  {
+    "name": "TÉCNICAS BÁSICAS EN ATENCIÓN DE SALUD",
+    "cycle": "Ciclo 2",
+    "modality": null
+  },
+  {
+    "name": "BASES BIOLÓGICAS Y AMBIENTALES DE LA SALUD",
+    "cycle": "Ciclo 2",
+    "modality": null
+  },
+  {
+    "name": "PSICOLOGÍA",
+    "cycle": "Ciclo 2",
+    "modality": null
+  },
+  {
+    "name": "INFORMÁTICA",
+    "cycle": "Ciclo 2",
+    "modality": null
+  },
+  {
+    "name": "LENGUAJE ARTÍSTICO",
+    "cycle": "Ciclo 3",
+    "modality": null
+  },
+  {
+    "name": "SALUD Y DESARROLLO BIOLÓGICO DEL NIÑO",
+    "cycle": "Ciclo 3",
+    "modality": null
+  },
+  {
+    "name": "EDUCACIÓN AMBIENTAL Y DESARROLLO SOSTENIBLE",
+    "cycle": "Ciclo 3",
+    "modality": null
+  },
+  {
+    "name": "INTERCULTURALIDAD Y EDUCACIÓN",
+    "cycle": "Ciclo 3",
+    "modality": null
+  },
+  {
+    "name": "PARADIGMAS, ENFOQUES Y MODELOS EDUCATIVOS",
+    "cycle": "Ciclo 3",
+    "modality": null
+  },
+  {
+    "name": "DESARROLLO DE LA CURIOSIDAD Y LA INDAGACIÓN",
+    "cycle": "Ciclo 3",
+    "modality": null
+  },
+  {
+    "name": "ASIGNATURA COMPLEMENTARIA OBLIGATORIA: INGLÉS BÁSICO INICIAL",
+    "cycle": "Ciclo 3",
+    "modality": null
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA I",
+    "cycle": "Ciclo 3",
+    "modality": null
+  },
+  {
+    "name": "TEORÍAS CONTEMPORÁNEAS DEL APRENDIZAJE",
+    "cycle": "Ciclo 4",
+    "modality": null
+  },
+  {
+    "name": "SOCIOLOGÍA DE LA EDUCACIÓN",
+    "cycle": "Ciclo 4",
+    "modality": null
+  },
+  {
+    "name": "PROBLEMAS, POLÍTICAS EDUCATIVAS Y PERSPECTIVAS EN LA EDUCACIÓN PRIMARIA",
+    "cycle": "Ciclo 4",
+    "modality": null
+  },
+  {
+    "name": "ENSEÑANZA DE LA LECTO ESCRITURA Y LA COMUNICACIÓN",
+    "cycle": "Ciclo 4",
+    "modality": null
+  },
+  {
+    "name": "APRENDIZAJE A TRAVÉS DE LAS CIENCIAS EN PRIMARIA",
+    "cycle": "Ciclo 4",
+    "modality": null
+  },
+  {
+    "name": "NEUROCIENCIA Y EDUCACIÓN",
+    "cycle": "Ciclo 4",
+    "modality": null
+  },
+  {
+    "name": "ASIGNATURA COMPLEMENTARIA OBLIGATORIA: INGLÉS BÁSICO ELEMENTAL",
+    "cycle": "Ciclo 4",
+    "modality": null
+  },
+  {
+    "name": "TEORÍA Y DISEÑO DEL CURRÍCULO",
+    "cycle": "Ciclo 5",
+    "modality": null
+  },
+  {
+    "name": "ARTE Y PSICOMOTRICIDAD",
+    "cycle": "Ciclo 5",
+    "modality": null
+  },
+  {
+    "name": "GESTIÓN DE FUENTES Y EVIDENCIAS CIENTÍFICAS",
+    "cycle": "Ciclo 5",
+    "modality": null
+  },
+  {
+    "name": "PENSAMIENTO LÓGICO MATEMÁTICO Y SU DIDÁCTICA",
+    "cycle": "Ciclo 5",
+    "modality": null
+  },
+  {
+    "name": "MÉTODO CIENTÍFICO EN EL AULA",
+    "cycle": "Ciclo 5",
+    "modality": null
+  },
+  {
+    "name": "VISITA PEDAGÓGICA 1",
+    "cycle": "Ciclo 5",
+    "modality": null
+  },
+  {
+    "name": "ASIGNATURA COMPLEMENTARIA OBLIGATORIA: INGLÉS PRE INTERMEDIO",
+    "cycle": "Ciclo 5",
+    "modality": null
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA II",
+    "cycle": "Ciclo 5",
+    "modality": null
+  },
+  {
+    "name": "PLANIFICACIÓN Y EVALUACIÓN DEL APRENDIZAJE",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "ENSEÑANZA DE LAS CIENCIAS SOCIALES",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "CONSTRUCCIÓN Y VALIDACIÓN DE INSTRUMENTOS PARA LA INVESTIGACIÓN EDUCATIVA",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "ARTE Y EDUCACIÓN",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "APRENDIZAJE BASADO EN PROYECTOS",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "ASIGNATURA COMPLEMENTARIA OBLIGATORIA: INGLÉS INTERMEDIO",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "ASIGNATURA ELECTIVA I",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA III",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "GESTIÓN Y LIDERAZGO DE INSTITUCIONES EDUCATIVAS",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "NEURODIVERSIDAD Y NECESIDADES EDUCATIVAS ESPECIALES",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "METODOLOGÍA DE INVESTIGACIÓN",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "CREACIÓN Y APLICACIÓN DE SOFTWARE EDUCATIVOS",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "VISITA PEDAGÓGICA 2",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "ASIGNATURA ELECTIVA II",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "ASIGNATURA ELECTIVA III",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA IV",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "ESTADÍSTICA PARA EDUCADORES",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "DISEÑO DE PROYECTOS DE INVESTIGACIÓN",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "TRABAJO CON PADRES DE FAMILIA Y COMUNIDAD",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "EVALUACIÓN EDUCATIVA",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "ORIENTACIÓN Y TUTORÍA EN EDUCACIÓN PRIMARIA",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "VISITA PEDAGÓGICA 3",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "ASIGNATURA ELECTIVA IV",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "SISTEMATIZACIÓN DE EXPERIENCIAS EDUCATIVAS",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "SALUD Y BIENESTAR DEL DOCENTE",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "SEMINARIO DE TESIS I",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "PRACTICA PRE PROFESIONAL 1",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "SEMINARIO DE TESIS II",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "PRACTICA PRE PROFESIONAL 2",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "GESTIÓN ESTRATÉGICA",
+    "cycle": null,
+    "modality": null
+  }
+]

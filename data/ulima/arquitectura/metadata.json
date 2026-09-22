@@ -1,0 +1,12 @@
+{
+  "source": "universidad_de_lima",
+  "career": "Arquitectura",
+  "catalog_url": "https://www.ulima.edu.pe/pregrado",
+  "pdf_url": "https://www.ulima.edu.pe/sites/default/files/2026-02/malla_arquitectura_2026_1.pdf",
+  "captured_at": "2026-09-22T05:08:43.883629+00:00",
+  "files": {
+    "pdf": "data/ulima/arquitectura/malla.pdf"
+  },
+  "content_type": "application/pdf",
+  "size_bytes": 10372621
+}

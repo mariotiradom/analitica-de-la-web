@@ -1,0 +1,158 @@
+{
+  "source": "universidad_peruana_cayetano_heredia",
+  "catalog_url": "https://cayetano.edu.pe/pregrado/carreras/",
+  "catalog_pages": [
+    "https://cayetano.edu.pe/pregrado/carreras/",
+    "https://cayetano.edu.pe/pregrado/carreras/?query-0-page=2",
+    "https://cayetano.edu.pe/pregrado/carreras/?query-0-page=3"
+  ],
+  "captured_at": "2026-09-22T04:22:14.090570+00:00",
+  "career_count": 29,
+  "careers": [
+    {
+      "name": "Administración",
+      "url": "https://cayetano.edu.pe/pregrado/carreras/administracion",
+      "course_count": 0
+    },
+    {
+      "name": "Administración en Salud",
+      "url": "https://cayetano.edu.pe/pregrado/carreras/administracion-en-salud",
+      "course_count": 0
+    },
+    {
+      "name": "Administración en Salud PGE",
+      "url": "https://cayetano.edu.pe/pregrado/carreras/administracion-en-salud-pge",
+      "course_count": 63
+    },
+    {
+      "name": "Biología",
+      "url": "https://cayetano.edu.pe/pregrado/carreras/biologia",
+      "course_count": 51
+    },
+    {
+      "name": "Educación",
+      "url": "https://cayetano.edu.pe/pregrado/carreras/educacion",
+      "course_count": 0
+    },
+    {
+      "name": "Educación Inicial",
+      "url": "https://cayetano.edu.pe/pregrado/carreras/educacion-inicial",
+      "course_count": 68
+    },
+    {
+      "name": "Educación PGE",
+      "url": "https://cayetano.edu.pe/pregrado/carreras/educacion-pge",
+      "course_count": 64
+    },
+    {
+      "name": "Educación Primaria",
+      "url": "https://cayetano.edu.pe/pregrado/carreras/educacion-primaria",
+      "course_count": 67
+    },
+    {
+      "name": "Enfermería",
+      "url": "https://cayetano.edu.pe/pregrado/carreras/enfermeria",
+      "course_count": 46
+    },
+    {
+      "name": "Enfermería PGE",
+      "url": "https://cayetano.edu.pe/pregrado/carreras/enfermeria-pge",
+      "course_count": 46
+    },
+    {
+      "name": "Estomatología",
+      "url": "https://cayetano.edu.pe/pregrado/carreras/estomatologia",
+      "course_count": 78
+    },
+    {
+      "name": "Farmacia y Bioquímica",
+      "url": "https://cayetano.edu.pe/pregrado/carreras/farmacia-y-bioquimica",
+      "course_count": 61
+    },
+    {
+      "name": "Gestión de Desarrollo Global",
+      "url": "https://cayetano.edu.pe/pregrado/carreras/gestion-del-desarrollo-global",
+      "course_count": 0
+    },
+    {
+      "name": "Ingeniería Ambiental",
+      "url": "https://cayetano.edu.pe/pregrado/carreras/ingenieria-ambiental",
+      "course_count": 66
+    },
+    {
+      "name": "Ingeniería Biomédica",
+      "url": "https://cayetano.edu.pe/pregrado/carreras/ingenieria-biomedica",
+      "course_count": 69
+    },
+    {
+      "name": "Ingeniería Industrial",
+      "url": "https://cayetano.edu.pe/pregrado/carreras/ingenieria-industrial",
+      "course_count": 0
+    },
+    {
+      "name": "Ingeniería Informática",
+      "url": "https://cayetano.edu.pe/pregrado/carreras/ingenieria-informatica",
+      "course_count": 70
+    },
+    {
+      "name": "Laboratorio Clínico y Anatomía Patológica",
+      "url": "https://cayetano.edu.pe/pregrado/carreras/laboratorio-clinico-y-anatomia-patologica",
+      "course_count": 60
+    },
+    {
+      "name": "Medicina",
+      "url": "https://cayetano.edu.pe/pregrado/carreras/medicina",
+      "course_count": 70
+    },
+    {
+      "name": "Medicina Veterinaria y Zootecnia",
+      "url": "https://cayetano.edu.pe/pregrado/carreras/medicina-veterinaria-y-zootecnia",
+      "course_count": 72
+    },
+    {
+      "name": "Nutrición",
+      "url": "https://cayetano.edu.pe/pregrado/carreras/nutricion",
+      "course_count": 64
+    },
+    {
+      "name": "Psicología",
+      "url": "https://cayetano.edu.pe/pregrado/carreras/psicologia",
+      "course_count": 87
+    },
+    {
+      "name": "Psicología PGE",
+      "url": "https://cayetano.edu.pe/pregrado/carreras/psicologia-pge",
+      "course_count": 88
+    },
+    {
+      "name": "Química",
+      "url": "https://cayetano.edu.pe/pregrado/carreras/quimica",
+      "course_count": 0
+    },
+    {
+      "name": "Radiología",
+      "url": "https://cayetano.edu.pe/pregrado/carreras/radiologia",
+      "course_count": 67
+    },
+    {
+      "name": "Salud Pública y Salud Global",
+      "url": "https://cayetano.edu.pe/pregrado/carreras/salud-publica-y-salud-global",
+      "course_count": 0
+    },
+    {
+      "name": "Terapia de Lenguaje",
+      "url": "https://cayetano.edu.pe/pregrado/carreras/terapia-de-audicion-voz-y-lenguaje",
+      "course_count": 58
+    },
+    {
+      "name": "Terapia Física y Rehabilitación",
+      "url": "https://cayetano.edu.pe/pregrado/carreras/terapia-fisica-y-rehabilitacion",
+      "course_count": 58
+    },
+    {
+      "name": "Terapia Ocupacional",
+      "url": "https://cayetano.edu.pe/pregrado/carreras/terapia-ocupacional",
+      "course_count": 60
+    }
+  ]
+}

@@ -1,0 +1,337 @@
+[
+  {
+    "name": "TÉCNICAS BÁSICAS EN ATENCIÓN DE SALUD",
+    "cycle": "Ciclo 1.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "ELEMENTOS DE QUÍMICA",
+    "cycle": "Ciclo 1.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "MATEMÁTICAS BÁSICAS",
+    "cycle": "Ciclo 1.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "INTRODUCCIÓN A LA RADIOLOGÍA",
+    "cycle": "Ciclo 1.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "FILOSOFÍA Y ÉTICA",
+    "cycle": "Ciclo 1.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "DESARROLLO PERSONAL Y",
+    "cycle": "Ciclo 1.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "AUTONOMIA",
+    "cycle": "Ciclo 1.° CICLO:",
+    "modality": "SP"
+  },
+  {
+    "name": "COMUNICACIÓN Y REDACCIÓN I",
+    "cycle": "Ciclo 1.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "INGLÉS 1",
+    "cycle": "Ciclo 1.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "FUNDAMENTOS DE QUÍMICA ORGÁNICA",
+    "cycle": "Ciclo 2.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "BIOLOGÍA GENERAL",
+    "cycle": "Ciclo 2.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "FÍSICA BÁSICA",
+    "cycle": "Ciclo 2.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "COMUNICACIÓN Y REDACCIÓN II",
+    "cycle": "Ciclo 2.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "CULTURA AMBIENTAL Y DESARROLLO SOSTENIBLE",
+    "cycle": "Ciclo 2.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "PENSAMIENTO CIENTÍFICO E INVESTIGACIÓN",
+    "cycle": "Ciclo 2.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "CIENCIAS SOCIALES EN EL CONTEXTO ACTUAL",
+    "cycle": "Ciclo 2.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "INGLÉS 2",
+    "cycle": "Ciclo 2.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "FUNDAMENTOS DE MORFOFISIOLOGÍA",
+    "cycle": "Ciclo 3.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "MORFOFISIOLOGÍA MUSCULOESQUELÉTICA, DE CABEZA Y CUELLO Y DEL SISTEMA REPRODUCTOR",
+    "cycle": "Ciclo 3.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "FÍSICA DE LAS RADIACIONES",
+    "cycle": "Ciclo 3.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "TERMINOLOGÍA EN SALUD",
+    "cycle": "Ciclo 3.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA I",
+    "cycle": "Ciclo 3.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "INGLÉS 3",
+    "cycle": "Ciclo 3.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "ANATOMÍA RADIOLÓGICA",
+    "cycle": "Ciclo 4.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "ESTADÍSTICA",
+    "cycle": "Ciclo 4.° CICLO:",
+    "modality": "SP"
+  },
+  {
+    "name": "FISIOPATOLOGÍA GENERAL",
+    "cycle": "Ciclo 4.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "RADIOBIOLOGÍA Y PROTECCIÓN RADIOLÓGICA",
+    "cycle": "Ciclo 4.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "INSTRUMENTACIÓN Y EQUIPOS EN DIAGNÓSTICO POR IMÁGENES",
+    "cycle": "Ciclo 4.° CICLO:",
+    "modality": "SP"
+  },
+  {
+    "name": "PRODUCCIÓN Y TRATAMIENTO DE IMÁGENES MÉDICAS",
+    "cycle": "Ciclo 4.° CICLO:",
+    "modality": "SP"
+  },
+  {
+    "name": "INGLÉS 4",
+    "cycle": "Ciclo 4.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "SEMIOLOGÍA RADIOLÓGICA",
+    "cycle": "Ciclo 5.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "TECNOLOGÍA EN DIAGNÓSTICO POR IMÁGENES CON RADIACIONES",
+    "cycle": "Ciclo 5.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "IONIZANTES – RADIODIAGNÓSTICO",
+    "cycle": "Ciclo 5.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "GESTIÓN INTEGRAL DE IMÁGENES MÉDICAS",
+    "cycle": "Ciclo 5.° CICLO:",
+    "modality": "SP"
+  },
+  {
+    "name": "PRINCIPIOS DE FARMACOLOGÍA EN RADIOLOGÍA",
+    "cycle": "Ciclo 5.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "ASIGNATURA ELECTIVA I",
+    "cycle": "Ciclo 5.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA II",
+    "cycle": "Ciclo 5.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "TECNOLOGÍA EN RADIOLOGÍA VASCULAR, INTERVENCIONISTA, HEMODINAMIA Y ELECTROFISIOLOGÍA",
+    "cycle": "Ciclo 6.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "MANEJO DE RADIOISÓTOPOS",
+    "cycle": "Ciclo 6.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "TECNOLOGÍA EN DIAGNÓSTICO POR IMÁGENES CON RADIACIONES NO IONIZANTES – ULTRASONIDO",
+    "cycle": "Ciclo 6.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "CONTROL DE CALIDAD EN RADIOLOGÍA",
+    "cycle": "Ciclo 6.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "TECHNOVIGILANCE",
+    "cycle": "Ciclo 6.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "ASIGNATURA ELECTIVA II",
+    "cycle": "Ciclo 6.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA III",
+    "cycle": "Ciclo 6.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "METODOLOGÍA DE LA INVESTIGACIÓN",
+    "cycle": "Ciclo 7.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "ÉTICA Y DEONTOLÓGIA",
+    "cycle": "Ciclo 7.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "DOSIMETRÍA CLÍNICA",
+    "cycle": "Ciclo 7.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "SIMULACIÓN EN RADIOTERAPIA",
+    "cycle": "Ciclo 7.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "TECNOLOGÍA EN DIAGNÓSTICO POR IMÁGENES CON RADIACIONES IONIZANTES – TOMOGRAFÍA COMPUTARIZADA",
+    "cycle": "Ciclo 7.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "TECNOLOGÍA EN MEDICINA NUCLEAR",
+    "cycle": "Ciclo 7.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA IV",
+    "cycle": "Ciclo 7.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "EPIDEMIOLOGÍA Y SALUD PÚBLICA",
+    "cycle": "Ciclo 8.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "LEGISLACIÓN EN SALUD",
+    "cycle": "Ciclo 8.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "TALLER DE DISEÑO DE PROYECTO DE INVESTIGACIÓN",
+    "cycle": "Ciclo 8.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "GESTIÓN Y ADMINISTRACIÓN EN SERVICIOS DE SALUD",
+    "cycle": "Ciclo 8.° CICLO:",
+    "modality": "SP"
+  },
+  {
+    "name": "TECNOLOGÍA EN DIAGNÓSTICOPOR IMÁGENES CON RADIACIONES NO IONIZANTES – RESONANCIA MAGNÉTICA",
+    "cycle": "Ciclo 8.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "TECNOLOGÍA EN RADIOTERAPIA",
+    "cycle": "Ciclo 8.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "ASIGNATURA ELECTIVA III",
+    "cycle": "Ciclo 8.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "PRÁCTICA CLÍNICA EN TECNOLOGÍA EN DIAGNÓSTICO POR IMÁGENES CON RADIACIONES IONIZANTES – RADIODIAGNÓSTICO GENERAL",
+    "cycle": "Ciclo 9.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "PRÁCTICA CLÍNICA EN TECNOLOGÍA EN DIAGNÓSTICO POR IMÁGENES CON RADIACIONES IONIZANTES – RADIODIAGNÓSTICO ESPECIAL",
+    "cycle": "Ciclo 9.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "PRÁCTICA CLÍNICA EN TECNOLOGÍA EN RADIOLOGÍA VASCULAR, INTERVENCIONISTA, HEMODINAMIA Y ELECTROFISIOLOGÍA",
+    "cycle": "Ciclo 9.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "PRÁCTICA CLÍNICA EN TECNOLOGÍA EN DIAGNÓSTICO POR IMÁGENES CON RADIACIONES IONIZANTES – TOMOGRAFÍA COMPUTARIZADA",
+    "cycle": "Ciclo 9.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "TRABAJO DE INVESTIGACIÓN",
+    "cycle": "Ciclo 10.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "PRÁCTICA CLÍNICA EN TECNOLOGÍA EN DIAGNÓSTICO POR IMÁGENES CON RADIACIONES NO IONIZANTES – RESONANCIA MAGNÉTICA",
+    "cycle": "Ciclo 10.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "PRÁCTICA CLÍNICA EN TECNOLOGÍA EN DIAGNÓSTICO POR IMÁGENES CON RADIACIONES NO IONIZANTES – ULTRASONIDO",
+    "cycle": "Ciclo 10.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "PRÁCTICA CLÍNICA EN TECNOLOGÍA EN MEDICINA NUCLEAR",
+    "cycle": "Ciclo 10.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "PRÁCTICA CLÍNICA EN TECNOLOGÍA EN RADIOTERAPIA",
+    "cycle": "Ciclo 10.° CICLO:",
+    "modality": "P"
+  }
+]

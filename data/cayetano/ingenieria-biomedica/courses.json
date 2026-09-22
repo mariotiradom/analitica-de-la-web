@@ -1,0 +1,347 @@
+[
+  {
+    "name": "Introducción a Ingeniería Biomédica",
+    "cycle": "Ciclo 1",
+    "modality": null
+  },
+  {
+    "name": "Comunicación y Redacción 2",
+    "cycle": "Ciclo 1",
+    "modality": null
+  },
+  {
+    "name": "Filosofía y Ética",
+    "cycle": "Ciclo 1",
+    "modality": null
+  },
+  {
+    "name": "Inglés 1",
+    "cycle": "Ciclo 1",
+    "modality": null
+  },
+  {
+    "name": "Fundamentos de cálculo",
+    "cycle": "Ciclo 1",
+    "modality": null
+  },
+  {
+    "name": "Álgebra matricial y geometría analítica",
+    "cycle": "Ciclo 1",
+    "modality": null
+  },
+  {
+    "name": "Fundamentos de programación",
+    "cycle": "Ciclo 1",
+    "modality": null
+  },
+  {
+    "name": "Física para ingeniería 1",
+    "cycle": "Ciclo 2",
+    "modality": null
+  },
+  {
+    "name": "Cultura ambiental y desarrollo sostenible",
+    "cycle": "Ciclo 2",
+    "modality": null
+  },
+  {
+    "name": "Ciencias sociales en el contexto actual",
+    "cycle": "Ciclo 2",
+    "modality": null
+  },
+  {
+    "name": "Inglés 2",
+    "cycle": "Ciclo 2",
+    "modality": null
+  },
+  {
+    "name": "Química General",
+    "cycle": "Ciclo 2",
+    "modality": null
+  },
+  {
+    "name": "Cálculo diferencial para ingeniería",
+    "cycle": "Ciclo 2",
+    "modality": null
+  },
+  {
+    "name": "Actividad complementaria",
+    "cycle": "Ciclo 2",
+    "modality": null
+  },
+  {
+    "name": "Procesos de Innovación en ingeniería",
+    "cycle": "Ciclo 2",
+    "modality": null
+  },
+  {
+    "name": "Química Orgánica",
+    "cycle": "Ciclo 3",
+    "modality": null
+  },
+  {
+    "name": "Física para ingeniería 2",
+    "cycle": "Ciclo 3",
+    "modality": null
+  },
+  {
+    "name": "Inglés 3",
+    "cycle": "Ciclo 3",
+    "modality": null
+  },
+  {
+    "name": "Cálculo integral para ingeniería",
+    "cycle": "Ciclo 3",
+    "modality": null
+  },
+  {
+    "name": "Programación avanzada",
+    "cycle": "Ciclo 3",
+    "modality": null
+  },
+  {
+    "name": "Morfofisiología",
+    "cycle": "Ciclo 3",
+    "modality": null
+  },
+  {
+    "name": "Inglés 4",
+    "cycle": "Ciclo 4",
+    "modality": null
+  },
+  {
+    "name": "Cálculo vectorial para ingeniería",
+    "cycle": "Ciclo 4",
+    "modality": null
+  },
+  {
+    "name": "Electrónica básica",
+    "cycle": "Ciclo 4",
+    "modality": null
+  },
+  {
+    "name": "Bioquímica",
+    "cycle": "Ciclo 4",
+    "modality": null
+  },
+  {
+    "name": "Morfofisiología 2",
+    "cycle": "Ciclo 4",
+    "modality": null
+  },
+  {
+    "name": "Electrostática y electromagnetismo",
+    "cycle": "Ciclo 4",
+    "modality": null
+  },
+  {
+    "name": "Fundamentos de fabricación digital",
+    "cycle": "Ciclo 4",
+    "modality": null
+  },
+  {
+    "name": "Actividad complementaria 2",
+    "cycle": "Ciclo 5",
+    "modality": null
+  },
+  {
+    "name": "Circuitos electrónicos",
+    "cycle": "Ciclo 5",
+    "modality": null
+  },
+  {
+    "name": "Bioestadística",
+    "cycle": "Ciclo 5",
+    "modality": null
+  },
+  {
+    "name": "Diseño en ingeniería",
+    "cycle": "Ciclo 5",
+    "modality": null
+  },
+  {
+    "name": "Instrumentación biomédica",
+    "cycle": "Ciclo 5",
+    "modality": null
+  },
+  {
+    "name": "Tratamiento digital de señales",
+    "cycle": "Ciclo 5",
+    "modality": null
+  },
+  {
+    "name": "Ciencia e ingeniería de materiales",
+    "cycle": "Ciclo 5",
+    "modality": null
+  },
+  {
+    "name": "Molecular biology for engineers",
+    "cycle": "Ciclo 5",
+    "modality": null
+  },
+  {
+    "name": "Fisiopatología",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Proyectos de Ingeniería 1",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Ingeniería clínica 1",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Procesamiento de señales biomédicas",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Artificial intelligence in healthcare",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Fundamentos de biomecánica",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Biomateriales",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Actividad complementaria 3",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Proyectos de Ingeniería 2",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Normas y regulaciones en bioingeniería",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Ingeniería clínica 2",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Fundamentos of tiny machine learning",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Teoría de control",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Mecánica y transporte de fluidos",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Ingeniería de tejidos",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Desarrollo profesional",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Modelo de negocios en ingeniería biomédica",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Gestión del ciclo de vida de dispositivos médicos",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Mantenimiento de equipos médicos",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Computer vision for biomedicalimaging",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Mecánica de los biomateriales (Virtual)",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Proyecto de Tesis en Ingeniería",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Health technology assessment",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Arquitectura e Ingeniería Hospitalaria",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "IA generativa y LLMS en salud",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Ingeniería de Rehabilitación",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Electivo 1",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Actividad complementaria 4",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Trabajo de investigación",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Equipos de soporte vital",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Electivo 2",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Electivo 3",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Electivo 4",
+    "cycle": null,
+    "modality": null
+  }
+]

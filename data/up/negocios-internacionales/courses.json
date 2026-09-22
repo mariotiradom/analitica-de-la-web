@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Nivelación en Lenguaje",
+    "cycle": "Ciclo 0"
+  },
+  {
+    "name": "Nivelación en Matemáticas",
+    "cycle": "Ciclo 0"
+  },
+  {
+    "name": "Nivelación en Informática",
+    "cycle": "Ciclo 0"
+  },
+  {
+    "name": "Matemáticas I",
+    "cycle": "Ciclo I"
+  },
+  {
+    "name": "Fundamentos de Contabilidad",
+    "cycle": "Ciclo I"
+  },
+  {
+    "name": "Lenguaje I",
+    "cycle": "Ciclo I"
+  },
+  {
+    "name": "Economía General I",
+    "cycle": "Ciclo I"
+  },
+  {
+    "name": "Fundamentos de las Ciencias Empresariales",
+    "cycle": "Ciclo I"
+  },
+  {
+    "name": "Matemáticas para los Negocios",
+    "cycle": "Ciclo II"
+  },
+  {
+    "name": "Contabilidad Financiera Intermedia",
+    "cycle": "Ciclo II"
+  },
+  {
+    "name": "Lenguaje II",
+    "cycle": "Ciclo II"
+  },
+  {
+    "name": "Economía General II",
+    "cycle": "Ciclo II"
+  },
+  {
+    "name": "Cursos de Ciencias Sociales",
+    "cycle": "Ciclo II"
+  },
+  {
+    "name": "Estadística I",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Contabilidad para la Toma de Decisiones",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Diseño Organizacional y Estrategia",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Cursos de Desarrollo Personal",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Cursos de Pensamiento Crítico",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Analítica de Datos para los Negocios",
+    "cycle": "Ciclo IV"
+  },
+  {
+    "name": "Marketing Estratégico",
+    "cycle": "Ciclo IV"
+  },
+  {
+    "name": "Fundamentos de Finanzas",
+    "cycle": "Ciclo IV"
+  },
+  {
+    "name": "Teoría del Comercio Internacional y Proceso de Integración",
+    "cycle": "Ciclo IV"
+  },
+  {
+    "name": "Cursos de Procesos Sociales",
+    "cycle": "Ciclo IV"
+  },
+  {
+    "name": "Análisis Multivariado para los Negocios",
+    "cycle": "Ciclo V"
+  },
+  {
+    "name": "Investigación de Mercados",
+    "cycle": "Ciclo V"
+  },
+  {
+    "name": "Finanzas Corporativas I",
+    "cycle": "Ciclo V"
+  },
+  {
+    "name": "Fundamentos Económicos y Organizacionales para los Negocios",
+    "cycle": "Ciclo V"
+  },
+  {
+    "name": "Investigación Académica",
+    "cycle": "Ciclo V"
+  },
+  {
+    "name": "Cursos de Procesos Sociales",
+    "cycle": "Ciclo V"
+  },
+  {
+    "name": "Sistemas de Información y Análisis de Datos",
+    "cycle": "Ciclo VI"
+  },
+  {
+    "name": "Innovación y Gestión en Negocios Digitales",
+    "cycle": "Ciclo VI"
+  },
+  {
+    "name": "International Finance",
+    "cycle": "Ciclo VI"
+  },
+  {
+    "name": "Administración del Comercio Internacional",
+    "cycle": "Ciclo VI"
+  },
+  {
+    "name": "Gestión Sostenible de la Oferta Exportable",
+    "cycle": "Ciclo VI"
+  },
+  {
+    "name": "International Affairs",
+    "cycle": "Ciclo VII"
+  },
+  {
+    "name": "Logística Internacional",
+    "cycle": "Ciclo VII"
+  },
+  {
+    "name": "Dirección Internacional de Empresas",
+    "cycle": "Ciclo VII"
+  },
+  {
+    "name": "Derecho para los Negocios Internacionales",
+    "cycle": "Ciclo VII"
+  },
+  {
+    "name": "Cursos de Pensamiento Crítico",
+    "cycle": "Ciclo VII"
+  },
+  {
+    "name": "Dirección Estratégica",
+    "cycle": "Ciclo VIII"
+  },
+  {
+    "name": "Gestión de Mercados Globales",
+    "cycle": "Ciclo VIII"
+  },
+  {
+    "name": "Cross Cultural & International Management",
+    "cycle": "Ciclo VIII"
+  },
+  {
+    "name": "Negociaciones Comerciales Internacionales",
+    "cycle": "Ciclo VIII"
+  },
+  {
+    "name": "Cursos de Introducción al Quehacer Científico",
+    "cycle": "Ciclo VIII"
+  },
+  {
+    "name": "Investigación Aplicada en Negocios Internacionales",
+    "cycle": "Ciclo IX"
+  },
+  {
+    "name": "Estrategias de Internacionalización",
+    "cycle": "Ciclo IX"
+  },
+  {
+    "name": "International Human Resources Management",
+    "cycle": "Ciclo IX"
+  },
+  {
+    "name": "Proyección Social",
+    "cycle": "Ciclo IX"
+  },
+  {
+    "name": "International Business Plan",
+    "cycle": "Ciclo X"
+  },
+  {
+    "name": "Ética",
+    "cycle": "Ciclo X"
+  }
+]

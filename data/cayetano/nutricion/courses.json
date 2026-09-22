@@ -1,0 +1,322 @@
+[
+  {
+    "name": "MATEMÁTICAS I",
+    "cycle": "Ciclo 1",
+    "modality": "P"
+  },
+  {
+    "name": "BIOLOGÍA I",
+    "cycle": "Ciclo 1",
+    "modality": "P"
+  },
+  {
+    "name": "QUÍMICA I",
+    "cycle": "Ciclo 1",
+    "modality": "P"
+  },
+  {
+    "name": "INTRODUCCIÓN A LA ALIMENTACIÓN Y NUTRICIÓN",
+    "cycle": "Ciclo 1",
+    "modality": "NP"
+  },
+  {
+    "name": "CIENCIAS SOCIALES",
+    "cycle": "Ciclo 1",
+    "modality": "NP"
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA I",
+    "cycle": "Ciclo 1",
+    "modality": "P"
+  },
+  {
+    "name": "INGLÉS 1",
+    "cycle": "Ciclo 1",
+    "modality": "NP"
+  },
+  {
+    "name": "QUÍMICA II",
+    "cycle": "Ciclo 2",
+    "modality": "P"
+  },
+  {
+    "name": "MATEMÁTICAS II",
+    "cycle": "Ciclo 2",
+    "modality": "P"
+  },
+  {
+    "name": "EVALUACIÓN Y NUTRICIÓN POR ETAPAS DE VIDA I",
+    "cycle": "Ciclo 2",
+    "modality": "P"
+  },
+  {
+    "name": "COMUNICACIÓN Y REDACCIÓN II",
+    "cycle": "Ciclo 2",
+    "modality": "NP"
+  },
+  {
+    "name": "FILOSOFÍA Y ÉTICA",
+    "cycle": "Ciclo 2",
+    "modality": "NP"
+  },
+  {
+    "name": "CULTURA AMBIENTAL Y DESARROLLO SOSTENIBLE",
+    "cycle": "Ciclo 2",
+    "modality": "NP"
+  },
+  {
+    "name": "INGLÉS 2",
+    "cycle": "Ciclo 2",
+    "modality": "NP"
+  },
+  {
+    "name": "QUÍMICA ORGÁNICA",
+    "cycle": "Ciclo 3",
+    "modality": "P"
+  },
+  {
+    "name": "FÍSICA I",
+    "cycle": "Ciclo 3",
+    "modality": "P"
+  },
+  {
+    "name": "ESTADÍSTICA Y PROBABILIDADES",
+    "cycle": "Ciclo 3",
+    "modality": "P"
+  },
+  {
+    "name": "EVALUACIÓN Y NUTRICIÓN POR ETAPAS DE VIDA II",
+    "cycle": "Ciclo 3",
+    "modality": "P"
+  },
+  {
+    "name": "HISTORIA DEL PENSAMIENTO CIENTÍFICO",
+    "cycle": "Ciclo 3",
+    "modality": "P"
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA II",
+    "cycle": "Ciclo 3",
+    "modality": "P"
+  },
+  {
+    "name": "INGLÉS 3",
+    "cycle": "Ciclo 3",
+    "modality": "NP"
+  },
+  {
+    "name": "INVESTIGACIÓN CIENTÍFICA",
+    "cycle": "Ciclo 4",
+    "modality": "P"
+  },
+  {
+    "name": "ANTROPOLOGÍA Y SOCIOLOGÍA ALIMENTARIA",
+    "cycle": "Ciclo 4",
+    "modality": "P"
+  },
+  {
+    "name": "ECONOMÍA Y POLÍTICAS",
+    "cycle": "Ciclo 4",
+    "modality": null
+  },
+  {
+    "name": "ALIMENTARIAS",
+    "cycle": "Ciclo 4",
+    "modality": "NP"
+  },
+  {
+    "name": "PSICOLOGÍA DE LA ALIMENTACIÓN Y TRASTORNOS DE LA CONDUCTA ALIMENTARIA",
+    "cycle": "Ciclo 4",
+    "modality": "NP"
+  },
+  {
+    "name": "ANATOMÍA HUMANA",
+    "cycle": "Ciclo 4",
+    "modality": "P"
+  },
+  {
+    "name": "FÍSICOQUÍMICA",
+    "cycle": "Ciclo 4",
+    "modality": "P"
+  },
+  {
+    "name": "INGLÉS 4",
+    "cycle": "Ciclo 4",
+    "modality": "NP"
+  },
+  {
+    "name": "BIOQUÍMICA",
+    "cycle": "Ciclo 5",
+    "modality": "P"
+  },
+  {
+    "name": "TÉCNICA DIETÉTICA Y CULINARIA",
+    "cycle": "Ciclo 5",
+    "modality": "P"
+  },
+  {
+    "name": "ASIGNATURA ELECTIVA I",
+    "cycle": "Ciclo 5",
+    "modality": "P"
+  },
+  {
+    "name": "SEGURIDAD ALIMENTARIA Y NUTRICIONAL",
+    "cycle": "Ciclo 5",
+    "modality": "NP"
+  },
+  {
+    "name": "BIOESTADÍSTICA APLICADA A LA INVESTIGACIÓN",
+    "cycle": "Ciclo 5",
+    "modality": "P"
+  },
+  {
+    "name": "PRINCIPIOS DE ENDOCRINOLOGÍA, METABOLISMO Y NUTRICIÓN",
+    "cycle": "Ciclo 5",
+    "modality": "P"
+  },
+  {
+    "name": "GENERAL",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "FISIOLOGÍA HUMANA",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "DIETÉTICA",
+    "cycle": null,
+    "modality": "SP"
+  },
+  {
+    "name": "BIOQUÍMICA APLICADA DE LOS ALIMENTOS",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA III",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "PRINCIPIOS DE BIOLOGÍA MOLECULAR",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "FUNCIONES Y METABOLISMO DE MACRO Y MICRONUTRIENTES",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "FISIOPATOLOGÍA APLICADA A LA NUTRICIÓN",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "PROYECTO DE TESIS EN NUTRICIÓN",
+    "cycle": null,
+    "modality": "NP"
+  },
+  {
+    "name": "EPIDEMIOLOGÍA NUTRICIONAL APLICADA",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "PROCESOS DE EMPRENDIMIENTO E INNOVACIÓN",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "BROMATOLOGÍA",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "DIETOTERAPIA I",
+    "cycle": null,
+    "modality": "SP"
+  },
+  {
+    "name": "FISIOLOGÍA DEL EJERCICIO",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "TECNOLOGÍA DE LOS ALIMENTOS",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "GENÉTICA EN LA SALUD",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA IV",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "NUTRICIÓN PÚBLICA",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "GESTIÓN DE SERVICIOS DE ALIMENTACIÓN Y NUTRICIÓN",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "DIETOTERAPIA II",
+    "cycle": null,
+    "modality": "SP"
+  },
+  {
+    "name": "NUTRITIONAL GENOMICS",
+    "cycle": null,
+    "modality": "NP"
+  },
+  {
+    "name": "TESIS EN NUTRICIÓN",
+    "cycle": null,
+    "modality": "NP"
+  },
+  {
+    "name": "NUTRICIÓN EN LA ACTIVIDAD FÍSICA Y EL DEPORTE",
+    "cycle": null,
+    "modality": "SP"
+  },
+  {
+    "name": "COMUNICACIÓN Y EDUCACIÓN EFECTIVA EN NUTRICIÓN",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "NUTRICIÓN Y EMPRESA",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "ASIGNATURA ELECTIVA II",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "ROTACIÓN EN NUTRICIÓN TRABAJO DE POBLACIONAL",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "INVESTIGACIÓN",
+    "cycle": null,
+    "modality": "NP"
+  },
+  {
+    "name": "ROTACIÓN EN NUTRICIÓN CLÍNICA Y SERVICIOS DE ALIMENTACIÓN",
+    "cycle": null,
+    "modality": "P"
+  }
+]

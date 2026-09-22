@@ -1,0 +1,292 @@
+[
+  {
+    "name": "TÉCNICAS BÁSICAS EN ATENCIÓN DE SALUD",
+    "cycle": "Ciclo 1.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "ELEMENTOS DE QUÍMICA",
+    "cycle": "Ciclo 1.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "MATEMÁTICAS BÁSICAS",
+    "cycle": "Ciclo 1.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "INTRODUCCIÓN A LA TERAPIA DEL LENGUAJE",
+    "cycle": "Ciclo 1.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "FILOSOFÍA Y ÉTICA",
+    "cycle": "Ciclo 1.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "DESARROLLO PERSONAL Y AUTONOMÍA",
+    "cycle": "Ciclo 1.° CICLO:",
+    "modality": "SP"
+  },
+  {
+    "name": "COMUNICACIÓN Y REDACCIÓN I",
+    "cycle": "Ciclo 1.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "INGLÉS 1",
+    "cycle": "Ciclo 1.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "FUNDAMENTOS DE QUÍMICA ORGÁNICA",
+    "cycle": "Ciclo 2.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "BIOLOGÍA GENERAL",
+    "cycle": "Ciclo 2.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "FÍSICA BÁSICA",
+    "cycle": "Ciclo 2.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "COMUNICACIÓN Y REDACCIÓN II",
+    "cycle": "Ciclo 2.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "CULTURA AMBIENTAL Y DESARROLLO SOSTENIBLE",
+    "cycle": "Ciclo 2.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "PENSAMIENTO CIENTÍFICO E INVESTIGACIÓN",
+    "cycle": "Ciclo 2.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "CIENCIAS SOCIALES EN EL CONTEXTO ACTUAL",
+    "cycle": "Ciclo 2.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "INGLÉS 2",
+    "cycle": "Ciclo 2.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "FUNDAMENTOS DE MORFOFISIOLOGÍA",
+    "cycle": "Ciclo 3.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "LINGÜÍSTICA Y FONÉTICA",
+    "cycle": "Ciclo 3.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "ASIGNATURA ELECTIVA I",
+    "cycle": "Ciclo 3.° CICLO:",
+    "modality": "SP"
+  },
+  {
+    "name": "ASIGNATURA ELECTIVA II",
+    "cycle": "Ciclo 3.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA I",
+    "cycle": "Ciclo 3.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "INGLÉS 3",
+    "cycle": "Ciclo 3.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "ESTADÍSTICA",
+    "cycle": "Ciclo 4.° CICLO:",
+    "modality": "SP"
+  },
+  {
+    "name": "FISIOPATOLOGÍA GENERAL",
+    "cycle": "Ciclo 4.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "ANATOMÍA DEL APARATO FONOARTICULADOR Y DE LA AUDICIÓN",
+    "cycle": "Ciclo 4.° CICLO:",
+    "modality": "SP"
+  },
+  {
+    "name": "NEUROCIENCIAS EN REHABILITACIÓN",
+    "cycle": "Ciclo 4.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA II",
+    "cycle": "Ciclo 4.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "INGLÉS 4",
+    "cycle": "Ciclo 4.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "PROBLEMAS DE APRENDIZAJE EN LAS ALTERACIONES DEL LENGUAJE",
+    "cycle": "Ciclo 5.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "NEUROLINGÜÍSTICA Y NEUROPSICOLOGÍA",
+    "cycle": "Ciclo 5.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "PSICOMOTRICIDAD Y ESTIMULACIÓN PERCEPTUAL",
+    "cycle": "Ciclo 5.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "SALUD MENTAL Y PSIQUIATRÍA",
+    "cycle": "Ciclo 5.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "PATOLOGÍA DE LA AUDICIÓN",
+    "cycle": "Ciclo 5.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA III",
+    "cycle": "Ciclo 5.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "PATOLOGÍA DE LENGUAJE Y HABLA EN NIÑOS",
+    "cycle": "Ciclo 6.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "PATOLOGÍA DE VOZ",
+    "cycle": "Ciclo 6.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "AUDIOLOGÍA Y ADAPTACIÓN DE PRÓTESIS",
+    "cycle": "Ciclo 6.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "PATOLOGÍA DE LENGUAJE Y HABLA EN ADULTOS",
+    "cycle": "Ciclo 6.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "ALTERACIONES DE LA MOTRICIDAD OROFACIAL",
+    "cycle": "Ciclo 6.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA IV",
+    "cycle": "Ciclo 6.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "METODOLOGÍA DE LA INVESTIGACIÓN",
+    "cycle": "Ciclo 7.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "ÉTICA Y DEONTOLÓGIA",
+    "cycle": "Ciclo 7.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "REHABILITACIÓN DE LENGUAJE EN NIÑOS",
+    "cycle": "Ciclo 7.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "REHABILITACIÓN DE LA VOZ",
+    "cycle": "Ciclo 7.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "REHABILITACIÓN DEL HABLA EN NIÑOS",
+    "cycle": "Ciclo 7.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "REHABILITACIÓN DE LA DISCAPACIDAD AUDITIVA",
+    "cycle": "Ciclo 7.° CICLO:",
+    "modality": "SP"
+  },
+  {
+    "name": "EPIDEMIOLOGÍA Y SALUD PÚBLICA",
+    "cycle": "Ciclo 8.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "LEGISLACIÓN EN SALUD",
+    "cycle": "Ciclo 8.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "TALLER DE DISEÑO DE PROYECTO DE INVESTIGACIÓN",
+    "cycle": "Ciclo 8.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "GESTIÓN Y ADMINISTRACIÓN EN SERVICIOS DE SALUD",
+    "cycle": "Ciclo 8.° CICLO:",
+    "modality": "SP"
+  },
+  {
+    "name": "REHABILITACIÓN DE LAS ALTERACIONES DE LA MOTRICIDAD OROFACIAL",
+    "cycle": "Ciclo 8.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "REHABILITACIÓN DEL LENGUAJE Y HABLA EN ADULTOS",
+    "cycle": "Ciclo 8.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "INTERVENCIÓN COMUNITARIA",
+    "cycle": "Ciclo 8.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "PRÁCTICA CLÍNICA HOSPITALARIA DE TERAPIA DE AUDICIÓN, VOZ, LENGUAJE Y MOTRICIDAD OROFACIAL",
+    "cycle": "Ciclo 9.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "TRABAJO DE INVESTIGACIÓN",
+    "cycle": "Ciclo 10.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "PRÁCTICA EN ATENCIÓN COMUNITARIA EN TERAPIA DE AUDICIÓN, VOZ Y LENGUAJE",
+    "cycle": "Ciclo 10.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "PRÁCTICA CLÍNICA DE TERAPIA DE LENGUAJE EN CENTROS DE EDUCACIÓN ESPECIAL",
+    "cycle": "Ciclo 10.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "PRÁCTICA CLÍNICA EN AUDIOVESTIBULAR",
+    "cycle": "Ciclo 10.° CICLO:",
+    "modality": "P"
+  }
+]

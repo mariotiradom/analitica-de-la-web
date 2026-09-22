@@ -1,0 +1,332 @@
+[
+  {
+    "name": "INTRODUCCIÓN A LA INGENIERÍA AMBIENTAL",
+    "cycle": "Ciclo 1",
+    "modality": "SP"
+  },
+  {
+    "name": "COMUNICACIÓN Y REDACCIÓN I",
+    "cycle": "Ciclo 1",
+    "modality": "NP"
+  },
+  {
+    "name": "DESARROLLO PERSONAL Y AUTONOMÍA",
+    "cycle": "Ciclo 1",
+    "modality": "SP"
+  },
+  {
+    "name": "FILOSOFÍA Y ÉTICA",
+    "cycle": "Ciclo 1",
+    "modality": "NP"
+  },
+  {
+    "name": "CÁLCULO DIFERENCIAL PARA INGENIERÍA",
+    "cycle": "Ciclo 1",
+    "modality": "P"
+  },
+  {
+    "name": "QUÍMICA GENERAL",
+    "cycle": "Ciclo 1",
+    "modality": "P"
+  },
+  {
+    "name": "INGLÉS I",
+    "cycle": "Ciclo 1",
+    "modality": "NP"
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA I",
+    "cycle": "Ciclo 1",
+    "modality": "P"
+  },
+  {
+    "name": "FUNDAMENTOS DE PROGRAMACIÓN",
+    "cycle": "Ciclo 2",
+    "modality": "P"
+  },
+  {
+    "name": "PENSAMIENTO CIENTÍFICO E INVESTIGACIÓN",
+    "cycle": "Ciclo 2",
+    "modality": "NP"
+  },
+  {
+    "name": "COMUNICACIÓN Y REDACCIÓN II",
+    "cycle": "Ciclo 2",
+    "modality": "NP"
+  },
+  {
+    "name": "CIENCIAS SOCIALES EN EL CONTEXTO ACTUAL",
+    "cycle": "Ciclo 2",
+    "modality": "NP"
+  },
+  {
+    "name": "ÁLGEBRA MATRICIAL Y GEOMETRÍA ANALÍTICA",
+    "cycle": "Ciclo 2",
+    "modality": "P"
+  },
+  {
+    "name": "FÍSICA PARA INGENIERÍA 1",
+    "cycle": "Ciclo 2",
+    "modality": "P"
+  },
+  {
+    "name": "INGLÉS 2",
+    "cycle": "Ciclo 2",
+    "modality": "NP"
+  },
+  {
+    "name": "CULTURA AMBIENTAL Y DESARROLLO SOSTENIBLE",
+    "cycle": "Ciclo 2",
+    "modality": "NP"
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA II",
+    "cycle": "Ciclo 2",
+    "modality": "NP"
+  },
+  {
+    "name": "PROCESOS DE INNOVACIÓN EN INGENIERÍA",
+    "cycle": "Ciclo 3",
+    "modality": "SP"
+  },
+  {
+    "name": "CÁLCULO INTEGRAL PARA INGENIERÍA",
+    "cycle": "Ciclo 3",
+    "modality": "P"
+  },
+  {
+    "name": "FÍSICA APLICADA A LA INGENIERÍA",
+    "cycle": "Ciclo 3",
+    "modality": "P"
+  },
+  {
+    "name": "QUÍMICA ORGÁNICA",
+    "cycle": "Ciclo 3",
+    "modality": "P"
+  },
+  {
+    "name": "QUÍMICA DE SOLUCIONES ACUOSAS",
+    "cycle": "Ciclo 3",
+    "modality": "P"
+  },
+  {
+    "name": "INGLÉS 3",
+    "cycle": "Ciclo 3",
+    "modality": "NP"
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA III",
+    "cycle": "Ciclo 3",
+    "modality": "P"
+  },
+  {
+    "name": "FUNDAMENTOS DE DISEÑO",
+    "cycle": "Ciclo 4",
+    "modality": "P"
+  },
+  {
+    "name": "BIOLOGÍA PARA INGENIERÍA",
+    "cycle": "Ciclo 4",
+    "modality": "P"
+  },
+  {
+    "name": "FISICOQUÍMICA",
+    "cycle": "Ciclo 4",
+    "modality": "P"
+  },
+  {
+    "name": "CÁLCULO VECTORIAL PARA INGENIERÍA",
+    "cycle": "Ciclo 4",
+    "modality": "P"
+  },
+  {
+    "name": "GEOLOGÍA Y EDAFOLOGÍA",
+    "cycle": "Ciclo 4",
+    "modality": "P"
+  },
+  {
+    "name": "INGLÉS 4",
+    "cycle": "Ciclo 4",
+    "modality": "NP"
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA IV",
+    "cycle": "Ciclo 4",
+    "modality": "P"
+  },
+  {
+    "name": "ECONOMÍA GENERAL",
+    "cycle": "Ciclo 5",
+    "modality": "P"
+  },
+  {
+    "name": "ECUACIONES DIFERENCIALES",
+    "cycle": "Ciclo 5",
+    "modality": "P"
+  },
+  {
+    "name": "FUNDAMENTOS DE QUÍMICA ANALÍTICA",
+    "cycle": "Ciclo 5",
+    "modality": "P"
+  },
+  {
+    "name": "PROGRAMACIÓN AVANZADA",
+    "cycle": "Ciclo 5",
+    "modality": "NP"
+  },
+  {
+    "name": "ESTADÍSTICA Y PROBABILIDADES PARA INGENIERÍA",
+    "cycle": "Ciclo 5",
+    "modality": "P"
+  },
+  {
+    "name": "ECOLOGÍA Y BIODIVERSIDAD",
+    "cycle": "Ciclo 5",
+    "modality": "P"
+  },
+  {
+    "name": "PROYECTO INTEGRADOR",
+    "cycle": "Ciclo 6",
+    "modality": "P"
+  },
+  {
+    "name": "MECÁNICA DE FLUIDOS",
+    "cycle": "Ciclo 6",
+    "modality": "P"
+  },
+  {
+    "name": "TERMODINÁMICA",
+    "cycle": "Ciclo 6",
+    "modality": "P"
+  },
+  {
+    "name": "QUÍMICA Y FÍSICA AMBIENTALES",
+    "cycle": "Ciclo 6",
+    "modality": "P"
+  },
+  {
+    "name": "CARTOGRAFÍA Y SISTEMAS DE INFORMACIÓN GEOGRÁFICA",
+    "cycle": "Ciclo 6",
+    "modality": "P"
+  },
+  {
+    "name": "FUNDAMENTOS DE MICROBIOLOGÍA APLICADA",
+    "cycle": "Ciclo 6",
+    "modality": "P"
+  },
+  {
+    "name": "ECOTOXICOLOGÍA",
+    "cycle": null,
+    "modality": "SP"
+  },
+  {
+    "name": "DERECHO Y FISCALIZACIÓN AMBIENTAL",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "DESARROLLO PROFESIONAL",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "METEOROLOGÍA Y CLIMATOLOGÍA",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "MONITOREO AMBIENTAL",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "PRINCIPIOS GENERALES DE BIOTECNOLOGÍA APLICADA AL MEDIO AMBIENTE",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "HIDROLOGÍA",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "TRATAMIENTO DE AGUAS RESIDUALES",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "ASIGNATURA ELECTIVA I",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "ASIGNATURA ELECTIVA II",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "GESTIÓN DE CUENCAS",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "ÉTICA PROFESIONAL Y RESPONSABILIDAD SOCIAL",
+    "cycle": null,
+    "modality": "SP"
+  },
+  {
+    "name": "SOLID WASTE MANAGEMENT",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "PROYECTO DE TESIS EN INGENIERÍA AMBIENTAL",
+    "cycle": null,
+    "modality": "SP"
+  },
+  {
+    "name": "ENVIRONMENTAL CAPSTONE PROJECT",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "MODELAMIENTO AMBIENTAL",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "ASIGNATURA ELECTIVA III",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "EXPERIENCIA VIVENCIAL EN INGENIERÍA AMBIENTAL",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "TRABAJO DE INVESTIGACIÓN",
+    "cycle": null,
+    "modality": "SP"
+  },
+  {
+    "name": "EVALUACIÓN DE IMPACTO AMBIENTAL",
+    "cycle": null,
+    "modality": "SP"
+  },
+  {
+    "name": "ASIGNATURA ELECTIVA IV",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "SERVICIOS ECOSISTÉMICOS",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "DESARROLLO SOSTENIBLE",
+    "cycle": null,
+    "modality": "P"
+  }
+]

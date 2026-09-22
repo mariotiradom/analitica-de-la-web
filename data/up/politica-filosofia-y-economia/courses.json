@@ -1,0 +1,178 @@
+[
+  {
+    "name": "Nivelación en Informática",
+    "cycle": "Ciclo 0"
+  },
+  {
+    "name": "Nivelación en Matemática",
+    "cycle": "Ciclo 0"
+  },
+  {
+    "name": "Nivelación en Lenguaje",
+    "cycle": "Ciclo 0"
+  },
+  {
+    "name": "Matemáticas I",
+    "cycle": "Ciclo I"
+  },
+  {
+    "name": "Economía General I",
+    "cycle": "Ciclo I"
+  },
+  {
+    "name": "Lenguaje I",
+    "cycle": "Ciclo I"
+  },
+  {
+    "name": "Fundamentos de Contabilidad",
+    "cycle": "Ciclo I"
+  },
+  {
+    "name": "Introducción a la Política, Filosofía y Economía",
+    "cycle": "Ciclo I"
+  },
+  {
+    "name": "Poder e Instituciones",
+    "cycle": "Ciclo II"
+  },
+  {
+    "name": "Antropología Filosófica",
+    "cycle": "Ciclo II"
+  },
+  {
+    "name": "Lenguaje II",
+    "cycle": "Ciclo II"
+  },
+  {
+    "name": "Cursos de Pensamiento Crítico",
+    "cycle": "Ciclo II"
+  },
+  {
+    "name": "Cursos de Ciencias Sociales",
+    "cycle": "Ciclo II"
+  },
+  {
+    "name": "Matemáticas II",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Economía General II",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Investigación Académica",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Política Comparada",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Cursos de Procesos Sociales",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Estadística I",
+    "cycle": "Ciclo IV"
+  },
+  {
+    "name": "Microeconomía I",
+    "cycle": "Ciclo IV"
+  },
+  {
+    "name": "Ciudadanía y Democratización",
+    "cycle": "Ciclo IV"
+  },
+  {
+    "name": "Introducción al Derecho",
+    "cycle": "Ciclo IV"
+  },
+  {
+    "name": "Filosofía Política",
+    "cycle": "Ciclo IV"
+  },
+  {
+    "name": "Econometría Aplicada II",
+    "cycle": "Ciclo V"
+  },
+  {
+    "name": "Macroeconomía de Corto Plazo",
+    "cycle": "Ciclo V"
+  },
+  {
+    "name": "Economía Política Internacional",
+    "cycle": "Ciclo V"
+  },
+  {
+    "name": "Cursos de Introducción al Quehacer Científico",
+    "cycle": "Ciclo V"
+  },
+  {
+    "name": "Microeconomía Aplicada",
+    "cycle": "Ciclo VI"
+  },
+  {
+    "name": "Gestión de los Recursos Naturales",
+    "cycle": "Ciclo VI"
+  },
+  {
+    "name": "Fundamentos Filosóficos de los Derechos Humanos",
+    "cycle": "Ciclo VI"
+  },
+  {
+    "name": "Métodos Mixtos de Investigación para las CCSS",
+    "cycle": "Ciclo VI"
+  },
+  {
+    "name": "Teoría del Comercio Internacional",
+    "cycle": "Ciclo VII"
+  },
+  {
+    "name": "Diseño, Evaluación y Gestión de Proyectos",
+    "cycle": "Ciclo VII"
+  },
+  {
+    "name": "Cursos de Pensamiento Crítico",
+    "cycle": "Ciclo VII"
+  },
+  {
+    "name": "Cursos de Procesos Sociales",
+    "cycle": "Ciclo VII"
+  },
+  {
+    "name": "Crecimiento e Instituciones",
+    "cycle": "Ciclo VIII"
+  },
+  {
+    "name": "Debates sobre Política y Desarrollo",
+    "cycle": "Ciclo VIII"
+  },
+  {
+    "name": "Debates en Filosofía",
+    "cycle": "Ciclo VIII"
+  },
+  {
+    "name": "Fundamentos Filosóficos de la Economía",
+    "cycle": "Ciclo VIII"
+  },
+  {
+    "name": "Proyección Social",
+    "cycle": "Ciclo IX"
+  },
+  {
+    "name": "Ética",
+    "cycle": "Ciclo IX"
+  },
+  {
+    "name": "Historia del Pensamiento Económico",
+    "cycle": "Ciclo IX"
+  },
+  {
+    "name": "Seminario de Investigación Aplicada",
+    "cycle": "Ciclo X"
+  },
+  {
+    "name": "Cursos de Desarrollo Personal",
+    "cycle": "Ciclo X"
+  }
+]

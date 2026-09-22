@@ -1,0 +1,12 @@
+{
+  "source": "universidad_peruana_cayetano_heredia",
+  "career": "Terapia Física y Rehabilitación",
+  "page_url": "https://cayetano.edu.pe/pregrado/carreras/terapia-fisica-y-rehabilitacion",
+  "brochure_url": "https://upch-repo-comercial.s3.dualstack.us-east-1.amazonaws.com/brochures/br_fisica.pdf",
+  "captured_at": "2026-09-22T04:22:12.452671+00:00",
+  "files": {
+    "html": "data/cayetano/terapia-fisica-y-rehabilitacion/source.html",
+    "courses": "data/cayetano/terapia-fisica-y-rehabilitacion/courses.json"
+  },
+  "course_count": 58
+}

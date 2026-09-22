@@ -1,0 +1,81 @@
+{
+  "source": "universidad_de_lima",
+  "catalog_url": "https://www.ulima.edu.pe/pregrado",
+  "captured_at": "2026-09-22T05:09:07.077673+00:00",
+  "career_count": 14,
+  "careers": [
+    {
+      "name": "Administración",
+      "pdf_url": "https://www.ulima.edu.pe/sites/default/files/2026-02/malla_administracion_2026_1.pdf",
+      "size_bytes": 8781530
+    },
+    {
+      "name": "Arquitectura",
+      "pdf_url": "https://www.ulima.edu.pe/sites/default/files/2026-02/malla_arquitectura_2026_1.pdf",
+      "size_bytes": 10372621
+    },
+    {
+      "name": "Comunicación",
+      "pdf_url": "https://www.ulima.edu.pe/sites/default/files/2026-02/malla_comunicacion_2026.pdf",
+      "size_bytes": 6048413
+    },
+    {
+      "name": "Contabilidad y Finanzas",
+      "pdf_url": "https://www.ulima.edu.pe/sites/default/files/2026-02/malla_contabilidad_y_finanzas_2026_0.pdf",
+      "size_bytes": 4994158
+    },
+    {
+      "name": "Derecho",
+      "pdf_url": "https://www.ulima.edu.pe/sites/default/files/2026-02/malla_derecho_2026.pdf",
+      "size_bytes": 7848762
+    },
+    {
+      "name": "Economía",
+      "pdf_url": "https://www.ulima.edu.pe/sites/default/files/2026-02/malla_economia_2026_0.pdf",
+      "size_bytes": 5116466
+    },
+    {
+      "name": "Ingeniería Ambiental",
+      "pdf_url": "https://www.ulima.edu.pe/sites/default/files/2026-02/malla_ing_ambiental_2026.pdf",
+      "size_bytes": 6065932
+    },
+    {
+      "name": "Ingeniería Civil",
+      "pdf_url": "https://www.ulima.edu.pe/sites/default/files/2026-02/malla_ing_civil_2026_1.pdf",
+      "size_bytes": 8203303
+    },
+    {
+      "name": "Ingeniería Industrial",
+      "pdf_url": "https://www.ulima.edu.pe/sites/default/files/2026-02/malla_ing_industrial_2026_0.pdf",
+      "size_bytes": 13456294
+    },
+    {
+      "name": "Ingeniería de Sistemas",
+      "pdf_url": "https://www.ulima.edu.pe/sites/default/files/2026-02/malla_ing_sistemas_2026.pdf",
+      "size_bytes": 8669528
+    },
+    {
+      "name": "Ingeniería Mecatrónica",
+      "pdf_url": "https://www.ulima.edu.pe/sites/default/files/2026-02/malla_ing_mecatronica_2026.pdf",
+      "size_bytes": 7747094
+    },
+    {
+      "name": "Marketing",
+      "pdf_url": "https://www.ulima.edu.pe/sites/default/files/2026-02/malla_marketing_2026.pdf",
+      "size_bytes": 5084793
+    },
+    {
+      "name": "Negocios Internacionales",
+      "pdf_url": "https://www.ulima.edu.pe/sites/default/files/2026-02/malla_negocios_int_2026.pdf",
+      "size_bytes": 5021193
+    },
+    {
+      "name": "Psicología",
+      "pdf_url": "https://www.ulima.edu.pe/sites/default/files/2026-08/malla_psicologia_2027-1.pdf",
+      "size_bytes": 1196644
+    }
+  ],
+  "files": {
+    "catalog_html": "data/ulima/source.html"
+  }
+}

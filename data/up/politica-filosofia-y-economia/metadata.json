@@ -1,0 +1,13 @@
+{
+  "source": "universidad_del_pacifico",
+  "career": "Política, Filosofía y Economía",
+  "career_url": "https://www.up.edu.pe/carreras-postgrado-idiomas/carreras-pregrado/politica-filosofia-economia",
+  "page_url": "https://www.up.edu.pe/carreras-postgrado-idiomas/carreras-pregrado/politica-filosofia-economia/Paginas/plan-estudios.aspx",
+  "captured_at": "2026-09-22T04:05:50.836940+00:00",
+  "robots_checked": true,
+  "files": {
+    "html": "data/up/politica-filosofia-y-economia/source.html",
+    "courses": "data/up/politica-filosofia-y-economia/courses.json"
+  },
+  "course_count": 44
+}

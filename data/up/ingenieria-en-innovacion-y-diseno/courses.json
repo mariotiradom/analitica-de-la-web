@@ -1,0 +1,206 @@
+[
+  {
+    "name": "Nivelación en Lenguaje",
+    "cycle": "Ciclo 0"
+  },
+  {
+    "name": "Nivelación en Matemáticas",
+    "cycle": "Ciclo 0"
+  },
+  {
+    "name": "Nivelación en Informática",
+    "cycle": "Ciclo 0"
+  },
+  {
+    "name": "Introducción a la Ingeniería",
+    "cycle": "Ciclo I"
+  },
+  {
+    "name": "Matemáticas I",
+    "cycle": "Ciclo I"
+  },
+  {
+    "name": "Economía General I",
+    "cycle": "Ciclo I"
+  },
+  {
+    "name": "Lenguaje I",
+    "cycle": "Ciclo I"
+  },
+  {
+    "name": "Curso de Tecnología y Negocios Digitales",
+    "cycle": "Ciclo II"
+  },
+  {
+    "name": "Fundamentos de Contabilidad",
+    "cycle": "Ciclo II"
+  },
+  {
+    "name": "Matemáticas II",
+    "cycle": "Ciclo II"
+  },
+  {
+    "name": "Economía General II",
+    "cycle": "Ciclo II"
+  },
+  {
+    "name": "Lenguaje II",
+    "cycle": "Ciclo II"
+  },
+  {
+    "name": "Herramientas de Programación",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Contabilidad Financiera Intermedia",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Estadística I",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Curso de Quehacer Científico",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Curso Desarrollo Personal",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Investigación Académica",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Estadística II",
+    "cycle": "Ciclo IV"
+  },
+  {
+    "name": "Arquitectura del Sistema de Información",
+    "cycle": "Ciclo IV"
+  },
+  {
+    "name": "Design Thinking and Technological Innovation",
+    "cycle": "Ciclo IV"
+  },
+  {
+    "name": "Ingeniería de Procesos",
+    "cycle": "Ciclo IV"
+  },
+  {
+    "name": "Marketing Estratégico",
+    "cycle": "Ciclo IV"
+  },
+  {
+    "name": "Fundamentos de Analítica",
+    "cycle": "Ciclo V"
+  },
+  {
+    "name": "Comportamiento del Consumidor",
+    "cycle": "Ciclo V"
+  },
+  {
+    "name": "Historia Crítica del Diseño",
+    "cycle": "Ciclo V"
+  },
+  {
+    "name": "Tecnología de los Materiales",
+    "cycle": "Ciclo V"
+  },
+  {
+    "name": "Fundamentos de Finanzas",
+    "cycle": "Ciclo V"
+  },
+  {
+    "name": "Física",
+    "cycle": "Ciclo VI"
+  },
+  {
+    "name": "Experiencia del Usuario",
+    "cycle": "Ciclo VI"
+  },
+  {
+    "name": "Teoría de los sentidos",
+    "cycle": "Ciclo VI"
+  },
+  {
+    "name": "Gestión del Capital Humano",
+    "cycle": "Ciclo VI"
+  },
+  {
+    "name": "Curso de Ciencias Sociales",
+    "cycle": "Ciclo VI"
+  },
+  {
+    "name": "Tecnología y Medios de Comunicación",
+    "cycle": "Ciclo VII"
+  },
+  {
+    "name": "Semiótica y Teoría del Diseño",
+    "cycle": "Ciclo VII"
+  },
+  {
+    "name": "Técnicas de Innovación y Experimentación I",
+    "cycle": "Ciclo VII"
+  },
+  {
+    "name": "Estrategia",
+    "cycle": "Ciclo VII"
+  },
+  {
+    "name": "Curso de Pensamiento Crítico",
+    "cycle": "Ciclo VII"
+  },
+  {
+    "name": "Tecnología para el Desarrollo Sostenible",
+    "cycle": "Ciclo VIII"
+  },
+  {
+    "name": "Urbanismo y Espacios Sociales",
+    "cycle": "Ciclo VIII"
+  },
+  {
+    "name": "Diseño Gráfico Digital",
+    "cycle": "Ciclo VIII"
+  },
+  {
+    "name": "Técnicas de Innovación y Experimentación II",
+    "cycle": "Ciclo VIII"
+  },
+  {
+    "name": "Curso de Procesos Sociales",
+    "cycle": "Ciclo VIII"
+  },
+  {
+    "name": "Curso Integrador de Experiencia del Usuario",
+    "cycle": "Ciclo IX"
+  },
+  {
+    "name": "Diseño de Herramientas Digitales",
+    "cycle": "Ciclo IX"
+  },
+  {
+    "name": "Técnicas de Innovación y Experimentación III",
+    "cycle": "Ciclo IX"
+  },
+  {
+    "name": "Curso de Pensamiento Crítico",
+    "cycle": "Ciclo IX"
+  },
+  {
+    "name": "Curso de Procesos Sociales",
+    "cycle": "Ciclo IX"
+  },
+  {
+    "name": "Trabajo Final de Innovación y Diseño",
+    "cycle": "Ciclo X"
+  },
+  {
+    "name": "Ética",
+    "cycle": "Ciclo X"
+  },
+  {
+    "name": "Proyección Social",
+    "cycle": "Ciclo X"
+  }
+]

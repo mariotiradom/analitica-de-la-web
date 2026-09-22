@@ -1,0 +1,352 @@
+[
+  {
+    "name": "MATEMÁTICA",
+    "cycle": "Ciclo 1",
+    "modality": "P"
+  },
+  {
+    "name": "QUÍMICA GENERAL",
+    "cycle": "Ciclo 1",
+    "modality": "P"
+  },
+  {
+    "name": "PRINCIPIOS DE BIOLOGÍA INTEGRATIVA",
+    "cycle": "Ciclo 1",
+    "modality": "P"
+  },
+  {
+    "name": "TÉCNICAS BÁSICAS DE ATENCIÓN EN SALUD",
+    "cycle": "Ciclo 1",
+    "modality": "P"
+  },
+  {
+    "name": "FILOSOFÍA Y ÉTICA",
+    "cycle": "Ciclo 1",
+    "modality": "NP"
+  },
+  {
+    "name": "DESARROLLO PERSONAL Y AUTONOMÍA",
+    "cycle": "Ciclo 1",
+    "modality": "SP"
+  },
+  {
+    "name": "INGLÉS 1",
+    "cycle": "Ciclo 1",
+    "modality": "NP"
+  },
+  {
+    "name": "FÍSICA",
+    "cycle": "Ciclo 2",
+    "modality": "P"
+  },
+  {
+    "name": "QUÍMICA ORGÁNICA",
+    "cycle": "Ciclo 2",
+    "modality": "P"
+  },
+  {
+    "name": "INTRODUCCIÓN A LA BIOLOGÍA CELULAR",
+    "cycle": "Ciclo 2",
+    "modality": "P"
+  },
+  {
+    "name": "CIENCIAS SOCIALES EN EL CONTEXTO ACTUAL",
+    "cycle": "Ciclo 2",
+    "modality": "NP"
+  },
+  {
+    "name": "COMUNICACIÓN Y REDACCIÓN II (AD)",
+    "cycle": "Ciclo 2",
+    "modality": null
+  },
+  {
+    "name": "INGLÉS 2",
+    "cycle": "Ciclo 2",
+    "modality": "NP"
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA I",
+    "cycle": "Ciclo 2",
+    "modality": "P"
+  },
+  {
+    "name": "PENSAMIENTO CIENTÍFICO E INVESTIGACIÓN",
+    "cycle": "Ciclo 2",
+    "modality": "NP"
+  },
+  {
+    "name": "CULTURA AMBIENTAL Y DESARROLLO SOSTENIBLE",
+    "cycle": "Ciclo 2",
+    "modality": "NP"
+  },
+  {
+    "name": "BIOQUÍMICA Y BIOLOGÍA",
+    "cycle": "Ciclo 3",
+    "modality": null
+  },
+  {
+    "name": "MOLECULAR",
+    "cycle": "Ciclo 3",
+    "modality": "P"
+  },
+  {
+    "name": "MICROBIOLOGÍA",
+    "cycle": "Ciclo 3",
+    "modality": "P"
+  },
+  {
+    "name": "FARMACOLOGÍA",
+    "cycle": "Ciclo 3",
+    "modality": "P"
+  },
+  {
+    "name": "HUMANIDADES EN MEDICINA",
+    "cycle": "Ciclo 3",
+    "modality": "P"
+  },
+  {
+    "name": "INGLÉS 3",
+    "cycle": "Ciclo 3",
+    "modality": "NP"
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA II",
+    "cycle": "Ciclo 3",
+    "modality": "P"
+  },
+  {
+    "name": "INMUNOLOGÍA",
+    "cycle": "Ciclo 4",
+    "modality": "P"
+  },
+  {
+    "name": "HEMATOLOGÍA",
+    "cycle": "Ciclo 4",
+    "modality": "P"
+  },
+  {
+    "name": "APARATO LOCOMOTOR",
+    "cycle": "Ciclo 4",
+    "modality": "P"
+  },
+  {
+    "name": "SISTEMA ENDOCRINO Y REPRODUCTOR",
+    "cycle": "Ciclo 4",
+    "modality": "P"
+  },
+  {
+    "name": "SISTEMA DIGESTIVO",
+    "cycle": "Ciclo 4",
+    "modality": "P"
+  },
+  {
+    "name": "CULTURA Y PROMOCIÓN DE LA SALUD EN EL TRABAJO COMUNITARIO",
+    "cycle": "Ciclo 4",
+    "modality": "P"
+  },
+  {
+    "name": "INGLÉS 4",
+    "cycle": "Ciclo 4",
+    "modality": "NP"
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA III",
+    "cycle": "Ciclo 4",
+    "modality": "P"
+  },
+  {
+    "name": "INTRODUCCIÓN A LA",
+    "cycle": "Ciclo 5",
+    "modality": null
+  },
+  {
+    "name": "INVESTIGACIÓN",
+    "cycle": "Ciclo 5",
+    "modality": "P"
+  },
+  {
+    "name": "SISTEMA NERVIOSO",
+    "cycle": "Ciclo 5",
+    "modality": "P"
+  },
+  {
+    "name": "SISTEMA CARDIOVASCULAR",
+    "cycle": "Ciclo 5",
+    "modality": "P"
+  },
+  {
+    "name": "SISTEMA RESPIRATORIO",
+    "cycle": "Ciclo 5",
+    "modality": "P"
+  },
+  {
+    "name": "APARATO EXCRETOR",
+    "cycle": "Ciclo 5",
+    "modality": "P"
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA IV",
+    "cycle": "Ciclo 5",
+    "modality": "NP"
+  },
+  {
+    "name": "EPIDEMIOLOGÍA BÁSICA Y SALUD COMUNITARIA",
+    "cycle": "Ciclo 6",
+    "modality": "P"
+  },
+  {
+    "name": "PATOLOGÍA Y MECANISMOS DE ENFERMEDAD",
+    "cycle": "Ciclo 6",
+    "modality": "P"
+  },
+  {
+    "name": "PSICOLOGÍA MÉDICA",
+    "cycle": "Ciclo 6",
+    "modality": "P"
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA V",
+    "cycle": "Ciclo 6",
+    "modality": "NP"
+  },
+  {
+    "name": "INTRODUCCIÓN A CLÍNICA",
+    "cycle": "Ciclo 7",
+    "modality": "P"
+  },
+  {
+    "name": "EPIDEMIOLOGÍA CLÍNICA",
+    "cycle": "Ciclo 8",
+    "modality": "NP"
+  },
+  {
+    "name": "CLÍNICA MÉDICA I",
+    "cycle": "Ciclo 8",
+    "modality": "P"
+  },
+  {
+    "name": "CLÍNICA PEDIÁTRICA",
+    "cycle": "Ciclo 8",
+    "modality": "P"
+  },
+  {
+    "name": "CLÍNICA QUIRÚRGICA I",
+    "cycle": "Ciclo 8",
+    "modality": "P"
+  },
+  {
+    "name": "CLÍNICA NEUROLÓGICA",
+    "cycle": "Ciclo 9",
+    "modality": "P"
+  },
+  {
+    "name": "ENFERMEDADES INFECCIOSAS Y TROPICALES",
+    "cycle": "Ciclo 9",
+    "modality": "P"
+  },
+  {
+    "name": "CLÍNICA DERMATOLÓGICA",
+    "cycle": "Ciclo 9",
+    "modality": "P"
+  },
+  {
+    "name": "CLÍNICA GINECO- OBSTÉTRICA II",
+    "cycle": "Ciclo 9",
+    "modality": "P"
+  },
+  {
+    "name": "PSYCHIATRIC CLINIC",
+    "cycle": "Ciclo 9",
+    "modality": "P"
+  },
+  {
+    "name": "INTRODUCCIÓN A LA PRÁCTICA PROFESIONAL",
+    "cycle": "Ciclo SEXTO",
+    "modality": "P"
+  },
+  {
+    "name": "EXTERNADO DE MEDICINA INTERNA",
+    "cycle": "Ciclo SEXTO",
+    "modality": "P"
+  },
+  {
+    "name": "EXTERNADO DE MEDICINA FAMILIAR Y PRÁCTICA AMBULATORIA",
+    "cycle": "Ciclo SEXTO",
+    "modality": "P"
+  },
+  {
+    "name": "EXTERNADO DE PSIQUIATRÍA",
+    "cycle": "Ciclo SEXTO",
+    "modality": "P"
+  },
+  {
+    "name": "EXTERNADO DE PEDIATRÍA",
+    "cycle": "Ciclo SEXTO",
+    "modality": "P"
+  },
+  {
+    "name": "EXTERNADO DE CIRUGÍA",
+    "cycle": "Ciclo SEXTO",
+    "modality": "P"
+  },
+  {
+    "name": "EXTERNADO DE GINECOLOGÍA – OBSTETRICIA",
+    "cycle": "Ciclo SEXTO",
+    "modality": "P"
+  },
+  {
+    "name": "ELECTIVO DE EXTERNADO I",
+    "cycle": "Ciclo SEXTO",
+    "modality": "P"
+  },
+  {
+    "name": "ELECTIVO DE EXTERNADO II",
+    "cycle": "Ciclo SEXTO",
+    "modality": "P"
+  },
+  {
+    "name": "ELECTIVO DE EXTERNADO III",
+    "cycle": "Ciclo SEXTO",
+    "modality": "P"
+  },
+  {
+    "name": "ELECTIVO DE EXTERNADO IV",
+    "cycle": "Ciclo SEXTO",
+    "modality": "P"
+  },
+  {
+    "name": "GESTIÓN",
+    "cycle": "Ciclo SEXTO",
+    "modality": "P"
+  },
+  {
+    "name": "INTERNADO DE MEDICINA",
+    "cycle": "Ciclo SEPTIMO",
+    "modality": "P"
+  },
+  {
+    "name": "INTERNADO DE PEDIATRÍA",
+    "cycle": "Ciclo SEPTIMO",
+    "modality": "P"
+  },
+  {
+    "name": "INTERNADO DE CIRUGÍA",
+    "cycle": "Ciclo SEPTIMO",
+    "modality": "P"
+  },
+  {
+    "name": "INTERNADO DE GINECOLOGÍA – OBSTETRICIA",
+    "cycle": "Ciclo SEPTIMO",
+    "modality": "P"
+  },
+  {
+    "name": "INTERNADO EN EL PRIMER NIVEL DE ATENCIÓN",
+    "cycle": "Ciclo SEPTIMO",
+    "modality": "P"
+  },
+  {
+    "name": "TRABAJO DE INVESTIGACIÓN",
+    "cycle": "Ciclo SEPTIMO",
+    "modality": "NP"
+  }
+]

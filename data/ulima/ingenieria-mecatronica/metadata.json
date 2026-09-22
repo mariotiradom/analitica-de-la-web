@@ -1,0 +1,12 @@
+{
+  "source": "universidad_de_lima",
+  "career": "Ingeniería Mecatrónica",
+  "catalog_url": "https://www.ulima.edu.pe/pregrado",
+  "pdf_url": "https://www.ulima.edu.pe/sites/default/files/2026-02/malla_ing_mecatronica_2026.pdf",
+  "captured_at": "2026-09-22T05:09:03.035996+00:00",
+  "files": {
+    "pdf": "data/ulima/ingenieria-mecatronica/malla.pdf"
+  },
+  "content_type": "application/pdf",
+  "size_bytes": 7747094
+}

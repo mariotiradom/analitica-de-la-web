@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Nivelación en Lenguaje",
+    "cycle": "Ciclo 0"
+  },
+  {
+    "name": "Nivelación en Matemáticas",
+    "cycle": "Ciclo 0"
+  },
+  {
+    "name": "Nivelación en Informática",
+    "cycle": "Ciclo 0"
+  },
+  {
+    "name": "Lenguaje I",
+    "cycle": "Ciclo I"
+  },
+  {
+    "name": "Matemáticas I",
+    "cycle": "Ciclo I"
+  },
+  {
+    "name": "Economía General I",
+    "cycle": "Ciclo I"
+  },
+  {
+    "name": "Fundamentos de las Ciencias Empresariales",
+    "cycle": "Ciclo I"
+  },
+  {
+    "name": "Lenguaje II",
+    "cycle": "Ciclo II"
+  },
+  {
+    "name": "Economía General II",
+    "cycle": "Ciclo II"
+  },
+  {
+    "name": "Fundamentos de Contabilidad",
+    "cycle": "Ciclo II"
+  },
+  {
+    "name": "Matemáticas para los Negocios",
+    "cycle": "Ciclo II"
+  },
+  {
+    "name": "Derecho Civil y Comercial",
+    "cycle": "Ciclo II"
+  },
+  {
+    "name": "Contabilidad Financiera Intermedia",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Derecho Laboral y Tributario",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Estadística I",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Cursos de Procesos Sociales",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Cursos de Ciencias Sociales",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Contabilidad Financiera Aplicada",
+    "cycle": "Ciclo IV"
+  },
+  {
+    "name": "Analítica de Datos para los Negocios",
+    "cycle": "Ciclo IV"
+  },
+  {
+    "name": "Diseño Organizacional y Estrategia",
+    "cycle": "Ciclo IV"
+  },
+  {
+    "name": "Fundamentos de Marketing",
+    "cycle": "Ciclo IV"
+  },
+  {
+    "name": "Cursos de Procesos Sociales",
+    "cycle": "Ciclo IV"
+  },
+  {
+    "name": "Cursos de Quehacer Científico",
+    "cycle": "Ciclo IV"
+  },
+  {
+    "name": "Contabilidad de Costos",
+    "cycle": "Ciclo V"
+  },
+  {
+    "name": "Métodos Cuantitativos para la Gestión en las Organizaciones",
+    "cycle": "Ciclo V"
+  },
+  {
+    "name": "Análisis Multivariado para los Negocios",
+    "cycle": "Ciclo V"
+  },
+  {
+    "name": "Gestión del Cambio y Transformación Cultural",
+    "cycle": "Ciclo V"
+  },
+  {
+    "name": "Fundamentos de Finanzas",
+    "cycle": "Ciclo V"
+  },
+  {
+    "name": "Normas Contables Internacionales",
+    "cycle": "Ciclo VI"
+  },
+  {
+    "name": "Contabilidad de Gestión",
+    "cycle": "Ciclo VI"
+  },
+  {
+    "name": "Gestión de Operaciones en las Organizaciones",
+    "cycle": "Ciclo VI"
+  },
+  {
+    "name": "Investigación Académica",
+    "cycle": "Ciclo VI"
+  },
+  {
+    "name": "Finanzas Corporativas I",
+    "cycle": "Ciclo VI"
+  },
+  {
+    "name": "Cursos de Pensamiento Crítico",
+    "cycle": "Ciclo VI"
+  },
+  {
+    "name": "Evaluación Financiera de las Organizaciones",
+    "cycle": "Ciclo VII"
+  },
+  {
+    "name": "Auditoría",
+    "cycle": "Ciclo VII"
+  },
+  {
+    "name": "Contabilidad y Finanzas Avanzadas",
+    "cycle": "Ciclo VII"
+  },
+  {
+    "name": "SAP Hana para la Gestión de la Información",
+    "cycle": "Ciclo VII"
+  },
+  {
+    "name": "Sistemas de Información y Análisis de Datos",
+    "cycle": "Ciclo VII"
+  },
+  {
+    "name": "Control Interno y Gestión del Riesgo",
+    "cycle": "Ciclo VIII"
+  },
+  {
+    "name": "Gestión y Costos Estratégicos",
+    "cycle": "Ciclo VIII"
+  },
+  {
+    "name": "Tributación Aplicada I",
+    "cycle": "Ciclo VIII"
+  },
+  {
+    "name": "Dirección Estratégica",
+    "cycle": "Ciclo VIII"
+  },
+  {
+    "name": "Cursos de Pensamiento Crítico",
+    "cycle": "Ciclo VIII"
+  },
+  {
+    "name": "Gestión de la Información y Métricas de Sostenibilidad Empresarial",
+    "cycle": "Ciclo IX"
+  },
+  {
+    "name": "Tributación Aplicada II",
+    "cycle": "Ciclo IX"
+  },
+  {
+    "name": "Ética",
+    "cycle": "Ciclo IX"
+  },
+  {
+    "name": "Proyección Social",
+    "cycle": "Ciclo IX"
+  },
+  {
+    "name": "Cursos de Desarrollo Personal",
+    "cycle": "Ciclo IX"
+  },
+  {
+    "name": "Investigación para Contadores",
+    "cycle": "Ciclo X"
+  }
+]

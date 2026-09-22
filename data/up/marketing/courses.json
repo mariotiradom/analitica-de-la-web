@@ -1,0 +1,210 @@
+[
+  {
+    "name": "Nivelación en Lenguaje",
+    "cycle": "Ciclo 0"
+  },
+  {
+    "name": "Nivelación en Matemáticas",
+    "cycle": "Ciclo 0"
+  },
+  {
+    "name": "Nivelación en Informática",
+    "cycle": "Ciclo 0"
+  },
+  {
+    "name": "Lenguaje I",
+    "cycle": "Ciclo I"
+  },
+  {
+    "name": "Matemáticas I",
+    "cycle": "Ciclo I"
+  },
+  {
+    "name": "Economía General I",
+    "cycle": "Ciclo I"
+  },
+  {
+    "name": "Fundamentos de las Ciencias Empresariales",
+    "cycle": "Ciclo I"
+  },
+  {
+    "name": "Lenguaje II",
+    "cycle": "Ciclo II"
+  },
+  {
+    "name": "Fundamentos de Contabilidad",
+    "cycle": "Ciclo II"
+  },
+  {
+    "name": "Estadística I",
+    "cycle": "Ciclo II"
+  },
+  {
+    "name": "Fundamentos de Marketing",
+    "cycle": "Ciclo II"
+  },
+  {
+    "name": "Cursos de Ciencias Sociales",
+    "cycle": "Ciclo II"
+  },
+  {
+    "name": "Economía General II",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Analítica de Datos para los Negocios",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Diseño Organizacional y Estrategia",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Contabilidad Financiera Intermedia",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Comportamiento del Consumidor",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Marketing Sostenible",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Ética",
+    "cycle": "Ciclo IV"
+  },
+  {
+    "name": "Métodos Cuantitativos para la Gestión en las Organizaciones",
+    "cycle": "Ciclo IV"
+  },
+  {
+    "name": "Análisis Multivariado para los Negocios",
+    "cycle": "Ciclo IV"
+  },
+  {
+    "name": "Gestión de Productos",
+    "cycle": "Ciclo IV"
+  },
+  {
+    "name": "Cursos de Procesos Sociales",
+    "cycle": "Ciclo IV"
+  },
+  {
+    "name": "Investigación de Mercados",
+    "cycle": "Ciclo V"
+  },
+  {
+    "name": "Sistemas de Información y Análisis de Datos",
+    "cycle": "Ciclo V"
+  },
+  {
+    "name": "Fundamentos de Finanzas",
+    "cycle": "Ciclo V"
+  },
+  {
+    "name": "Pricing",
+    "cycle": "Ciclo V"
+  },
+  {
+    "name": "Estrategias de Branding",
+    "cycle": "Ciclo V"
+  },
+  {
+    "name": "Cursos de Pensamiento Crítico",
+    "cycle": "Ciclo V"
+  },
+  {
+    "name": "Finanzas Corporativas I",
+    "cycle": "Ciclo VI"
+  },
+  {
+    "name": "Innovación y Gestión en Negocios Digitales",
+    "cycle": "Ciclo VI"
+  },
+  {
+    "name": "Investigación Académica",
+    "cycle": "Ciclo VI"
+  },
+  {
+    "name": "Canales de Distribución",
+    "cycle": "Ciclo VI"
+  },
+  {
+    "name": "Investigación de Mercados Aplicada",
+    "cycle": "Ciclo VI"
+  },
+  {
+    "name": "Estrategias de Comunicación y Promoción",
+    "cycle": "Ciclo VI"
+  },
+  {
+    "name": "Business Agility",
+    "cycle": "Ciclo VII"
+  },
+  {
+    "name": "Trade Marketing",
+    "cycle": "Ciclo VII"
+  },
+  {
+    "name": "Marketing Relacional y CRM",
+    "cycle": "Ciclo VII"
+  },
+  {
+    "name": "Marketing Digital y Redes Sociales",
+    "cycle": "Ciclo VII"
+  },
+  {
+    "name": "Cursos de Desarrollo Personal",
+    "cycle": "Ciclo VII"
+  },
+  {
+    "name": "Cursos de Pensamiento Crítico",
+    "cycle": "Ciclo VII"
+  },
+  {
+    "name": "Estrategia",
+    "cycle": "Ciclo VIII"
+  },
+  {
+    "name": "Métricas y Analítica de Marketing",
+    "cycle": "Ciclo VIII"
+  },
+  {
+    "name": "Gestión Comercial",
+    "cycle": "Ciclo VIII"
+  },
+  {
+    "name": "Marketing B2B",
+    "cycle": "Ciclo VIII"
+  },
+  {
+    "name": "Marketing de Servicios",
+    "cycle": "Ciclo VIII"
+  },
+  {
+    "name": "Cursos de Quehacer Científico",
+    "cycle": "Ciclo VIII"
+  },
+  {
+    "name": "Investigación en Marketing I",
+    "cycle": "Ciclo IX"
+  },
+  {
+    "name": "International Marketing",
+    "cycle": "Ciclo IX"
+  },
+  {
+    "name": "Proyección Social",
+    "cycle": "Ciclo IX"
+  },
+  {
+    "name": "Plan de Marketing",
+    "cycle": "Ciclo X"
+  },
+  {
+    "name": "Investigación en Marketing II",
+    "cycle": "Ciclo X"
+  }
+]

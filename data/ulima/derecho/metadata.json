@@ -1,0 +1,12 @@
+{
+  "source": "universidad_de_lima",
+  "career": "Derecho",
+  "catalog_url": "https://www.ulima.edu.pe/pregrado",
+  "pdf_url": "https://www.ulima.edu.pe/sites/default/files/2026-02/malla_derecho_2026.pdf",
+  "captured_at": "2026-09-22T05:08:50.110567+00:00",
+  "files": {
+    "pdf": "data/ulima/derecho/malla.pdf"
+  },
+  "content_type": "application/pdf",
+  "size_bytes": 7848762
+}

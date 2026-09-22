@@ -1,0 +1,12 @@
+{
+  "source": "universidad_peruana_cayetano_heredia",
+  "career": "Gestión de Desarrollo Global",
+  "page_url": "https://cayetano.edu.pe/pregrado/carreras/gestion-del-desarrollo-global",
+  "brochure_url": "https://upch-repo-comercial.s3.dualstack.us-east-1.amazonaws.com/brochures/br_gestion_desarrollo_global.pdf",
+  "captured_at": "2026-09-22T04:21:49.828662+00:00",
+  "files": {
+    "html": "data/cayetano/gestion-de-desarrollo-global/source.html",
+    "courses": "data/cayetano/gestion-de-desarrollo-global/courses.json"
+  },
+  "course_count": 0
+}

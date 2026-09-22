@@ -1,0 +1,12 @@
+{
+  "source": "universidad_peruana_cayetano_heredia",
+  "career": "Administración en Salud",
+  "page_url": "https://cayetano.edu.pe/pregrado/carreras/administracion-en-salud",
+  "brochure_url": "https://upch-repo-comercial.s3.dualstack.us-east-1.amazonaws.com/brochures/br_administracion_en_salud.pdf",
+  "captured_at": "2026-09-22T04:21:31.323921+00:00",
+  "files": {
+    "html": "data/cayetano/administracion-en-salud/source.html",
+    "courses": "data/cayetano/administracion-en-salud/courses.json"
+  },
+  "course_count": 0
+}

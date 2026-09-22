@@ -1,0 +1,317 @@
+[
+  {
+    "name": "INTRODUCCIÓN A LA ADMINISTRACIÓN",
+    "cycle": "Ciclo 1.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "MATEMÁTICA BÁSICA",
+    "cycle": "Ciclo 1.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "COMUNICACIÓN Y REDACCIÓN I",
+    "cycle": "Ciclo 1.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "DESARROLLO PERSONAL Y AUTONOMÍA",
+    "cycle": "Ciclo 1.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "FILOSOFÍA Y ÉTICA",
+    "cycle": "Ciclo 1.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "FUNDAMENTOS PARA LA INNOVACIÓN Y TECNOLOGÍA",
+    "cycle": "Ciclo 1.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "INGLÉS 1",
+    "cycle": "Ciclo 1.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA I",
+    "cycle": "Ciclo 1.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "ORGANIZATIONAL DESIGN AND PROCESS",
+    "cycle": "Ciclo 2.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "CIENCIAS SOCIALES EN EL CONTEXTO ACTUAL",
+    "cycle": "Ciclo 2.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "COMUNICACIÓN Y REDACCIÓN II",
+    "cycle": "Ciclo 2.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "CULTURA AMBIENTAL Y DESARROLLO SOSTENIBLE",
+    "cycle": "Ciclo 2.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "ESTADÍSTICA PARA LOS NEGOCIOS I",
+    "cycle": "Ciclo 2.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "PENSAMIENTO CIENTÍFICO E INVESTIGACIÓN",
+    "cycle": "Ciclo 2.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "INGLÉS 2",
+    "cycle": "Ciclo 2.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA II",
+    "cycle": "Ciclo 2.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "MICROECONOMÍA",
+    "cycle": "Ciclo 3.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "PRÁCTICA ADMINISTRATIVA EN SALUD",
+    "cycle": "Ciclo 3.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "MARKETING",
+    "cycle": "Ciclo 3.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "ESTADÍSTICA PARA LOS NEGOCIOS II",
+    "cycle": "Ciclo 3.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "CONTABILIDAD GENERAL",
+    "cycle": "Ciclo 3.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "INGLÉS 3",
+    "cycle": "Ciclo 3.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA III",
+    "cycle": "Ciclo 3.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "MACROECONOMÍA",
+    "cycle": "Ciclo 4.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "INVESTIGACIÓN Y ANÁLISIS DE MERCADO",
+    "cycle": "Ciclo 4.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "INTRODUCCIÓN A LAS FINANZAS",
+    "cycle": "Ciclo 4.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "EPIDEMIOLOGÍA",
+    "cycle": "Ciclo 4.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "COSTOS Y PRESUPUESTOS",
+    "cycle": "Ciclo 4.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "ASIGNATURA ELECTIVA I",
+    "cycle": "Ciclo 4.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "INGLÉS 4",
+    "cycle": "Ciclo 4.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "STRATEGIC MANAGEMENT",
+    "cycle": "Ciclo 5.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "DERECHO EMPRESARIAL I",
+    "cycle": "Ciclo 5.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "GESTIÓN COMERCIAL",
+    "cycle": "Ciclo 5.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "GESTIÓN FINANCIERA I",
+    "cycle": "Ciclo 5.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "IINOVATION AND TECHNOLOGY MANAGEMENT",
+    "cycle": "Ciclo 5.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA IV",
+    "cycle": "Ciclo 5.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "ECONOMÍA DE LA SALUD",
+    "cycle": "Ciclo 6.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "GERENCIA DE OPERACIONES",
+    "cycle": "Ciclo 6.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "BUSINESS ANALYTICS",
+    "cycle": "Ciclo 6.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "GESTIÓN FINANCIERA II",
+    "cycle": "Ciclo 6.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "GERENCIA DE RECURSOS HUMANOS",
+    "cycle": "Ciclo 6.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "DERECHO EMPRESARIAL II",
+    "cycle": "Ciclo 6.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "GESTIÓN DEL CONOCIMIENTO EN ORGANIZACIONES DE SALUD",
+    "cycle": "Ciclo 7.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "GESTIÓN DE MEDICAMENTOS, EQUIPOS E INSUMOS MÉDICOS",
+    "cycle": "Ciclo 7.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "HEALTH INNNOVATION LANDSCAPE",
+    "cycle": "Ciclo 7.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "SISTEMAS DE SALUD",
+    "cycle": "Ciclo 7.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "INVESTIGACIÓN I",
+    "cycle": "Ciclo 7.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "ASIGNATURA ELECTIVA II",
+    "cycle": "Ciclo 7.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "GESTIÓN DE LA CALIDAD EN ORGANIZACIONES DE LA SALUD",
+    "cycle": "Ciclo 8.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "HEALTH INSURANCE MANAGEMENT",
+    "cycle": "Ciclo 8.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "FORMULACIÓNY EVALUACIÓN DE PROYECTOS",
+    "cycle": "Ciclo 8.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "LEADERSHIP AND ORGANIZATIONAL BEHAVIOR",
+    "cycle": "Ciclo 8.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "ASIGNATURA ELECTIVA III",
+    "cycle": "Ciclo 8.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "INVESTIGACIÓN II",
+    "cycle": "Ciclo 8.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "DIRRECCIÓN DE ORGANIZACIONES DE SALUD",
+    "cycle": "Ciclo 9.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "PROJECT MANAGEMENT",
+    "cycle": "Ciclo 9.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "BUSINESS PLAN I",
+    "cycle": "Ciclo 9.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "SALUD OCUPACIONAL",
+    "cycle": "Ciclo 9.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "ASIGNATURA ELECTIVA IV",
+    "cycle": "Ciclo 9.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "INVESTIGACIÓN III",
+    "cycle": "Ciclo 9.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "EXTERNADO",
+    "cycle": "Ciclo 10.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "GESTIÓN PÚBLICA EN SALUD",
+    "cycle": "Ciclo 10.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "TRABAJO DE INVESTIGACIÓN",
+    "cycle": "Ciclo 10.° CICLO:",
+    "modality": null
+  }
+]

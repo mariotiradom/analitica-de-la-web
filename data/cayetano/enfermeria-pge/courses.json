@@ -1,0 +1,232 @@
+[
+  {
+    "name": "Bases Biológicas y Ambientales",
+    "cycle": "Ciclo 1.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "Filosofía",
+    "cycle": "Ciclo 1.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "Ética",
+    "cycle": "Ciclo 1.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "Matemáticas Básicas",
+    "cycle": "Ciclo 1.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "Estrategias para el Aprendizaje Autónomo",
+    "cycle": "Ciclo 1.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "Identidad Profesional en Enfermería",
+    "cycle": "Ciclo 1.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "Actividad Complementaria I",
+    "cycle": "Ciclo 1.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "Comunicación y Redacción II",
+    "cycle": "Ciclo 2.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "Realidad Peruana, Ciudadanía y Globalización",
+    "cycle": "Ciclo 2.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "Psicología Evolutiva",
+    "cycle": "Ciclo 2.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "Elementos de Química",
+    "cycle": "Ciclo 2.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "Metodología del Cuidado de Enfermería",
+    "cycle": "Ciclo 2.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "Promoción y Educación para la Salud",
+    "cycle": "Ciclo 2.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "Actividad Complementaria II",
+    "cycle": "Ciclo 2.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "Bioquímica",
+    "cycle": "Ciclo 3.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "Anatomía y Fisiología Humana",
+    "cycle": "Ciclo 3.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "Cuidados Básicos en Enfermería",
+    "cycle": "Ciclo 3.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "Cuidado en Enfermería en la Salud y Bienestar de la Comunidad",
+    "cycle": "Ciclo 3.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "Nutrición",
+    "cycle": "Ciclo 4.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "Microbiología y Parasitología",
+    "cycle": "Ciclo 4.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "Cuidado en Enfermería en la Salud y Desarrollo Niño y Adolescente Sano",
+    "cycle": "Ciclo 4.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "Cuidado en Enfermería en la Salud de la Mujer y Recién Nacido",
+    "cycle": "Ciclo 4.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "Inglés Básico Inicial",
+    "cycle": "Ciclo 4.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "Farmacología en Enfermería",
+    "cycle": "Ciclo 5.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "Cuidado de Enfermería en la Salud Mental",
+    "cycle": "Ciclo 5.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "Cuidado de Enfermería en la Salud del Adulto I",
+    "cycle": "Ciclo 5.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "Inglés Básico Elemental",
+    "cycle": "Ciclo 5.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "Epidemiología",
+    "cycle": "Ciclo 6.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "Metodología de la Investigación",
+    "cycle": "Ciclo 6.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "Cuidado de Enfermería en la Salud del Adulto II",
+    "cycle": "Ciclo 6.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "Inglés Pre-Intermedio",
+    "cycle": "Ciclo 6.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "Actividad Complementaria III",
+    "cycle": "Ciclo 6.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "Asignatura Electiva I",
+    "cycle": "Ciclo 7.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "Trabajo de Investigación I",
+    "cycle": "Ciclo 7.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "Cuidado de Enfermería en la Salud del Niño y Adolescente con Problemas de Salud",
+    "cycle": "Ciclo 7.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "Estadística Descriptiva e Inferencial",
+    "cycle": "Ciclo 7.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "Inglés Intermedio",
+    "cycle": "Ciclo 7.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "Asignatura Electiva II",
+    "cycle": "Ciclo 8.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "Cuidado de Enfermería en la Salud del Adulto Mayor",
+    "cycle": "Ciclo 8.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "Cuidados Paliativos",
+    "cycle": "Ciclo 8.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "Gestión del Servicios Enfermería",
+    "cycle": "Ciclo 8.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "Cuidado de Enfermería en la Salud Familiar",
+    "cycle": "Ciclo 8.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "Actividad Complementaria",
+    "cycle": "Ciclo 8.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "Internado I",
+    "cycle": "Ciclo 9.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "Trabajo de Investigación II",
+    "cycle": "Ciclo 9.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "Internado II",
+    "cycle": "Ciclo 10.° CICLO:",
+    "modality": null
+  }
+]

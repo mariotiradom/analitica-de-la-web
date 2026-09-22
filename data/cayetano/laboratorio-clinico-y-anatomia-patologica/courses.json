@@ -1,0 +1,302 @@
+[
+  {
+    "name": "TÉCNICAS BÁSICAS EN ATENCIÓN DE SALUD",
+    "cycle": "Ciclo 1",
+    "modality": "P"
+  },
+  {
+    "name": "ELEMENTOS DE QUÍMICA",
+    "cycle": "Ciclo 1",
+    "modality": "P"
+  },
+  {
+    "name": "MATEMÁTICAS BÁSICAS",
+    "cycle": "Ciclo 1",
+    "modality": "P"
+  },
+  {
+    "name": "INTRODUCCIÓN AL LABORATORIO CLÍNICO Y ANATOMÍA PATOLÓGICA",
+    "cycle": "Ciclo 1",
+    "modality": "P"
+  },
+  {
+    "name": "FILOSOFÍA Y ÉTICA",
+    "cycle": "Ciclo 1",
+    "modality": "NP"
+  },
+  {
+    "name": "DESARROLLO PERSONAL Y AUTONOMÍA",
+    "cycle": "Ciclo 1",
+    "modality": "SP"
+  },
+  {
+    "name": "COMUNICACIÓN Y REDACCIÓN I",
+    "cycle": "Ciclo 1",
+    "modality": "NP"
+  },
+  {
+    "name": "INGLÉS 1",
+    "cycle": "Ciclo 1",
+    "modality": "NP"
+  },
+  {
+    "name": "FUNDAMENTOS DE QUÍMICA ORGÁNICA",
+    "cycle": "Ciclo 2",
+    "modality": "P"
+  },
+  {
+    "name": "BIOLOGÍA GENERAL",
+    "cycle": "Ciclo 2",
+    "modality": "P"
+  },
+  {
+    "name": "FÍSICA BÁSICA",
+    "cycle": "Ciclo 2",
+    "modality": "P"
+  },
+  {
+    "name": "COMUNICACIÓN Y REDACCIÓN II",
+    "cycle": "Ciclo 2",
+    "modality": "NP"
+  },
+  {
+    "name": "CULTURA AMBIENTAL Y DESARROLLO SOSTENIBLE",
+    "cycle": "Ciclo 2",
+    "modality": "NP"
+  },
+  {
+    "name": "PENSAMIENTO CIENTÍFICO E INVESTIGACIÓN",
+    "cycle": "Ciclo 2",
+    "modality": "NP"
+  },
+  {
+    "name": "CIENCIAS SOCIALES EN EL CONTEXTO ACTUAL",
+    "cycle": "Ciclo 2",
+    "modality": "NP"
+  },
+  {
+    "name": "INGLÉS 2",
+    "cycle": "Ciclo 2",
+    "modality": "NP"
+  },
+  {
+    "name": "FUNDAMENTOS DE MORFOFISIOLOGÍA",
+    "cycle": "Ciclo 3",
+    "modality": "P"
+  },
+  {
+    "name": "DISEÑO, SEGURIDAD Y AUTOMATIZACIÓN EN EQUIPOS DE LABORATORIO CLÍNICO",
+    "cycle": "Ciclo 3",
+    "modality": "P"
+  },
+  {
+    "name": "ASIGNATURA ELECTIVA I",
+    "cycle": "Ciclo 3",
+    "modality": "P"
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA I",
+    "cycle": "Ciclo 3",
+    "modality": "P"
+  },
+  {
+    "name": "INGLÉS 3",
+    "cycle": "Ciclo 3",
+    "modality": "NP"
+  },
+  {
+    "name": "ESTADÍSTICA",
+    "cycle": "Ciclo 4",
+    "modality": "SP"
+  },
+  {
+    "name": "FISIOPATOLOGÍA GENERAL",
+    "cycle": "Ciclo 4",
+    "modality": "P"
+  },
+  {
+    "name": "BIOQUÍMICA Y BIOLOGÍA MOLECULAR",
+    "cycle": "Ciclo 4",
+    "modality": "P"
+  },
+  {
+    "name": "FARMACOLOGÍA CLÍNICA APLICADA",
+    "cycle": "Ciclo 4",
+    "modality": "NP"
+  },
+  {
+    "name": "HEMATOLOGÍA GENERAL",
+    "cycle": "Ciclo 4",
+    "modality": "P"
+  },
+  {
+    "name": "TÉCNICAS EN ANATOMÍA PATOLÓGICA Y CITOLOGÍA EXFOLIATIVA",
+    "cycle": "Ciclo 4",
+    "modality": "P"
+  },
+  {
+    "name": "INGLÉS 4",
+    "cycle": "Ciclo 4",
+    "modality": "NP"
+  },
+  {
+    "name": "GENERAL CLINICAL CHEMISTRY",
+    "cycle": "Ciclo 5",
+    "modality": "P"
+  },
+  {
+    "name": "INMUNOLOGÍA GENERAL",
+    "cycle": "Ciclo 5",
+    "modality": "P"
+  },
+  {
+    "name": "HEMATOLOGÍA ESPECIAL",
+    "cycle": "Ciclo 5",
+    "modality": "P"
+  },
+  {
+    "name": "CITOTECNOLOGÍA EXFOLIATIVA",
+    "cycle": "Ciclo 5",
+    "modality": "P"
+  },
+  {
+    "name": "ASIGNATURA ELECTIVA II",
+    "cycle": "Ciclo 5",
+    "modality": "P"
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA II",
+    "cycle": "Ciclo 5",
+    "modality": "P"
+  },
+  {
+    "name": "QUÍMICA CLÍNICA ESPECIAL",
+    "cycle": "Ciclo 6",
+    "modality": "P"
+  },
+  {
+    "name": "INMUNOLOGÍA ESPECIAL",
+    "cycle": "Ciclo 6",
+    "modality": "P"
+  },
+  {
+    "name": "CITOGENÉTICA HUMANA",
+    "cycle": "Ciclo 6",
+    "modality": "P"
+  },
+  {
+    "name": "BACTERIOLOGÍA",
+    "cycle": "Ciclo 6",
+    "modality": "P"
+  },
+  {
+    "name": "ASIGNATURA ELECTIVA III",
+    "cycle": "Ciclo 6",
+    "modality": "P"
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA III",
+    "cycle": "Ciclo 6",
+    "modality": "P"
+  },
+  {
+    "name": "METODOLOGÍA DE LA INVESTIGACIÓN",
+    "cycle": "Ciclo 7",
+    "modality": "P"
+  },
+  {
+    "name": "ÉTICA Y DEONTOLOGÍA",
+    "cycle": "Ciclo 7",
+    "modality": "NP"
+  },
+  {
+    "name": "PARASITOLOGÍA",
+    "cycle": "Ciclo 7",
+    "modality": "P"
+  },
+  {
+    "name": "MICOLOGÍA",
+    "cycle": "Ciclo 7",
+    "modality": "P"
+  },
+  {
+    "name": "VIROLOGÍA",
+    "cycle": "Ciclo 7",
+    "modality": "P"
+  },
+  {
+    "name": "HEMOTERAPIA Y BANCO DE SANGRE",
+    "cycle": "Ciclo 7",
+    "modality": "P"
+  },
+  {
+    "name": "EPIDEMIOLOGÍA Y SALUD PÚBLICA",
+    "cycle": "Ciclo 8",
+    "modality": "NP"
+  },
+  {
+    "name": "LEGISLACIÓN EN SALUD",
+    "cycle": "Ciclo 8",
+    "modality": "NP"
+  },
+  {
+    "name": "TALLER DE DISEÑO DE PROYECTO DE INVESTIGACIÓN",
+    "cycle": "Ciclo 8",
+    "modality": "P"
+  },
+  {
+    "name": "GESTIÓN Y ADMINISTRACIÓN EN SERVICIOS DE SALUD",
+    "cycle": "Ciclo 8",
+    "modality": "SP"
+  },
+  {
+    "name": "GESTIÓN DE CALIDAD EN EL LABORATORIO CLÍNICO",
+    "cycle": "Ciclo 8",
+    "modality": "P"
+  },
+  {
+    "name": "TÉCNICAS EN NECROPSIA Y PATOLOGÍA FORENSE",
+    "cycle": "Ciclo 8",
+    "modality": "P"
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA IV",
+    "cycle": "Ciclo 8",
+    "modality": "P"
+  },
+  {
+    "name": "PRÁCTICA CLÍNICA HOSPITALARIA EN HEMATOLOGÍA",
+    "cycle": "Ciclo 9",
+    "modality": "P"
+  },
+  {
+    "name": "PRÁCTICA CLÍNICA HOSPITALARIA EN HEMOTERAPIA Y BANCO DE SANGRE",
+    "cycle": "Ciclo 9",
+    "modality": "P"
+  },
+  {
+    "name": "PRÁCTICA CLÍNICA HOSPITALARIA EN MICROBIOLOGÍA",
+    "cycle": "Ciclo 9",
+    "modality": "SP"
+  },
+  {
+    "name": "TRABAJO DE INVESTIGACIÓN",
+    "cycle": "Ciclo 10",
+    "modality": "P"
+  },
+  {
+    "name": "PRÁCTICA CLÍNICA HOSPITALARIA EN INMUNODIAGNÓSTICO",
+    "cycle": "Ciclo 10",
+    "modality": "P"
+  },
+  {
+    "name": "PRÁCTICA CLÍNICA HOSPITALARIA EN QUÍMICA CLÍNICA",
+    "cycle": "Ciclo 10",
+    "modality": "P"
+  },
+  {
+    "name": "PRÁCTICA CLÍNICA HOSPITALARIA EN ANATOMÍA PATOLÓGICA",
+    "cycle": "Ciclo 10",
+    "modality": "P"
+  }
+]

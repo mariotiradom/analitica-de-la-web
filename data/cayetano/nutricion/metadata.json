@@ -1,0 +1,12 @@
+{
+  "source": "universidad_peruana_cayetano_heredia",
+  "career": "Nutrición",
+  "page_url": "https://cayetano.edu.pe/pregrado/carreras/nutricion",
+  "brochure_url": "https://upch-repo-comercial.s3.dualstack.us-east-1.amazonaws.com/brochures/br_nutricion.pdf",
+  "captured_at": "2026-09-22T04:22:01.450508+00:00",
+  "files": {
+    "html": "data/cayetano/nutricion/source.html",
+    "courses": "data/cayetano/nutricion/courses.json"
+  },
+  "course_count": 64
+}

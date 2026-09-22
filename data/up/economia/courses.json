@@ -1,0 +1,166 @@
+[
+  {
+    "name": "Nivelación en Lenguaje",
+    "cycle": "Ciclo 0"
+  },
+  {
+    "name": "Nivelación en Matemáticas",
+    "cycle": "Ciclo 0"
+  },
+  {
+    "name": "Nivelación en Informática",
+    "cycle": "Ciclo 0"
+  },
+  {
+    "name": "Lenguaje I",
+    "cycle": "Ciclo I"
+  },
+  {
+    "name": "Matemáticas I",
+    "cycle": "Ciclo I"
+  },
+  {
+    "name": "Economía General I",
+    "cycle": "Ciclo I"
+  },
+  {
+    "name": "Fundamentos de Contabilidad",
+    "cycle": "Ciclo I"
+  },
+  {
+    "name": "Lenguaje II",
+    "cycle": "Ciclo II"
+  },
+  {
+    "name": "Economía General II",
+    "cycle": "Ciclo II"
+  },
+  {
+    "name": "Matemáticas II",
+    "cycle": "Ciclo II"
+  },
+  {
+    "name": "Cursos de Procesos Sociales",
+    "cycle": "Ciclo II"
+  },
+  {
+    "name": "Investigación Académica",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Estadística I",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Matemáticas III",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Microeconomía I",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Macroeconomía I",
+    "cycle": "Ciclo IV"
+  },
+  {
+    "name": "Estadística II",
+    "cycle": "Ciclo IV"
+  },
+  {
+    "name": "Matemáticas IV",
+    "cycle": "Ciclo IV"
+  },
+  {
+    "name": "Microeconomía II",
+    "cycle": "Ciclo IV"
+  },
+  {
+    "name": "Macroeconomía II",
+    "cycle": "Ciclo V"
+  },
+  {
+    "name": "Estadística Aplicada",
+    "cycle": "Ciclo V"
+  },
+  {
+    "name": "Teoría del Comercio Internacional",
+    "cycle": "Ciclo V"
+  },
+  {
+    "name": "Evaluación Privada de Proyectos",
+    "cycle": "Ciclo V"
+  },
+  {
+    "name": "Cursos de Pensamiento Crítico",
+    "cycle": "Ciclo V"
+  },
+  {
+    "name": "Economía Financiera I",
+    "cycle": "Ciclo VI"
+  },
+  {
+    "name": "Econometría I",
+    "cycle": "Ciclo VI"
+  },
+  {
+    "name": "Gestión de los Recursos Naturales",
+    "cycle": "Ciclo VI"
+  },
+  {
+    "name": "Macroeconomía III",
+    "cycle": "Ciclo VI"
+  },
+  {
+    "name": "Cursos de Procesos Sociales",
+    "cycle": "Ciclo VI"
+  },
+  {
+    "name": "Economía y Derecho",
+    "cycle": "Ciclo VII"
+  },
+  {
+    "name": "Econometría II",
+    "cycle": "Ciclo VII"
+  },
+  {
+    "name": "Historia del Pensamiento Económico",
+    "cycle": "Ciclo VII"
+  },
+  {
+    "name": "Macroeconomía Internacional",
+    "cycle": "Ciclo VII"
+  },
+  {
+    "name": "Organización Industrial",
+    "cycle": "Ciclo VIII"
+  },
+  {
+    "name": "Política Económica",
+    "cycle": "Ciclo VIII"
+  },
+  {
+    "name": "Cursos de Pensamiento Crítico",
+    "cycle": "Ciclo VIII"
+  },
+  {
+    "name": "Ética",
+    "cycle": "Ciclo IX"
+  },
+  {
+    "name": "Proyección Social",
+    "cycle": "Ciclo IX"
+  },
+  {
+    "name": "Investigación Económica I",
+    "cycle": "Ciclo IX"
+  },
+  {
+    "name": "Investigación Económica II",
+    "cycle": "Ciclo X"
+  },
+  {
+    "name": "Cursos de Desarrollo Personal",
+    "cycle": "Ciclo X"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "source": "universidad_del_pacifico",
+  "career": "Negocios Internacionales",
+  "career_url": "https://www.up.edu.pe/carreras-postgrado-idiomas/carreras-pregrado/negociosinternacionales",
+  "page_url": "https://www.up.edu.pe/carreras-postgrado-idiomas/carreras-pregrado/negociosinternacionales/Paginas/plan-estudios.aspx",
+  "captured_at": "2026-09-22T04:05:54.988991+00:00",
+  "robots_checked": true,
+  "files": {
+    "html": "data/up/negocios-internacionales/source.html",
+    "courses": "data/up/negocios-internacionales/courses.json"
+  },
+  "course_count": 50
+}

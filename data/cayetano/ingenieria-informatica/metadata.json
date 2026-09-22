@@ -1,0 +1,12 @@
+{
+  "source": "universidad_peruana_cayetano_heredia",
+  "career": "Ingeniería Informática",
+  "page_url": "https://cayetano.edu.pe/pregrado/carreras/ingenieria-informatica",
+  "brochure_url": "https://upch-repo-comercial.s3.dualstack.us-east-1.amazonaws.com/brochures/br_informatica.pdf",
+  "captured_at": "2026-09-22T04:21:55.056828+00:00",
+  "files": {
+    "html": "data/cayetano/ingenieria-informatica/source.html",
+    "courses": "data/cayetano/ingenieria-informatica/courses.json"
+  },
+  "course_count": 70
+}

@@ -1,0 +1,392 @@
+[
+  {
+    "name": "MATEMÁTICAS BÁSICAS",
+    "cycle": "Ciclo 1° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "ELEMENTOS DE QUÍMICA",
+    "cycle": "Ciclo 1° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "INTRODUCCIÓN A LA ESTOMATOLOGÍA",
+    "cycle": "Ciclo 1° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "DESARROLLO PERSONAL Y AUTONOMÍA",
+    "cycle": "Ciclo 1° CICLO:",
+    "modality": "SP"
+  },
+  {
+    "name": "COMUNICACIÓN Y REDACCIÓN I",
+    "cycle": "Ciclo 1° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "TÉCNICAS BÁSICAS EN ATENCIÓN DE SALUD",
+    "cycle": "Ciclo 1° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "FILOSOFÍA Y ÉTICA",
+    "cycle": "Ciclo 1° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "INGLÉS 1",
+    "cycle": "Ciclo 1° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "FÍSICA BÁSICA",
+    "cycle": "Ciclo 2° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "FUNDAMENTOS BÁSICOS DE LA PRÁCTICA",
+    "cycle": "Ciclo 2° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "ESTOMATOLÓGICA",
+    "cycle": "Ciclo 2° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "CIENCIAS SOCIALES EN EL CONTEXTO ACTUAL",
+    "cycle": "Ciclo 2° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "BIOLOGÍA GENERAL",
+    "cycle": "Ciclo 2° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "COMUNICACIÓN Y REDACCIÓN II",
+    "cycle": "Ciclo 2° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "CULTURA AMBIENTAL Y DESARROLLO SOSTENIBLE",
+    "cycle": "Ciclo 2° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA I",
+    "cycle": "Ciclo 2° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "INGLÉS 2",
+    "cycle": "Ciclo 2° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "BIOQUÍMICA GENERAL Y ORAL",
+    "cycle": "Ciclo 3.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "ANATOMÍA, HISTOLOGÍA Y FISIOLOGÍA DEL CUERPO HUMANO",
+    "cycle": "Ciclo 3.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "ANATOMÍA, HISTOLOGÍA Y FISIOLOGÍA DE CABEZA Y CUELLO",
+    "cycle": "Ciclo 3.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "ANATOMÍA, HISTOLOGÍA Y FISIOLOGÍA DENTAL Y PERIODONTAL",
+    "cycle": "Ciclo 3.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "INTRODUCCIÓN A LA BIOESTADÍSTICA",
+    "cycle": "Ciclo 3.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "INGLÉS 3",
+    "cycle": "Ciclo 3.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA II",
+    "cycle": "Ciclo 3.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "ASIGNATURA ELECTIVA I",
+    "cycle": "Ciclo 3.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "MICROBIOLOGÍA GENERAL Y ESTOMATOLÓGICA",
+    "cycle": "Ciclo 4.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "FARMACOLOGÍA APLICADA A LA ESTOMATOLOGÍA",
+    "cycle": "Ciclo 4.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "SEMIOLOGÍA GENERAL Y BUCAL",
+    "cycle": "Ciclo 4.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "CIRUGÍA BUCAL I",
+    "cycle": "Ciclo 4.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "PRINCIPIOS DE IMAGENOLOGÍA EN ESTOMATOLOGÍA",
+    "cycle": "Ciclo 4.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "ODONTOLOGÍA SOCIAL I",
+    "cycle": "Ciclo 4.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "DIAGNÓSTICO DE ENFERMEDADES BUCALES PREVALENTES",
+    "cycle": "Ciclo 4.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "INGLÉS 4",
+    "cycle": "Ciclo 4.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "ASIGNATURA ELECTIVA II",
+    "cycle": "Ciclo 4.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "ACTIVIDAD",
+    "cycle": "Ciclo 4.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "COMPLEMENTARIA III",
+    "cycle": "Ciclo 4.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "CLÍNICA INTEGRAL PARA EL ADULTO I",
+    "cycle": "Ciclo 5.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "DESÓRDENES FUNCIONALES OCLUSALES",
+    "cycle": "Ciclo 5.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "PERIODONCIA I",
+    "cycle": "Ciclo 5.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "ODONTOLOGÍA RESTAURADORA I",
+    "cycle": "Ciclo 5.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "ENDODONCIA I",
+    "cycle": "Ciclo 5.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "CLÍNICA INTEGRAL PEDIÁTRICA I",
+    "cycle": "Ciclo 5.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "PATOLOGÍA GENERAL Y BUCAL",
+    "cycle": "Ciclo 5.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "ODONTOLOGÍA SOCIAL II",
+    "cycle": "Ciclo 5.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA IV",
+    "cycle": "Ciclo 5.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "ASIGNATURA ELECTIVA III",
+    "cycle": "Ciclo 5.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "CLÍNICA INTEGRAL PARA EL ADULTO II",
+    "cycle": "Ciclo 6.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "DESÓRDENES CÉRVICO CRÁNEO TÉMPORO MANDIBULARES",
+    "cycle": "Ciclo 6.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "PERIODONCIA II",
+    "cycle": "Ciclo 6.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "ODONTOLOGÍA RESTAURADORA II",
+    "cycle": "Ciclo 6.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "CLÍNICA INTEGRAL PEDIÁTRICA II",
+    "cycle": "Ciclo 6.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "CIRUGÍA BUCAL II",
+    "cycle": "Ciclo 6.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "MEDICINA BUCAL",
+    "cycle": "Ciclo 6.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "ODONTOLOGÍA SOCIAL III",
+    "cycle": "Ciclo 6.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "INVESTIGACIÓN EN ESTOMATOLOGÍA I",
+    "cycle": "Ciclo 6.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "GESTIÓN Y ADMINISTRACIÓN EN ODONTOLOGÍA",
+    "cycle": "Ciclo 6.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "CLÍNICA INTEGRAL PARA EL ADULTO III",
+    "cycle": "Ciclo 7.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "REHABILITACIÓN ORAL DEL EDÉNTULO PARCIAL",
+    "cycle": "Ciclo 7.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "PERIODONTICS III",
+    "cycle": "Ciclo 7.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "ENDODONCIA II",
+    "cycle": "Ciclo 7.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "CLÍNICA INTEGRAL PEDIÁTRICA III",
+    "cycle": "Ciclo 7.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "EMPRENDIMIENTO Y NEGOCIOS EN ODONTOLOGÍA",
+    "cycle": "Ciclo 7.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "CIRUGÍA BUCAL III",
+    "cycle": "Ciclo 7.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "ODONTOLOGÍA SOCIAL IV",
+    "cycle": "Ciclo 7.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "INVESTIGACIÓN EN ESTOMATOLOGÍA II",
+    "cycle": "Ciclo 7.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "CLÍNICA INTEGRAL PARA EL ADULTO IV",
+    "cycle": "Ciclo 8.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "REHABILITACIÓN DEL EDÉNTULO TOTAL",
+    "cycle": "Ciclo 8.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "CLÍNICA INTEGRAL PEDIÁTRICA IV",
+    "cycle": "Ciclo 8.° CICLO:",
+    "modality": "SP"
+  },
+  {
+    "name": "INFECTOLOGÍA ESTOMATOLÓGICA",
+    "cycle": "Ciclo 8.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "MARKETING Y COMUNICACIÓN EN ODONTOLOGÍA",
+    "cycle": "Ciclo 8.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "ODONTOLOGÍA SOCIAL V",
+    "cycle": "Ciclo 8.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "INVESTIGACIÓN EN ESTOMATOLOGÍA III",
+    "cycle": "Ciclo 8.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "ASIGNATURA ELECTIVA IV",
+    "cycle": "Ciclo 8.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "INTERNADO CLÍNICO ESTOMATOLÓGICO PARA EL ADULTO",
+    "cycle": "Ciclo 9.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "INTERNADO CLÍNICO ESTOMATOLÓGICO PEDIÁTRICO",
+    "cycle": "Ciclo 9.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "INTERNADO HOSPITALARIO ESTOMATOLÓGICO",
+    "cycle": "Ciclo 10.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "INTERNADO RURAL ESTOMATOLÓGICO",
+    "cycle": "Ciclo 10.° CICLO:",
+    "modality": "SP"
+  },
+  {
+    "name": "TRABAJO DE INVESTIGACIÓN",
+    "cycle": "Ciclo 10.° CICLO:",
+    "modality": "NP"
+  }
+]

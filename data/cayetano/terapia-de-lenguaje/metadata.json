@@ -1,0 +1,12 @@
+{
+  "source": "universidad_peruana_cayetano_heredia",
+  "career": "Terapia de Lenguaje",
+  "page_url": "https://cayetano.edu.pe/pregrado/carreras/terapia-de-audicion-voz-y-lenguaje",
+  "brochure_url": "https://upch-repo-comercial.s3.dualstack.us-east-1.amazonaws.com/brochures/br_lenguaje.pdf",
+  "captured_at": "2026-09-22T04:22:11.341790+00:00",
+  "files": {
+    "html": "data/cayetano/terapia-de-lenguaje/source.html",
+    "courses": "data/cayetano/terapia-de-lenguaje/courses.json"
+  },
+  "course_count": 58
+}

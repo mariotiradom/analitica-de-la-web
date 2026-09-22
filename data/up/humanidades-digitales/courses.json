@@ -1,0 +1,198 @@
+[
+  {
+    "name": "Nivelación en Lenguaje",
+    "cycle": "Ciclo 0"
+  },
+  {
+    "name": "Nivelación en Matemáticas",
+    "cycle": "Ciclo 0"
+  },
+  {
+    "name": "Nivelación en Informática",
+    "cycle": "Ciclo 0"
+  },
+  {
+    "name": "Introducción a las Humanidades Digitales",
+    "cycle": "Ciclo I"
+  },
+  {
+    "name": "Lectura Crítica de la Prensa Digital y en las Redes Sociales",
+    "cycle": "Ciclo I"
+  },
+  {
+    "name": "Matemáticas I",
+    "cycle": "Ciclo I"
+  },
+  {
+    "name": "Economía General I",
+    "cycle": "Ciclo I"
+  },
+  {
+    "name": "Lenguaje I",
+    "cycle": "Ciclo I"
+  },
+  {
+    "name": "Cursos de Ciencias Sociales",
+    "cycle": "Ciclo II"
+  },
+  {
+    "name": "Cursos de Quehacer Científico",
+    "cycle": "Ciclo II"
+  },
+  {
+    "name": "Cultura, Visualidad y Política",
+    "cycle": "Ciclo II"
+  },
+  {
+    "name": "Economía General II",
+    "cycle": "Ciclo II"
+  },
+  {
+    "name": "Lenguaje II",
+    "cycle": "Ciclo II"
+  },
+  {
+    "name": "Investigación Académica",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Marketing Estratégico",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Herramientas de Programación",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Estadística I",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Comunicación Digital",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Arquitectura del Sistema de Información",
+    "cycle": "Ciclo IV"
+  },
+  {
+    "name": "Taller de Humanidades Digitales 1",
+    "cycle": "Ciclo IV"
+  },
+  {
+    "name": "Matemáticas Discretas para la Computación",
+    "cycle": "Ciclo IV"
+  },
+  {
+    "name": "Análisis Cuantitativo en las Ciencias Humanas",
+    "cycle": "Ciclo IV"
+  },
+  {
+    "name": "Curaduría Digital de Contenidos Culturales",
+    "cycle": "Ciclo IV"
+  },
+  {
+    "name": "Fundamentos de Analítica",
+    "cycle": "Ciclo V"
+  },
+  {
+    "name": "Análisis de Datos Geográficos",
+    "cycle": "Ciclo V"
+  },
+  {
+    "name": "Desing Thinking and Technological Innovation",
+    "cycle": "Ciclo V"
+  },
+  {
+    "name": "Fundamentos de Contabilidad",
+    "cycle": "Ciclo V"
+  },
+  {
+    "name": "Cursos de Pensamiento Crítico",
+    "cycle": "Ciclo V"
+  },
+  {
+    "name": "Procesamiento de Datos Multimedia",
+    "cycle": "Ciclo VI"
+  },
+  {
+    "name": "Introducción al Análisis de Texto",
+    "cycle": "Ciclo VI"
+  },
+  {
+    "name": "Ciencia, Tecnología y Sociedad",
+    "cycle": "Ciclo VI"
+  },
+  {
+    "name": "Literatura y Videojuegos",
+    "cycle": "Ciclo VI"
+  },
+  {
+    "name": "Cursos de Desarrollo Personal",
+    "cycle": "Ciclo VI"
+  },
+  {
+    "name": "Análisis de Datos Multimedia",
+    "cycle": "Ciclo VII"
+  },
+  {
+    "name": "Diseño",
+    "cycle": "Ciclo VII"
+  },
+  {
+    "name": "Dinámicas Espaciales y Territoriales de Perú",
+    "cycle": "Ciclo VII"
+  },
+  {
+    "name": "Cursos de Pensamiento Crítico",
+    "cycle": "Ciclo VII"
+  },
+  {
+    "name": "Cursos de Procesos Sociales",
+    "cycle": "Ciclo VII"
+  },
+  {
+    "name": "Ingeniería de Datos",
+    "cycle": "Ciclo VIII"
+  },
+  {
+    "name": "Machine Learning para los Negocios y Humanidades",
+    "cycle": "Ciclo VIII"
+  },
+  {
+    "name": "Taller de Humanidades Digitales 2",
+    "cycle": "Ciclo VIII"
+  },
+  {
+    "name": "Experiencia del usuario",
+    "cycle": "Ciclo VIII"
+  },
+  {
+    "name": "Taller de Humanidades Digitales 3",
+    "cycle": "Ciclo IX"
+  },
+  {
+    "name": "Ética",
+    "cycle": "Ciclo IX"
+  },
+  {
+    "name": "Cursos de Procesos Sociales",
+    "cycle": "Ciclo IX"
+  },
+  {
+    "name": "Proyección Social",
+    "cycle": "Ciclo IX"
+  },
+  {
+    "name": "Gobierno Electrónico",
+    "cycle": "Ciclo X"
+  },
+  {
+    "name": "Ética en la Era Digital",
+    "cycle": "Ciclo X"
+  },
+  {
+    "name": "Trabajo Final de Humanidades Digitales",
+    "cycle": "Ciclo X"
+  }
+]

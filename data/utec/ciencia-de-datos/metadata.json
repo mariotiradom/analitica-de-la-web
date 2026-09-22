@@ -1,0 +1,13 @@
+{
+  "source": "utec",
+  "page_url": "https://utec.edu.pe/carreras/ciencia-de-datos-e-inteligencia-artificial",
+  "curriculum_image_url": "https://utec.edu.pe/sites/default/files/2024-07/image%20%2815%29.png",
+  "captured_at": "2026-09-22T00:09:58.600926+00:00",
+  "robots_checked": true,
+  "files": {
+    "html": "data/utec/ciencia-de-datos/source.html",
+    "page_decoration": "data/utec/ciencia-de-datos/page-decoration.png",
+    "courses": "data/utec/ciencia-de-datos/courses.json"
+  },
+  "course_count": 134
+}

@@ -1,0 +1,72 @@
+{
+  "source": "universidad_del_pacifico",
+  "catalog_url": "https://www.up.edu.pe/carreras-postgrado-idiomas/carreras-pregrado/",
+  "captured_at": "2026-09-22T04:05:54.989095+00:00",
+  "robots_checked": true,
+  "files": {
+    "catalog_html": "data/up/source.html"
+  },
+  "career_count": 12,
+  "careers": [
+    {
+      "name": "Ingeniería en Innovación y Diseño",
+      "plan_url": "https://www.up.edu.pe/carreras-postgrado-idiomas/carreras-pregrado/ingenieria-innovacion-diseno/Paginas/plan-estudios.aspx",
+      "course_count": 51
+    },
+    {
+      "name": "Humanidades Digitales",
+      "plan_url": "https://www.up.edu.pe/carreras-postgrado-idiomas/carreras-pregrado/humanidades-digitales/Paginas/plan-estudios.aspx",
+      "course_count": 49
+    },
+    {
+      "name": "Política, Filosofía y Economía",
+      "plan_url": "https://www.up.edu.pe/carreras-postgrado-idiomas/carreras-pregrado/politica-filosofia-economia/Paginas/plan-estudios.aspx",
+      "course_count": 44
+    },
+    {
+      "name": "Administración",
+      "plan_url": "https://www.up.edu.pe/carreras-postgrado-idiomas/carreras-pregrado/administracion/Paginas/plan-estudios.aspx",
+      "course_count": 49
+    },
+    {
+      "name": "Contabilidad",
+      "plan_url": "https://www.up.edu.pe/carreras-postgrado-idiomas/carreras-pregrado/contabilidad/Paginas/plan-estudios.aspx",
+      "course_count": 50
+    },
+    {
+      "name": "Derecho",
+      "plan_url": "https://www.up.edu.pe/carreras-postgrado-idiomas/carreras-pregrado/derecho/Paginas/plan-estudios.aspx",
+      "course_count": 54
+    },
+    {
+      "name": "Economía",
+      "plan_url": "https://www.up.edu.pe/carreras-postgrado-idiomas/carreras-pregrado/economia/Paginas/plan-estudios.aspx",
+      "course_count": 41
+    },
+    {
+      "name": "Finanzas",
+      "plan_url": "https://www.up.edu.pe/carreras-postgrado-idiomas/carreras-pregrado/finanzas/Paginas/plan-estudios.aspx",
+      "course_count": 44
+    },
+    {
+      "name": "Ingeniería Empresarial",
+      "plan_url": "https://www.up.edu.pe/carreras-postgrado-idiomas/carreras-pregrado/ingenieriaempresarial/Paginas/plan-estudios.aspx",
+      "course_count": 51
+    },
+    {
+      "name": "Ingeniería de la Información",
+      "plan_url": "https://www.up.edu.pe/carreras-postgrado-idiomas/carreras-pregrado/ingenieriainformacion/Paginas/plan-estudios.aspx",
+      "course_count": 51
+    },
+    {
+      "name": "Marketing",
+      "plan_url": "https://www.up.edu.pe/carreras-postgrado-idiomas/carreras-pregrado/marketing/Paginas/plan-estudios.aspx",
+      "course_count": 52
+    },
+    {
+      "name": "Negocios Internacionales",
+      "plan_url": "https://www.up.edu.pe/carreras-postgrado-idiomas/carreras-pregrado/negociosinternacionales/Paginas/plan-estudios.aspx",
+      "course_count": 50
+    }
+  ]
+}

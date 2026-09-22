@@ -1,0 +1,362 @@
+[
+  {
+    "name": "MATEMÁTICAS BÁSICAS",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "ELEMENTOS DE QUÍMICA",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "COMUNICACIÓN Y REDACCIÓN I",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "FILOSOFÍA Y ÉTICA",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "BIOLOGÍA I",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "DESARROLLO PERSONAL Y AUTONOMÍA",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "OPORTUNIDADES DE DESARROLLO PROFESIONAL EN MEDICINA VETERINARIA Y ZOOTECNIA",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "INGLÉS 1",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "FÍSICA BÁSICA",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "FUNDAMENTOS DE GENÉTICA PARA LAS CIENCIAS VETERINARIAS",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "CIENCIAS SOCIALES EN EL CONTEXTO ACTUAL",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "PRÁCTICA VETERINARIA I",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "COMUNICACIÓN Y REDACCIÓN II",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "PENSAMIENTO CIENTÍFICO E INVESTIGACIÓN",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "CULTURA AMBIENTAL Y DESARROLLO SOSTENIBLE",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA I",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "INGLÉS 2",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "MICROBIOLOGÍA E INMUNOLOGÍA VETERINARIA",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "NUTRICIÓN ANIMAL I",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "ECOLOGÍA PARA LAS CIENCIAS VETERINARIAS",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "ANATOMÍA VETERINARIA",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "HISTOLOGÍA VETERINARIA",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "INGLÉS 3",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "BIOESTADÍSTICA",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "FISIOLOGÍA DE LA REPRODUCCIÓN",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "MEJORAMIENTO GENÉTICO",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "NUTRICIÓN ANIMAL II",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "PRÁCTICA VETERINARIA II",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "FISIOLOGÍA ANIMAL I",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "ASIGNATURA ELECTIVA I",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "INGLÉS 4",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "PRODUCCIÓN DE BOVINOS",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "FARMACOLOGÍA VETERINARIA",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "RECURSOS Y SISTEMAS DE ALIMENTACIÓN ANIMAL",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "INTRODUCCIÓN A LA VIDA SILVESTRE",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "SOCIOLOGÍA APLICADA AL CAMPO VETERINARIO",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "ECONOMÍA DE LA PRODUCCIÓN",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "FISIOLOGÍA ANIMAL II",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "PARASITOLOGÍA VETERINARIA",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "PATOLOGÍA CLÍNICA VETERINARIA",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "PRODUCCIÓN Y SANIDAD DE PORCINOS",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "PRÁCTICA VETERINARIA III",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "PATOLOGÍA VETERINARIA",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "SEMIOLOGÍA VETERINARIA",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "EPIDEMIOLOGÍA VETERINARIA",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA II",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "GESTIÓN Y ADMINISTRACIÓN",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "MEDICINA DE LA CONSERVACIÓN",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "FISIOPATOLOGÍA ANIMAL",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "TERIOGENOLOGÍA",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "ANESTESIOLOGÍA Y TÉCNICA QUIRÚRGICA",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA III",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "ASIGNATURA ELECTIVA II",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "TOXICOLOGÍA VETERINARIA",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "MEDICINA DE ANIMALES DE LA PRODUCCIÓN",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "METODOLOGÍA DE LA INVESTIGACIÓN I",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "PATOLOGÍA QUIRÚRGICA",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "PRODUCCIÓN Y SANIDAD DE AVES",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "PRODUCCIÓN Y SANIDAD DE HIDROBIOLÓGICOS",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "MEDICINA DE ANIMALES DE COMPAÑÍA I",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA IV",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "ASIGNATURA ELECTIVA III",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "DESARROLLO DE NEGOCIOS",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "SALUD VETERINARIA",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "METODOLOGÍA DE LA INVESTIGACIÓN II",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "VETERINARY IMAGING",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "INDUSTRIALIZACIÓN E INOCUIDAD DE ALIMENTOS DE ORIGEN ANIMAL",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "MEDICINA DE ANIMALES DE COMPAÑÍA II",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "LEGISLACIÓN VETERINARIA",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "ASIGNATURA ELECTIVA IV",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "TRABAJO DE INVESTIGACIÓN",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "ROTACIONES EN MEDICINA VETERINARIA Y ZOOTECNIA",
+    "cycle": null,
+    "modality": null
+  }
+]

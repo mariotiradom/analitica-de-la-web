@@ -1,0 +1,12 @@
+{
+  "source": "universidad_peruana_cayetano_heredia",
+  "career": "Educación PGE",
+  "page_url": "https://cayetano.edu.pe/pregrado/carreras/educacion-pge",
+  "brochure_url": "https://upch-repo-comercial.s3.dualstack.us-east-1.amazonaws.com/pge-brochures/BR_MC_EDUCACION_PGE_RGB.pdf",
+  "captured_at": "2026-09-22T04:21:40.025714+00:00",
+  "files": {
+    "html": "data/cayetano/educacion-pge/source.html",
+    "courses": "data/cayetano/educacion-pge/courses.json"
+  },
+  "course_count": 64
+}

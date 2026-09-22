@@ -1,0 +1,302 @@
+[
+  {
+    "name": "TÉCNICAS BÁSICAS EN ATENCIÓN DE SALUD",
+    "cycle": "Ciclo 1.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "ELEMENTOS DE QUÍMICA",
+    "cycle": "Ciclo 1.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "MATEMÁTICAS BÁSICAS",
+    "cycle": "Ciclo 1.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "INTRODUCCIÓN A LA TERAPIA OCUPACIONAL",
+    "cycle": "Ciclo 1.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "FILOSOFÍA Y ÉTICA",
+    "cycle": "Ciclo 1.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "DESARROLLO PERSONAL Y AUTONOMÍA",
+    "cycle": "Ciclo 1.° CICLO:",
+    "modality": "SP"
+  },
+  {
+    "name": "COMUNICACIÓN Y REDACCIÓN I",
+    "cycle": "Ciclo 1.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "INGLÉS 1",
+    "cycle": "Ciclo 1.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "FUNDAMENTOS DE QUÍMICA ORGÁNICA",
+    "cycle": "Ciclo 2.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "BIOLOGÍA GENERAL",
+    "cycle": "Ciclo 2.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "FÍSICA BÁSICA",
+    "cycle": "Ciclo 2.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "COMUNICACIÓN Y REDACCIÓN II",
+    "cycle": "Ciclo 2.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "CULTURA AMBIENTAL Y DESARROLLO SOSTENIBLE",
+    "cycle": "Ciclo 2.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "PENSAMIENTO CIENTÍFICO E INVESTIGACIÓN",
+    "cycle": "Ciclo 2.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "CIENCIAS SOCIALES EN EL CONTEXTO ACTUAL",
+    "cycle": "Ciclo 2.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "INGLÉS 2",
+    "cycle": "Ciclo 2.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "FUNDAMENTOS DE MORFOFISIOLOGÍA",
+    "cycle": "Ciclo 3.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "BASES DE LA INTERVENCIÓN EN TERAPIA OCUPACIONAL",
+    "cycle": "Ciclo 3.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA I",
+    "cycle": "Ciclo 3.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "INGLÉS 3",
+    "cycle": "Ciclo 3.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "ESTADÍSTICA",
+    "cycle": "Ciclo 4.° CICLO:",
+    "modality": "SP"
+  },
+  {
+    "name": "FISIOPATOLOGÍA GENERAL",
+    "cycle": "Ciclo 4.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "BIOMECÁNICA Y KINESIOLOGÍA DEL DESEMPEÑO OCUPACIONAL",
+    "cycle": "Ciclo 4.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "NEUROCIENCIA EN REHABILITACIÓN",
+    "cycle": "Ciclo 4.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "DESEMPEÑO OCUPACIONAL",
+    "cycle": "Ciclo 4.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA II",
+    "cycle": "Ciclo 4.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "INGLÉS 4",
+    "cycle": "Ciclo 4.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "DISFUNCIONES MEDICO – QUIRÚRGICAS EN TERAPIA OCUPACIONAL",
+    "cycle": "Ciclo 5.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "NEURODESARROLLO E INTERVENCIÓN TEMPRANA",
+    "cycle": "Ciclo 5.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "NEUROPSICOLOGÍA APLICADA A LA TERAPIA OCUPACIONAL",
+    "cycle": "Ciclo 5.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "SALUD MENTAL Y PSIQUIATRÍA",
+    "cycle": "Ciclo 5.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "ASIGNATURA ELECTIVA I",
+    "cycle": "Ciclo 5.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA II",
+    "cycle": "Ciclo 5.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "TRABAJO Y SALUD OCUPACIONAL",
+    "cycle": "Ciclo 6.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "TERAPIA OCUPACIONAL EN EDUCACIÓN",
+    "cycle": "Ciclo 6.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "TERAPIA OCUPACIONAL EN NIÑOS Y ADOLESCENTES",
+    "cycle": "Ciclo 6.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "TECNOLOGÍA ASISTIDA E INNOVACIÓN",
+    "cycle": "Ciclo 6.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "ASIGNATURA ELECTIVA III",
+    "cycle": "Ciclo 6.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA IV",
+    "cycle": "Ciclo 6.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "METODOLOGÍA DE LA INVESTIGACIÓN",
+    "cycle": "Ciclo 7.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "ÉTICA Y DEONTOLOGÍA",
+    "cycle": "Ciclo 7.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "TERAPIA OCUPACIONAL EN DISFUNCIONES FÍSICAS EN EL ADULTO",
+    "cycle": "Ciclo 7.° CICLO:",
+    "modality": "SP"
+  },
+  {
+    "name": "TERAPIA OCUPACIONAL EN SALUD MENTAL",
+    "cycle": "Ciclo 7.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "PROYECTOS SOCIALES Y JUSTICIA",
+    "cycle": "Ciclo 7.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "OCUPACIONAL",
+    "cycle": "Ciclo 7.° CICLO:",
+    "modality": "SP"
+  },
+  {
+    "name": "ERGONOMICS AND",
+    "cycle": "Ciclo 7.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "HUMAN",
+    "cycle": "Ciclo 7.° CICLO:",
+    "modality": null
+  },
+  {
+    "name": "FACTORS",
+    "cycle": "Ciclo 7.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "EPIDEMIOLOGÍA Y SALUD PÚBLICA",
+    "cycle": "Ciclo 8.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "LEGISLACIÓN EN SALUD",
+    "cycle": "Ciclo 8.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "TALLER DE DISEÑO DE PROYECTO DE INVESTIGACIÓN",
+    "cycle": "Ciclo 8.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "GESTIÓN Y ADMINISTRACIÓN EN SERVICIOS DE SALUD",
+    "cycle": "Ciclo 8.° CICLO:",
+    "modality": "SP"
+  },
+  {
+    "name": "TERAPIA OCUPACIONAL EN COMUNIDAD",
+    "cycle": "Ciclo 8.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "TERAPIA OCUPACIONAL EN GERIATRÍA Y GERONTOLOGÍA",
+    "cycle": "Ciclo 8.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "INCLUSIÓN SOCIOLABORAL",
+    "cycle": "Ciclo 8.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "ROTACIÓN DE TERAPIA OCUPACIONAL EN NIÑOS Y ADOLESCENTES",
+    "cycle": "Ciclo 9.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "ROTACIÓN DE TERAPIA OCUPACIONAL EN ADULTOS",
+    "cycle": "Ciclo 9.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "TRABAJO DE INVESTIGACIÓN",
+    "cycle": "Ciclo 10.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "ROTACIÓN EN TERAPIA OCUPACIONAL EN SALUD MENTAL",
+    "cycle": "Ciclo 10.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "ROTACIÓN EN TERAPIA OCUPACIONAL COMUNITARIO",
+    "cycle": "Ciclo 10.° CICLO:",
+    "modality": "P"
+  }
+]

@@ -1,0 +1,232 @@
+[
+  {
+    "name": "ELEMENTOS DE QUÍMICA",
+    "cycle": "Ciclo 1.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "MATEMÁTICAS BÁSICAS",
+    "cycle": "Ciclo 1.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "DESARROLLO PERSONAL Y AUTONOMÍA",
+    "cycle": "Ciclo 1.° CICLO:",
+    "modality": "SP"
+  },
+  {
+    "name": "IDENTIDAD PROFESIONAL EN ENFERMERIA",
+    "cycle": "Ciclo 1.° CICLO:",
+    "modality": "SP"
+  },
+  {
+    "name": "FILOSOFÍA Y ÉTICA",
+    "cycle": "Ciclo 1.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "COMUNICACIÓN Y REDACCIÓN I",
+    "cycle": "Ciclo 1.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "INGLÉS 1",
+    "cycle": "Ciclo 1.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "BIOLOGÍA GENERAL",
+    "cycle": "Ciclo 2.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "METODOLOGÍA DEL CUIDADO DE ENFERMERÍA",
+    "cycle": "Ciclo 2.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "PROMOCIÓN Y EDUCACIÓN PARA LA SALUD",
+    "cycle": "Ciclo 2.° CICLO:",
+    "modality": "SP"
+  },
+  {
+    "name": "PENSAMIENTO CIENTÍFICO E INVESTIGACIÓN",
+    "cycle": "Ciclo 2.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "COMUNICACIÓN Y REDACCIÓN II",
+    "cycle": "Ciclo 2.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "CIENCIAS SOCIALES EN EL CONTEXTO ACTUAL",
+    "cycle": "Ciclo 2.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "CULTURA AMBIENTAL Y DESARROLLO SOSTENIBLE",
+    "cycle": "Ciclo 2.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA I",
+    "cycle": "Ciclo 2.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "INGLÉS 2",
+    "cycle": "Ciclo 2.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "ANATOMÍA Y FISIOLOGÍA HUMANA",
+    "cycle": "Ciclo 3.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "CUIDADO BÁSICO EN ENFERMERÍA",
+    "cycle": "Ciclo 3.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "CUIDADO DE ENFERMERÍA EN LA SALUD Y BIENESTAR DE LA COMUNIDAD",
+    "cycle": "Ciclo 3.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "BIOQUÍMICA",
+    "cycle": "Ciclo 3.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "INGLÉS 3",
+    "cycle": "Ciclo 3.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "CUIDADO DE ENFERMERÍA EN LA SALUD Y DESARROLLO DEL NIÑO Y ADOLESCENTE",
+    "cycle": "Ciclo 4.° CICLO:",
+    "modality": "SP"
+  },
+  {
+    "name": "CUIDADO DE ENFERMERÍA EN LA SALUD DE LA MUJER Y RECIÉN NACIDO",
+    "cycle": "Ciclo 4.° CICLO:",
+    "modality": "SP"
+  },
+  {
+    "name": "MICROBIOLOGÍA Y PARASITOLOGÍA",
+    "cycle": "Ciclo 4.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "INGLÉS 4",
+    "cycle": "Ciclo 4.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "CUIDADO DE ENFERMERÍA EN LA SALUD DEL ADULTO I",
+    "cycle": "Ciclo 5.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "FARMACOLOGÍA EN ENFERMERÍA",
+    "cycle": "Ciclo 5.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "CUIDADO DE ENFERMERÍA EN LA SALUD MENTAL",
+    "cycle": "Ciclo 5.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA II",
+    "cycle": "Ciclo 5.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "EPIDEMIOLOGY IN HEALTH",
+    "cycle": "Ciclo 6.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "CUIDADO DE ENFERMERÍA EN LA SALUD DEL ADULTO II",
+    "cycle": "Ciclo 6.° CICLO:",
+    "modality": "SP"
+  },
+  {
+    "name": "METODOLOGÍA DE LA INVESTIGACIÓN",
+    "cycle": "Ciclo 6.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA III",
+    "cycle": "Ciclo 6.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "ASIGNATURA ELECTIVA I",
+    "cycle": "Ciclo 6.° CICLO:",
+    "modality": "SP"
+  },
+  {
+    "name": "CUIDADO DE ENFERMERÍA EN LA SALUD DEL NIÑO Y ADOLESCENTE CON PROBLEMAS DE SALUD",
+    "cycle": "Ciclo 7.° CICLO:",
+    "modality": "SP"
+  },
+  {
+    "name": "ESTADÍSTICA DESCRIPTIVA E INFERENCIAL",
+    "cycle": "Ciclo 7.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "ASIGNATURA ELECTIVA II",
+    "cycle": "Ciclo 7.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "INVESTIGACIÓN EN ENFERMERÍA I",
+    "cycle": "Ciclo 7.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "CUIDADO DE ENFERMERÍA EN LA SALUD DEL ADULTO MAYOR",
+    "cycle": "Ciclo 8.° CICLO:",
+    "modality": "SP"
+  },
+  {
+    "name": "CUIDADO DE ENFERMERÍA EN LA SALUD FAMILIAR",
+    "cycle": "Ciclo 8.° CICLO:",
+    "modality": "SP"
+  },
+  {
+    "name": "GESTIÓN DE SERVICIOS DE ENFERMERÍA",
+    "cycle": "Ciclo 8.° CICLO:",
+    "modality": "SP"
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA IV",
+    "cycle": "Ciclo 8.° CICLO:",
+    "modality": "NP"
+  },
+  {
+    "name": "INTERNADO I",
+    "cycle": "Ciclo 9.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "INVESTIGACIÓN EN ENFERMERÍA II",
+    "cycle": "Ciclo 9.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "INTERNADO II",
+    "cycle": "Ciclo 10.° CICLO:",
+    "modality": "P"
+  },
+  {
+    "name": "TRABAJO DE INVESTIGACIÓN",
+    "cycle": "Ciclo 10.° CICLO:",
+    "modality": "P"
+  }
+]

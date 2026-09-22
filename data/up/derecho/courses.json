@@ -1,0 +1,218 @@
+[
+  {
+    "name": "Nivelación en Lenguaje",
+    "cycle": "Ciclo 0"
+  },
+  {
+    "name": "Nivelación en Matemáticas",
+    "cycle": "Ciclo 0"
+  },
+  {
+    "name": "Nivelación en Informática",
+    "cycle": "Ciclo 0"
+  },
+  {
+    "name": "Lenguaje I",
+    "cycle": "Ciclo I"
+  },
+  {
+    "name": "Matemáticas I",
+    "cycle": "Ciclo I"
+  },
+  {
+    "name": "Fundamentos de las Ciencias Empresariales",
+    "cycle": "Ciclo I"
+  },
+  {
+    "name": "Introducción al Derecho",
+    "cycle": "Ciclo I"
+  },
+  {
+    "name": "Lenguaje II",
+    "cycle": "Ciclo II"
+  },
+  {
+    "name": "Economía General I",
+    "cycle": "Ciclo II"
+  },
+  {
+    "name": "Fundamentos de Contabilidad",
+    "cycle": "Ciclo II"
+  },
+  {
+    "name": "Derecho Constitucional General",
+    "cycle": "Ciclo II"
+  },
+  {
+    "name": "Personas del Derecho Civil",
+    "cycle": "Ciclo II"
+  },
+  {
+    "name": "Economía General II",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Investigación Académica",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Acto Jurídico",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Derechos Reales",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Cursos de Introducción al Quehacer Científico",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Ética",
+    "cycle": "Ciclo IV"
+  },
+  {
+    "name": "Teoría General del Proceso",
+    "cycle": "Ciclo IV"
+  },
+  {
+    "name": "Obligaciones",
+    "cycle": "Ciclo IV"
+  },
+  {
+    "name": "Derecho Procesal Constitucional",
+    "cycle": "Ciclo IV"
+  },
+  {
+    "name": "Cursos de Ciencias Sociales",
+    "cycle": "Ciclo IV"
+  },
+  {
+    "name": "Contabilidad Financiera Intermedia",
+    "cycle": "Ciclo V"
+  },
+  {
+    "name": "Contratos",
+    "cycle": "Ciclo V"
+  },
+  {
+    "name": "Derecho Procesal Civil",
+    "cycle": "Ciclo V"
+  },
+  {
+    "name": "Cursos de Procesos Sociales",
+    "cycle": "Ciclo V"
+  },
+  {
+    "name": "Sistemas Financieros",
+    "cycle": "Ciclo VI"
+  },
+  {
+    "name": "Derecho Penal",
+    "cycle": "Ciclo VI"
+  },
+  {
+    "name": "Derecho Administrativo I",
+    "cycle": "Ciclo VI"
+  },
+  {
+    "name": "Responsabilidad Extracontractual",
+    "cycle": "Ciclo VI"
+  },
+  {
+    "name": "Contratos Especiales",
+    "cycle": "Ciclo VI"
+  },
+  {
+    "name": "Cursos de Desarrollo Personal",
+    "cycle": "Ciclo VI"
+  },
+  {
+    "name": "Derecho Laboral I",
+    "cycle": "Ciclo VII"
+  },
+  {
+    "name": "Derecho Internacional Público",
+    "cycle": "Ciclo VII"
+  },
+  {
+    "name": "Derecho Administrativo II",
+    "cycle": "Ciclo VII"
+  },
+  {
+    "name": "Instituciones de Derecho Mercantil",
+    "cycle": "Ciclo VII"
+  },
+  {
+    "name": "Derecho Penal Económico",
+    "cycle": "Ciclo VII"
+  },
+  {
+    "name": "Cursos de Pensamiento Crítico",
+    "cycle": "Ciclo VII"
+  },
+  {
+    "name": "Derecho Tributario I",
+    "cycle": "Ciclo VIII"
+  },
+  {
+    "name": "Sociedades",
+    "cycle": "Ciclo VIII"
+  },
+  {
+    "name": "Derecho Procesal Penal",
+    "cycle": "Ciclo VIII"
+  },
+  {
+    "name": "Análisis Económico del Derecho",
+    "cycle": "Ciclo VIII"
+  },
+  {
+    "name": "Derecho Internacional Privado",
+    "cycle": "Ciclo VIII"
+  },
+  {
+    "name": "Cursos de Pensamiento Crítico",
+    "cycle": "Ciclo VIII"
+  },
+  {
+    "name": "Derecho Tributario II",
+    "cycle": "Ciclo IX"
+  },
+  {
+    "name": "Economía y Estadística Aplicada al Derecho",
+    "cycle": "Ciclo IX"
+  },
+  {
+    "name": "Arbitraje",
+    "cycle": "Ciclo IX"
+  },
+  {
+    "name": "Destrezas Legales I",
+    "cycle": "Ciclo IX"
+  },
+  {
+    "name": "Derecho Laboral II",
+    "cycle": "Ciclo IX"
+  },
+  {
+    "name": "Derecho de Familia y Sucesiones",
+    "cycle": "Ciclo IX"
+  },
+  {
+    "name": "Libre Competencia",
+    "cycle": "Ciclo X"
+  },
+  {
+    "name": "Políticas Públicas",
+    "cycle": "Ciclo X"
+  },
+  {
+    "name": "Derecho Ambiental",
+    "cycle": "Ciclo X"
+  },
+  {
+    "name": "Destrezas Legales II",
+    "cycle": "Ciclo X"
+  }
+]

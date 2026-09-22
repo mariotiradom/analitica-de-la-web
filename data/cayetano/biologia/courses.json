@@ -1,0 +1,257 @@
+[
+  {
+    "name": "MATEMÁTICAS I",
+    "cycle": "Ciclo 1",
+    "modality": "P"
+  },
+  {
+    "name": "BIOLOGÍA I",
+    "cycle": "Ciclo 1",
+    "modality": "P"
+  },
+  {
+    "name": "QUÍMICA I",
+    "cycle": "Ciclo 1",
+    "modality": "P"
+  },
+  {
+    "name": "COMUNICACIÓN Y REDACCIÓN I",
+    "cycle": "Ciclo 1",
+    "modality": "NP"
+  },
+  {
+    "name": "CIENCIAS SOCIALES",
+    "cycle": "Ciclo 1",
+    "modality": "NP"
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA I",
+    "cycle": "Ciclo 1",
+    "modality": "P"
+  },
+  {
+    "name": "INGLÉS 1",
+    "cycle": "Ciclo 1",
+    "modality": "NP"
+  },
+  {
+    "name": "BIOLOGÍA II",
+    "cycle": "Ciclo 2",
+    "modality": "P"
+  },
+  {
+    "name": "FILOSOFÍA Y ÉTICA",
+    "cycle": "Ciclo 2",
+    "modality": "NP"
+  },
+  {
+    "name": "COMUNICACIÓN Y REDACCIÓN II",
+    "cycle": "Ciclo 2",
+    "modality": "NP"
+  },
+  {
+    "name": "MATEMÁTICAS II",
+    "cycle": "Ciclo 2",
+    "modality": "P"
+  },
+  {
+    "name": "QUÍMICA II",
+    "cycle": "Ciclo 2",
+    "modality": "P"
+  },
+  {
+    "name": "INGLÉS 2",
+    "cycle": "Ciclo 2",
+    "modality": "NP"
+  },
+  {
+    "name": "CULTURA AMBIENTAL Y DESARROLLO SOSTENIBLE",
+    "cycle": "Ciclo 2",
+    "modality": "NP"
+  },
+  {
+    "name": "QUÍMICA ORGÁNICA",
+    "cycle": "Ciclo 3",
+    "modality": "P"
+  },
+  {
+    "name": "FÍSICA I",
+    "cycle": "Ciclo 3",
+    "modality": "P"
+  },
+  {
+    "name": "BOTÁNICA GENERAL",
+    "cycle": "Ciclo 3",
+    "modality": "P"
+  },
+  {
+    "name": "ESTADÍSTICA Y PROBABILIDADES",
+    "cycle": "Ciclo 3",
+    "modality": "P"
+  },
+  {
+    "name": "INGLÉS 3",
+    "cycle": "Ciclo 3",
+    "modality": "NP"
+  },
+  {
+    "name": "HISTORIA DEL PENSAMIENTO CIENTÍFICO",
+    "cycle": "Ciclo 3",
+    "modality": "P"
+  },
+  {
+    "name": "ZOOLOGÍA GENERAL",
+    "cycle": "Ciclo 4",
+    "modality": "P"
+  },
+  {
+    "name": "FISICOQUÍMICA",
+    "cycle": "Ciclo 4",
+    "modality": "P"
+  },
+  {
+    "name": "COMPUTACIÓN",
+    "cycle": "Ciclo 4",
+    "modality": "P"
+  },
+  {
+    "name": "INVESTIGACIÓN",
+    "cycle": "Ciclo 4",
+    "modality": null
+  },
+  {
+    "name": "CIENTÍFICA",
+    "cycle": "Ciclo 4",
+    "modality": "P"
+  },
+  {
+    "name": "FÍSICA II",
+    "cycle": "Ciclo 4",
+    "modality": "P"
+  },
+  {
+    "name": "INGLÉS 4",
+    "cycle": "Ciclo 4",
+    "modality": "NP"
+  },
+  {
+    "name": "BIOESTADÍSTICA APLICADA A LA INVESTIGACIÓN",
+    "cycle": "Ciclo 5",
+    "modality": "P"
+  },
+  {
+    "name": "BIOQUÍMICA",
+    "cycle": "Ciclo 5",
+    "modality": "P"
+  },
+  {
+    "name": "ECOLOGÍA",
+    "cycle": "Ciclo 5",
+    "modality": "P"
+  },
+  {
+    "name": "GENÉTICA GENERAL",
+    "cycle": "Ciclo 5",
+    "modality": "P"
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA II",
+    "cycle": "Ciclo 5",
+    "modality": "P"
+  },
+  {
+    "name": "MICROBIOLOGÍA GENERAL",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "BIOLOGÍA MOLECULAR DE LA CÉLULA",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "INTRODUCCIÓN AL ESTUDIO DE LAS CIENCIAS AMBIENTALES",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "INVESTIGACIÓN CIENTÍFICA II",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "PRINCIPIOS DE FISIOLOGÍA",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "EVOLUCIÓN",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "ÉTICA EN INVESTIGACIÓN",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "BIOLOGÍA CELULAR",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "FISIOLOGÍA DE SISTEMAS",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "ASIGNATURAS ELECTIVAS I",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "BIOINFORMATICS I",
+    "cycle": null,
+    "modality": "NP"
+  },
+  {
+    "name": "BIOLOGÍA DEL DESARROLLO",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "INMUNOLOGÍA GENERAL",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "ASIGNATURAS ELECTIVAS II",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "ASIGNATURAS ELECTIVAS III",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA III",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "TRABAJO DE INVESTIGACIÓN",
+    "cycle": null,
+    "modality": "NP"
+  },
+  {
+    "name": "ASIGNATURAS ELECTIVAS IV",
+    "cycle": null,
+    "modality": "P"
+  },
+  {
+    "name": "ACTIVIDAD COMPLEMENTARIA IV",
+    "cycle": null,
+    "modality": "P"
+  }
+]

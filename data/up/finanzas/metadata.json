@@ -1,0 +1,13 @@
+{
+  "source": "universidad_del_pacifico",
+  "career": "Finanzas",
+  "career_url": "https://www.up.edu.pe/carreras-postgrado-idiomas/carreras-pregrado/finanzas",
+  "page_url": "https://www.up.edu.pe/carreras-postgrado-idiomas/carreras-pregrado/finanzas/Paginas/plan-estudios.aspx",
+  "captured_at": "2026-09-22T04:05:53.381023+00:00",
+  "robots_checked": true,
+  "files": {
+    "html": "data/up/finanzas/source.html",
+    "courses": "data/up/finanzas/courses.json"
+  },
+  "course_count": 44
+}

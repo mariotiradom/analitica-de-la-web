@@ -1,0 +1,22 @@
+[project]
+name = "university-curriculum-scraper"
+version = "0.1.0"
+description = "Scrapers reproducibles de mallas curriculares universitarias"
+requires-python = ">=3.11"
+dependencies = [
+  "beautifulsoup4>=4.12,<5",
+  "httpx>=0.27,<1",
+  "python-dateutil>=2.9,<3",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8,<9"]
+
+[project.scripts]
+utec-download-curriculum = "university_scraper.utec_cli:main"
+up-download-study-plan = "university_scraper.up_cli:main"
+cayetano-download-curriculum = "university_scraper.cayetano_cli:main"
+ulima-download-curriculum = "university_scraper.ulima_cli:main"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

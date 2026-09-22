@@ -1,0 +1,13 @@
+{
+  "source": "universidad_del_pacifico",
+  "career": "Ingeniería de la Información",
+  "career_url": "https://www.up.edu.pe/carreras-postgrado-idiomas/carreras-pregrado/ingenieriainformacion",
+  "page_url": "https://www.up.edu.pe/carreras-postgrado-idiomas/carreras-pregrado/ingenieriainformacion/Paginas/plan-estudios.aspx",
+  "captured_at": "2026-09-22T04:05:54.181614+00:00",
+  "robots_checked": true,
+  "files": {
+    "html": "data/up/ingenieria-de-la-informacion/source.html",
+    "courses": "data/up/ingenieria-de-la-informacion/courses.json"
+  },
+  "course_count": 51
+}

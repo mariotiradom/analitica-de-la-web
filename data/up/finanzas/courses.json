@@ -1,0 +1,178 @@
+[
+  {
+    "name": "Nivelación en Lenguaje",
+    "cycle": "Ciclo 0"
+  },
+  {
+    "name": "Nivelación en Matemáticas",
+    "cycle": "Ciclo 0"
+  },
+  {
+    "name": "Nivelación en Informática",
+    "cycle": "Ciclo 0"
+  },
+  {
+    "name": "Lenguaje I",
+    "cycle": "Ciclo I"
+  },
+  {
+    "name": "Matemáticas I",
+    "cycle": "Ciclo I"
+  },
+  {
+    "name": "Economía General I",
+    "cycle": "Ciclo I"
+  },
+  {
+    "name": "Fundamentos de Contabilidad",
+    "cycle": "Ciclo I"
+  },
+  {
+    "name": "Lenguaje II",
+    "cycle": "Ciclo II"
+  },
+  {
+    "name": "Economía General II",
+    "cycle": "Ciclo II"
+  },
+  {
+    "name": "Matemáticas II",
+    "cycle": "Ciclo II"
+  },
+  {
+    "name": "Cursos de Ciencias Sociales",
+    "cycle": "Ciclo II"
+  },
+  {
+    "name": "Cursos de Quehacer Científico",
+    "cycle": "Ciclo II"
+  },
+  {
+    "name": "Investigación Académica",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Estadística I",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Matemáticas III",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Microeconomía I",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Sistemas Financieros",
+    "cycle": "Ciclo III"
+  },
+  {
+    "name": "Estadística II",
+    "cycle": "Ciclo IV"
+  },
+  {
+    "name": "Microeconomía Financiera",
+    "cycle": "Ciclo IV"
+  },
+  {
+    "name": "Macroeconomía Financiera",
+    "cycle": "Ciclo IV"
+  },
+  {
+    "name": "Fundamentos de Finanzas",
+    "cycle": "Ciclo IV"
+  },
+  {
+    "name": "Cursos de Procesos Sociales",
+    "cycle": "Ciclo IV"
+  },
+  {
+    "name": "Estadística Aplicada",
+    "cycle": "Ciclo V"
+  },
+  {
+    "name": "Finanzas Corporativas I",
+    "cycle": "Ciclo V"
+  },
+  {
+    "name": "Finanzas Sostenibles",
+    "cycle": "Ciclo V"
+  },
+  {
+    "name": "Análisis Financiero",
+    "cycle": "Ciclo V"
+  },
+  {
+    "name": "Cursos de Procesos Sociales",
+    "cycle": "Ciclo V"
+  },
+  {
+    "name": "Econometría I",
+    "cycle": "Ciclo VI"
+  },
+  {
+    "name": "Renta Fija",
+    "cycle": "Ciclo VI"
+  },
+  {
+    "name": "Renta Variable",
+    "cycle": "Ciclo VI"
+  },
+  {
+    "name": "Instrumentos Derivados",
+    "cycle": "Ciclo VI"
+  },
+  {
+    "name": "Derecho de la Empresa",
+    "cycle": "Ciclo VII"
+  },
+  {
+    "name": "Finanzas Cuantitativas",
+    "cycle": "Ciclo VII"
+  },
+  {
+    "name": "Finanzas Corporativas II",
+    "cycle": "Ciclo VII"
+  },
+  {
+    "name": "Cursos de Pensamiento Crítico",
+    "cycle": "Ciclo VII"
+  },
+  {
+    "name": "Análisis y Gestión de Riesgo",
+    "cycle": "Ciclo VIII"
+  },
+  {
+    "name": "Riesgo Crediticio",
+    "cycle": "Ciclo VIII"
+  },
+  {
+    "name": "Negociación Financiera",
+    "cycle": "Ciclo VIII"
+  },
+  {
+    "name": "Cursos de Pensamiento Crítico",
+    "cycle": "Ciclo VIII"
+  },
+  {
+    "name": "Ética",
+    "cycle": "Ciclo IX"
+  },
+  {
+    "name": "Proyección Social",
+    "cycle": "Ciclo IX"
+  },
+  {
+    "name": "Certificaciones Internacionales",
+    "cycle": "Ciclo IX"
+  },
+  {
+    "name": "Investigación Financiera",
+    "cycle": "Ciclo X"
+  },
+  {
+    "name": "Cursos de Desarrollo Personal",
+    "cycle": "Ciclo X"
+  }
+]

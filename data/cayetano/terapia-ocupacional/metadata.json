@@ -1,0 +1,12 @@
+{
+  "source": "universidad_peruana_cayetano_heredia",
+  "career": "Terapia Ocupacional",
+  "page_url": "https://cayetano.edu.pe/pregrado/carreras/terapia-ocupacional",
+  "brochure_url": "https://upch-repo-comercial.s3.dualstack.us-east-1.amazonaws.com/brochures/br_ocupacional.pdf",
+  "captured_at": "2026-09-22T04:22:14.090486+00:00",
+  "files": {
+    "html": "data/cayetano/terapia-ocupacional/source.html",
+    "courses": "data/cayetano/terapia-ocupacional/courses.json"
+  },
+  "course_count": 60
+}

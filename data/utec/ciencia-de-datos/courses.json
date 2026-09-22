@@ -1,0 +1,806 @@
+[
+  {
+    "name": "Fundamentos del Cálculo",
+    "credits": 3,
+    "prerequisite": null,
+    "cycle": "Ciclo 1"
+  },
+  {
+    "name": "Programación I",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": "Ciclo 1"
+  },
+  {
+    "name": "Matemáticas Discretas I",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": "Ciclo 1"
+  },
+  {
+    "name": "Introducción a Ciencia de Datos e Inteligencia Artificial",
+    "credits": 3,
+    "prerequisite": null,
+    "cycle": "Ciclo 1"
+  },
+  {
+    "name": "Comunicación Integral I",
+    "credits": 3,
+    "prerequisite": null,
+    "cycle": "Ciclo 1"
+  },
+  {
+    "name": "Proyectos Interdisciplinarios I",
+    "credits": 3,
+    "prerequisite": null,
+    "cycle": "Ciclo 1"
+  },
+  {
+    "name": "Cálculo de una Variable",
+    "credits": 4,
+    "prerequisite": "Fundamentos del Cálculo",
+    "cycle": "Ciclo 2"
+  },
+  {
+    "name": "Álgebra Lineal",
+    "credits": 3,
+    "prerequisite": null,
+    "cycle": "Ciclo 2"
+  },
+  {
+    "name": "Programación II",
+    "credits": 4,
+    "prerequisite": "Programación I",
+    "cycle": "Ciclo 2"
+  },
+  {
+    "name": "Matemáticas Discretas II",
+    "credits": 4,
+    "prerequisite": "Matemáticas Discretas I",
+    "cycle": "Ciclo 2"
+  },
+  {
+    "name": "Comunicación Integral II",
+    "credits": 3,
+    "prerequisite": "Comunicación Integral I",
+    "cycle": "Ciclo 2"
+  },
+  {
+    "name": "Proyectos Interdisciplinarios II",
+    "credits": 2,
+    "prerequisite": "Proyectos Interdisciplinarios I",
+    "cycle": "Ciclo 2"
+  },
+  {
+    "name": "Electivo de HACS I",
+    "credits": 3,
+    "prerequisite": null,
+    "cycle": "Ciclo 3"
+  },
+  {
+    "name": "Emprendimiento I",
+    "credits": 3,
+    "prerequisite": null,
+    "cycle": "Ciclo 3"
+  },
+  {
+    "name": "Cálculo Multivariable",
+    "credits": 3,
+    "prerequisite": "Cálculo de una Variable",
+    "cycle": "Ciclo 3"
+  },
+  {
+    "name": "Estadística y Probabilidades I",
+    "credits": 4,
+    "prerequisite": "Programación I - Cálculo de una Variable",
+    "cycle": "Ciclo 3"
+  },
+  {
+    "name": "Bases de Datos I",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": "Ciclo 3"
+  },
+  {
+    "name": "Desarrollo Basado en Plataformas I",
+    "credits": 2,
+    "prerequisite": "Programación II",
+    "cycle": "Ciclo 3"
+  },
+  {
+    "name": "Análisis Numérico",
+    "credits": 4,
+    "prerequisite": "Cálculo Multivariable - Álgebra Lineal",
+    "cycle": "Ciclo 4"
+  },
+  {
+    "name": "Algoritmos y Estructuras de Datos",
+    "credits": 4,
+    "prerequisite": "Programación II",
+    "cycle": "Ciclo 4"
+  },
+  {
+    "name": "Fundamentos Matemáticos de Computación",
+    "credits": 3,
+    "prerequisite": "Cálculo Multivariable - Matemáticas Discretas II - Álgebra Lineal",
+    "cycle": "Ciclo 4"
+  },
+  {
+    "name": "Desarrollo Basado en Plataformas II",
+    "credits": 2,
+    "prerequisite": "Desarrollo Basado en Plataformas I",
+    "cycle": "Ciclo 4"
+  },
+  {
+    "name": "Optimización",
+    "credits": 4,
+    "prerequisite": "Álgebra Lineal - Cálculo Multivariable",
+    "cycle": "Ciclo 4"
+  },
+  {
+    "name": "Datos y Negocios",
+    "credits": 2,
+    "prerequisite": "Bases de Datos I",
+    "cycle": "Ciclo 4"
+  },
+  {
+    "name": "Cloud Computing",
+    "credits": 3,
+    "prerequisite": "Desarrollo Basado en Plataformas II",
+    "cycle": "Ciclo 5"
+  },
+  {
+    "name": "Análisis y Diseño de Algoritmos",
+    "credits": 4,
+    "prerequisite": "Fundamentos Matemáticos de Computación - Algoritmos y Estructuras de Datos",
+    "cycle": "Ciclo 5"
+  },
+  {
+    "name": "Machine Learning",
+    "credits": 4,
+    "prerequisite": "Programación II - Estadística y Probabilidades I - Álgebra Lineal",
+    "cycle": "Ciclo 5"
+  },
+  {
+    "name": "Análisis Computacional de Datos",
+    "credits": 3,
+    "prerequisite": "Estadística y Probabilidades I - Algoritmos y Estructuras de Datos - Optimización",
+    "cycle": "Ciclo 5"
+  },
+  {
+    "name": "Data Storytelling",
+    "credits": 3,
+    "prerequisite": "Datos y Negocios",
+    "cycle": "Ciclo 5"
+  },
+  {
+    "name": "Estadística y Probabilidades II",
+    "credits": 4,
+    "prerequisite": "Estadística y Probabilidades I",
+    "cycle": "Ciclo 5"
+  },
+  {
+    "name": "Electivo de HACS II",
+    "credits": 3,
+    "prerequisite": null,
+    "cycle": "Ciclo 6"
+  },
+  {
+    "name": "Electivo de Carrera I",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": "Ciclo 6"
+  },
+  {
+    "name": "Finanzas Empresariales",
+    "credits": 3,
+    "prerequisite": null,
+    "cycle": "Ciclo 6"
+  },
+  {
+    "name": "Deep Learning",
+    "credits": 4,
+    "prerequisite": "Machine Learning",
+    "cycle": "Ciclo 6"
+  },
+  {
+    "name": "Ética y Seguridad de los Datos",
+    "credits": 4,
+    "prerequisite": "Bases de Datos I - Cloud Computing",
+    "cycle": "Ciclo 6"
+  },
+  {
+    "name": "Big Data",
+    "credits": 4,
+    "prerequisite": "Análisis Computacional de Datos - Estadísticas y Probabilidades II - Data Storytelling",
+    "cycle": "Ciclo 6"
+  },
+  {
+    "name": "Electivo de HACS III",
+    "credits": 3,
+    "prerequisite": null,
+    "cycle": "Ciclo 7"
+  },
+  {
+    "name": "Electivo de Carrera II",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": "Ciclo 7"
+  },
+  {
+    "name": "Desarrollo de Productos de Datos",
+    "credits": 4,
+    "prerequisite": "Cloud Computing - Deep Learning - Big Data",
+    "cycle": "Ciclo 7"
+  },
+  {
+    "name": "Gobernanza de Datos",
+    "credits": 2,
+    "prerequisite": "Ética y Seguridad de los Datos",
+    "cycle": "Ciclo 7"
+  },
+  {
+    "name": "Análisis de Series de Tiempo",
+    "credits": 3,
+    "prerequisite": "Deep Learning",
+    "cycle": "Ciclo 7"
+  },
+  {
+    "name": "Ingeniería y Arquitectura de Datos",
+    "credits": 3,
+    "prerequisite": "Big Data",
+    "cycle": "Ciclo 7"
+  },
+  {
+    "name": "Electivo de Proyectos Interdisciplinarios",
+    "credits": 3,
+    "prerequisite": null,
+    "cycle": "Ciclo 8"
+  },
+  {
+    "name": "Electivo de Carrera III",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": "Ciclo 8"
+  },
+  {
+    "name": "Emprendimiento II",
+    "credits": 3,
+    "prerequisite": "Emprendimiento I - Finanzas Empresariales",
+    "cycle": "Ciclo 8"
+  },
+  {
+    "name": "Metodología de la Investigación",
+    "credits": 2,
+    "prerequisite": "Análisis y Diseño de Algoritmos - Desarrollo de Productos de Datos - Análisis de Series de Tiempo - Ingeniería y Arquitectura de Datos",
+    "cycle": "Ciclo 8"
+  },
+  {
+    "name": "Proyecto Preprofesional",
+    "credits": 4,
+    "prerequisite": "100 créditos",
+    "cycle": "Ciclo 8"
+  },
+  {
+    "name": "Electivo de Computación e Ingeniería I",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": "Ciclo 9"
+  },
+  {
+    "name": "Electivo Libre I",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": "Ciclo 9"
+  },
+  {
+    "name": "Electivo Libre II",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": "Ciclo 9"
+  },
+  {
+    "name": "Trabajo de Investigación en Ciencia de Datos e Inteligencia Artificial I",
+    "credits": 4,
+    "prerequisite": "Metodología de la Investigación",
+    "cycle": "Ciclo 9"
+  },
+  {
+    "name": "MLOps",
+    "credits": 3,
+    "prerequisite": "Machine Learning",
+    "cycle": "Ciclo 9"
+  },
+  {
+    "name": "Ética en Computación",
+    "credits": 3,
+    "prerequisite": null,
+    "cycle": "Ciclo 9"
+  },
+  {
+    "name": "Electivo Libre III",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": "Ciclo 10"
+  },
+  {
+    "name": "Electivo de Computación e Ingeniería II",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": "Ciclo 10"
+  },
+  {
+    "name": "Electivo de Computación e Ingeniería III",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": "Ciclo 10"
+  },
+  {
+    "name": "Electivo de Gestión",
+    "credits": 3,
+    "prerequisite": null,
+    "cycle": "Ciclo 10"
+  },
+  {
+    "name": "Trabajo de Investigación en Ciencia de Datos e Inteligencia Artificial II",
+    "credits": 4,
+    "prerequisite": "Trabajo de Investigación en Ciencia de Datos e Inteligencia Artificial I",
+    "cycle": "Ciclo 10"
+  },
+  {
+    "name": "Ciencia de Datos Computacionales",
+    "credits": 3,
+    "prerequisite": "Deep Learning",
+    "cycle": "Ciclo 10"
+  },
+  {
+    "name": "Ética y Seguridad de los Datos",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Desarrollo de Productos de Datos",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Ingeniería y Arquitectura de Datos",
+    "credits": 3,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Análisis Computacional de Datos",
+    "credits": 3,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Big Data",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Desarrollo de Productos de Datos",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Big Data",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Análisis de Series de Tiempo",
+    "credits": 3,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Deep Learning",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "MLOps",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "DevOps",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "DevSecOps",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Comunicación Técnica y Empresarial",
+    "credits": 3,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Liderazgo en Tecnología",
+    "credits": 3,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Gestión de la Transformación Digital",
+    "credits": 3,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Gestión de Proyectos Tecnológicos",
+    "credits": 3,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Ingeniería de Software",
+    "credits": 2,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Computación Paralela y Distribuída",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Desarrollo Basado en Agentes",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Estructuras de Datos Avanzadas",
+    "credits": 3,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Programación Competitiva",
+    "credits": 3,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Software y Seguridad",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Estrategia y Gobernanza de Ciberseguridad",
+    "credits": 3,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Criptografía",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Ciberseguridad aplicada a la IA",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "IA aplicada a la Ciberseguridad",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Ingeniería de Software",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "User Experience Research",
+    "credits": 3,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Diseño de Software Centrado en el Usuario",
+    "credits": 3,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Arquitectura de Computadores",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Sistemas Operativos",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Redes y Comunicaciones",
+    "credits": 3,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Arquitectura de Software Seguro",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Análisis de Malware",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Threat Hunting",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Técnicas de Evasión",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Reverse Engineering",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Hacking Ético Avanzado",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Arquitectura de Software",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Pruebas y Verificación de Software",
+    "credits": 3,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Gestión en Software",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Visión por Computador y Reconocimiento de Patrones",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Geometría Computacional",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Tópicos en Computación Gráfica",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Visión por Computador y Reconocimiento de Patrones",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Procesamiento de Lenguaje Natural",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Planificación y Toma de Decisiones en IA",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Teoría de Grafos",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Optimización Combinatoria",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Algoritmos Avanzados y Complejidad",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Tópicos en Arquitecturas Modernas",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Programación de sistemas embebidos",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "High Performance Computing",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "DS for Business",
+    "credits": 3,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Data Mining",
+    "credits": 3,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Datos y Negocios",
+    "credits": 2,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Visualización de Datos",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Deep Learning para Datos de Salud",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Genómica Traslacional y Biología Computacional",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Modelos Generativos",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Decisión Analytics",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Unstructured Data Analytics for Business",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Machine Learning for Business Problem Solving",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Arquitectura y Estrategias de plataformas digitales",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Innovación Digital",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Gestión de Productos Digitales",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Diseño Avanzado de la Interacción",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Usable Privacy and Security",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Interacción Humano-IA",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Taller de Emprendimiento I",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Taller de Emprendimiento II",
+    "credits": 5,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Capital de Riesgo",
+    "credits": 3,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Procesamiento de Lenguaje Natural",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Aprendizaje por Refuerzo",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  },
+  {
+    "name": "Modelos Generativos",
+    "credits": 4,
+    "prerequisite": null,
+    "cycle": null
+  }
+]

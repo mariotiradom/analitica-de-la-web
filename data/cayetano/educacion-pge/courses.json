@@ -1,0 +1,322 @@
+[
+  {
+    "name": "Desarrollo Personal y Autonomía",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Filosofía e Historia de la Educación",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Comunicación y Redacción I",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Matemáticas Básicas",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Filosofía y Ética",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Actividad Complementaria I",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Inglés 1",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Biología General",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Comunicación y Redacción II",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Ciencias Sociales en el Contexto Actual",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Informática",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Pensamiento Científico e Investigación",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Cultura Ambiental y Desarrollo Sostenible",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Actividad Complementaria II",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Inglés 2",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Indagación y Visita Pedagógica",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Modelos Educativos",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Teoría y Psicología del Aprendizaje",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Desarrollo y Psicología del Niño",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Problemática y Reformas Educativas en el Perú",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Actividad Complementaria III",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Inglés 3",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Investigación y Visita Pedagógica",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Teoría y Diseño Curricular",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Neurociencia y Educación",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Metodología de la Investigación Científica",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Didáctica General",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Inglés 4",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Asignatura Electiva I",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Investigación y Visita Pedagógica II",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Electivo Profesional I",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Investigación en Educación",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Electivo Profesional II",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Arte en la Educación",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Actividad Complementaria IV",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Investigación y Visita Pedagógica III",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Planificación y Evaluación del Aprendizaje I",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Electivo Profesional III",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Electivo Profesional IV",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Investigación y Diagnóstico Contextual",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Asignatura Electiva II",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Investigación y Visita Pedagógica IV",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Planificación y Evaluación del Aprendizaje II",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Aprendizaje Basado en Proyectos",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Educación y Psicomotricidad",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Tecnologías de la Información y la Comunicación en Educación",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Legislación de Instituciones Educativas y de Formación Comunal",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Asignatura Electiva III",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Investigación y Visita Pedagógica V",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Educación Inclusiva",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Estadística para la Investigación",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Seminario de Tesis I",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Gestión y Liderazgo de Instituciones Educativas",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Nuevos Escenarios de la Educación",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Asignatura Electiva IV",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Práctica Pre Profesional: Gestión Educativa I",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Gestión de la Tutoría y Convivencia Escolar",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Métodos Innovadores y de Emprendimiento para Proyectos y Programas Educativos",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Seminario de Tesis II",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Trabajo con Padres de Familia y Comunidad",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Práctica Pre Profesional: Gestión Educativa II",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Seminario de Tesis III",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Gestión y Calidad en Instituciones Educativas y de Formación Comunal",
+    "cycle": null,
+    "modality": null
+  },
+  {
+    "name": "Asignatura Electiva V",
+    "cycle": null,
+    "modality": null
+  }
+]

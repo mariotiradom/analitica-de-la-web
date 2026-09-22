@@ -1,0 +1,12 @@
+{
+  "source": "universidad_peruana_cayetano_heredia",
+  "career": "Educación Primaria",
+  "page_url": "https://cayetano.edu.pe/pregrado/carreras/educacion-primaria",
+  "brochure_url": "https://upch-repo-comercial.s3.dualstack.us-east-1.amazonaws.com/brochures/br_educacion.pdf",
+  "captured_at": "2026-09-22T04:21:42.055643+00:00",
+  "files": {
+    "html": "data/cayetano/educacion-primaria/source.html",
+    "courses": "data/cayetano/educacion-primaria/courses.json"
+  },
+  "course_count": 67
+}

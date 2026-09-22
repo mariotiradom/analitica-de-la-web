@@ -1,0 +1,13 @@
+{
+  "source": "universidad_del_pacifico",
+  "career": "Humanidades Digitales",
+  "career_url": "https://www.up.edu.pe/carreras-postgrado-idiomas/carreras-pregrado/humanidades-digitales",
+  "page_url": "https://www.up.edu.pe/carreras-postgrado-idiomas/carreras-pregrado/humanidades-digitales/Paginas/plan-estudios.aspx",
+  "captured_at": "2026-09-22T04:05:50.451050+00:00",
+  "robots_checked": true,
+  "files": {
+    "html": "data/up/humanidades-digitales/source.html",
+    "courses": "data/up/humanidades-digitales/courses.json"
+  },
+  "course_count": 49
+}

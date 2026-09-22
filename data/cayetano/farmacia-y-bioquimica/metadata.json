@@ -1,0 +1,12 @@
+{
+  "source": "universidad_peruana_cayetano_heredia",
+  "career": "Farmacia y Bioquímica",
+  "page_url": "https://cayetano.edu.pe/pregrado/carreras/farmacia-y-bioquimica",
+  "brochure_url": "https://upch-repo-comercial.s3.dualstack.us-east-1.amazonaws.com/brochures/br_farmacia_bioquimica.pdf",
+  "captured_at": "2026-09-22T04:21:47.987049+00:00",
+  "files": {
+    "html": "data/cayetano/farmacia-y-bioquimica/source.html",
+    "courses": "data/cayetano/farmacia-y-bioquimica/courses.json"
+  },
+  "course_count": 61
+}
