@@ -1,0 +1,258 @@
+[
+  {
+    "name": "Teorías de la Comunicación",
+    "code": "CCO202",
+    "credits": 3,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Quinto Nivel",
+    "url": null
+  },
+  {
+    "name": "Lenguaje de los Medios",
+    "code": "CCO203",
+    "credits": 4,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Quinto Nivel",
+    "url": null
+  },
+  {
+    "name": "Pensamiento Computacional para Comunicaciones",
+    "code": "1CCO19",
+    "credits": 2,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Quinto Nivel",
+    "url": null
+  },
+  {
+    "name": "Fundamentos de la Comunicación Publicitaria",
+    "code": "1CCE10",
+    "credits": 3,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Quinto Nivel",
+    "url": null
+  },
+  {
+    "name": "Análisis del Consumidor",
+    "code": "1CCE11",
+    "credits": 3,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Quinto Nivel",
+    "url": null
+  },
+  {
+    "name": "Razonamiento Creativo para Publicidad",
+    "code": "1CCE12",
+    "credits": 3,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Quinto Nivel",
+    "url": null
+  },
+  {
+    "name": "Métodos y Técnicas de Investigación",
+    "code": "CCO221",
+    "credits": 1,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Sexto Nivel",
+    "url": null
+  },
+  {
+    "name": "Estética y Comunicación",
+    "code": "CCO363",
+    "credits": 3,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Sexto Nivel",
+    "url": null
+  },
+  {
+    "name": "Comunicación y Medios Digitales",
+    "code": "1CCO20",
+    "credits": 2,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Sexto Nivel",
+    "url": null
+  },
+  {
+    "name": "Técnicas y Estrategias de Marketing",
+    "code": "CCE220",
+    "credits": 1,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Sexto Nivel",
+    "url": null
+  },
+  {
+    "name": "Taller de Herramientas Publicitarias",
+    "code": "1CCE13",
+    "credits": 3,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Sexto Nivel",
+    "url": null
+  },
+  {
+    "name": "Creatividad Publicitaria",
+    "code": "CCE278",
+    "credits": 3,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Sexto Nivel",
+    "url": null
+  },
+  {
+    "name": "Medios Publicitarios",
+    "code": "CCE282",
+    "credits": 3,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Sexto Nivel",
+    "url": null
+  },
+  {
+    "name": "Métodos y Técnicas de Investigación",
+    "code": "CCO232",
+    "credits": 2,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Séptimo Nivel",
+    "url": null
+  },
+  {
+    "name": "Deontología de la Comunicación",
+    "code": "CCO233",
+    "credits": 2,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Séptimo Nivel",
+    "url": null
+  },
+  {
+    "name": "Gestión de la Comunicación en Organizaciones",
+    "code": "1CCO21",
+    "credits": 3,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Séptimo Nivel",
+    "url": null
+  },
+  {
+    "name": "Diseño Publicitario",
+    "code": "CCE277",
+    "credits": 4,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Séptimo Nivel",
+    "url": null
+  },
+  {
+    "name": "Taller de Redacción Publicitaria",
+    "code": "CCE279",
+    "credits": 3,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Séptimo Nivel",
+    "url": null
+  },
+  {
+    "name": "Selección y Evaluación de Medios",
+    "code": "CCE306",
+    "credits": 3,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Séptimo Nivel",
+    "url": null
+  },
+  {
+    "name": "Marketing Digital",
+    "code": "1CCE14",
+    "credits": 3,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Séptimo Nivel",
+    "url": null
+  },
+  {
+    "name": "Semiótica para Comunicaciones",
+    "code": "CCO234",
+    "credits": 3,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Octavo Nivel",
+    "url": null
+  },
+  {
+    "name": "Legislación en Comunicaciones",
+    "code": "CCO352",
+    "credits": 2,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Octavo Nivel",
+    "url": null
+  },
+  {
+    "name": "Taller de Imagen Publicitaria",
+    "code": "CCE237",
+    "credits": 4,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Octavo Nivel",
+    "url": null
+  },
+  {
+    "name": "Técnicas y Estrategias de Marketing",
+    "code": "CCE238",
+    "credits": 2,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Octavo Nivel",
+    "url": null
+  },
+  {
+    "name": "Comunicación Corporativa",
+    "code": "1CCE15",
+    "credits": 3,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Octavo Nivel",
+    "url": null
+  },
+  {
+    "name": "Herramientas para Medios Digitales",
+    "code": "1CCE16",
+    "credits": 3,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Octavo Nivel",
+    "url": null
+  },
+  {
+    "name": "Diseño de Investigación a (Académico o Profesional)",
+    "code": null,
+    "credits": 4,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Noveno Nivel",
+    "url": null
+  },
+  {
+    "name": "Taller de Realización Publicitaria",
+    "code": "1CCE17",
+    "credits": 4,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Noveno Nivel",
+    "url": null
+  },
+  {
+    "name": "Branding",
+    "code": "1CCE18",
+    "credits": 3,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Noveno Nivel",
+    "url": null
+  },
+  {
+    "name": "Taller de Agencia",
+    "code": "1CCE19",
+    "credits": 4,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Noveno Nivel",
+    "url": null
+  },
+  {
+    "name": "Trabajo de Investigación b (Académico o Profesional)",
+    "code": null,
+    "credits": 4,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Décimo Nivel",
+    "url": null
+  },
+  {
+    "name": "Proyecto de Comunicación Publicitaria",
+    "code": "1CCE20",
+    "credits": 7,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Décimo Nivel",
+    "url": null
+  }
+]

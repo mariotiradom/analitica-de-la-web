@@ -9,4 +9,12 @@ data/*/source.html
 data/*/catalog.html
 data/*/plan-estudios-*.pdf
 data/*/*/source.html
+data/*/*/eeggcc_source.html
+data/*/*/eeggll_source.html
+data/*/*/planes_source.html
+data/*/*/planes_*.html
 data/*/*/malla.pdf
+data/*/*/plan-estudios.pdf
+data/*/*/plan-estudios-*.pdf
+data/*/*/plan-estudios*.png
+data/*/*/*_source.html

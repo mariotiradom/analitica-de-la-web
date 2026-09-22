@@ -1,0 +1,514 @@
+[
+  {
+    "name": "Metafísica",
+    "code": "FIL205",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 5",
+    "url": null
+  },
+  {
+    "name": "Filosofía Medieval",
+    "code": "FIL219",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 5",
+    "url": null
+  },
+  {
+    "name": "Griego 2",
+    "code": "FIL221",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 5",
+    "url": null
+  },
+  {
+    "name": "Teoría Del Conocimiento",
+    "code": "FIL206",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Griego 3",
+    "code": "FIL223",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Filosofía Moderna",
+    "code": "FIL225",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Filosofía Contemporánea",
+    "code": "FIL260",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 7",
+    "url": null
+  },
+  {
+    "name": "Filosofía Política",
+    "code": "FIL322",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 7",
+    "url": null
+  },
+  {
+    "name": "Seminario De Tesis 1",
+    "code": "FIL260",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Filosofía Del Lenguaje",
+    "code": "FIL322",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Seminario De Tesis 2",
+    "code": "FIL270",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 9",
+    "url": null
+  },
+  {
+    "name": "Taller De Responsabilidad Social",
+    "code": "HUM200",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 9",
+    "url": null
+  },
+  {
+    "name": "Idiomas",
+    "code": "IDM303",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 9",
+    "url": null
+  },
+  {
+    "name": "Antropología Filosófica",
+    "code": "FIL211",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Lógica 2",
+    "code": "FIL224",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Griego 4",
+    "code": "FIL226",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Religiones Comparadas",
+    "code": "FIL250",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Pensamiento Oriental",
+    "code": "FIL254",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Filosofía De La Ciencia",
+    "code": "FIL268",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Estética",
+    "code": "FIL276",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Filosofía De Las Matemáticas",
+    "code": "FIL278",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Filosofía Del Derecho",
+    "code": "FIL277",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Filosofía De La Religión",
+    "code": "FIL279",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Filosofía De La Historia",
+    "code": "FIL280",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Filosofía Del Arte",
+    "code": "FIL309",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario Interdisciplinario",
+    "code": "FIL310",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Filosofía De La Tecnología",
+    "code": "FIL324",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Filosofía De La Mente",
+    "code": "FIL325",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Filosofía Social",
+    "code": "FIL329",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Fil223  (07)",
+    "code": "FIL331",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario Filosófico De Tema Libre 1",
+    "code": "FIL332",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario Filosófico De Tema Libre 2",
+    "code": "FIL333",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario Filosófico De Tema Libre 3",
+    "code": "FIL341",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario De Problemas De Filosofía Del Lenguaje",
+    "code": "FIL351",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Taller De Formación En La Investigación Humanística",
+    "code": "FIL352",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Humanidades Digitales",
+    "code": "FIL353",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario Sobre Pensamiento Peruano E Iberoamericano",
+    "code": "FIL354",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Introducción  Seminario De Problemas De Metafísica",
+    "code": "1HUM05",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario De Problemas De Epistemología",
+    "code": "1HUM14",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario De Problemas De Filosofía Práctica",
+    "code": "1HUM16",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Responsabilidad Social Para Las Humanidades",
+    "code": "1HUM17",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario Interdisciplinario Internacional 1",
+    "code": "1HUM18",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario Interdisciplinario Internacional 2",
+    "code": "1HUM19",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario Interdisciplinario Internacional 3",
+    "code": "1HUM29",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario Interdisciplinario Internacional 4",
+    "code": "1LIT91",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Introducción  Al Trabajo Editorial",
+    "code": "1LIT93",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Literatura Amazónica",
+    "code": "1HUM54",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas Libres En Humanidades 4",
+    "code": "1HUM57",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas Libres Interdisciplinarios 1",
+    "code": "1HUM60",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas Libres Interdisciplinarios 2",
+    "code": "1HUM63",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas Libres Interdisciplinarios 3",
+    "code": "1HUM55",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas Libres Interdisciplinarios 4",
+    "code": "1HUM58",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Latin",
+    "code": "1HUM61",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas Libres En Humanidades 1",
+    "code": "1HUM64",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas Libres En Humanidades 2",
+    "code": "1HUM56",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas Libres En Humanidades 3",
+    "code": "1HUM59",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario De Filosofía Antigua",
+    "code": "1HUM62",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario De Filosofía Medieval",
+    "code": "1HUM65",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario De Filosofía Moderna",
+    "code": "1HUM74",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario De Filosofía Contemporánea",
+    "code": "1HUM75",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Fil215  (07)",
+    "code": "1HUM76",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Fil219  (07)",
+    "code": "1HUM77",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Fil225  (07)",
+    "code": "1HUM78",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Fil225  (07)",
+    "code": "1HUM79",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  }
+]

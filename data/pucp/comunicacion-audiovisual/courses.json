@@ -1,0 +1,226 @@
+[
+  {
+    "name": "Teorías de la Comunicación",
+    "code": "CCO202",
+    "credits": 3,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Quinto Nivel",
+    "url": null
+  },
+  {
+    "name": "Lenguaje de los Medios",
+    "code": "CCO203",
+    "credits": 4,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Quinto Nivel",
+    "url": null
+  },
+  {
+    "name": "Pensamiento Computacional para Comunicaciones",
+    "code": "1CCO19",
+    "credits": 2,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Quinto Nivel",
+    "url": null
+  },
+  {
+    "name": "Fotografía",
+    "code": "CCE201",
+    "credits": 4,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Quinto Nivel",
+    "url": null
+  },
+  {
+    "name": "Medios Audiovisuales",
+    "code": "CCE211",
+    "credits": 3,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Quinto Nivel",
+    "url": null
+  },
+  {
+    "name": "Narración Audiovisual",
+    "code": "CCE231",
+    "credits": 4,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Quinto Nivel",
+    "url": null
+  },
+  {
+    "name": "Métodos y Técnicas de Investigación",
+    "code": "CCO221",
+    "credits": 1,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Sexto Nivel",
+    "url": null
+  },
+  {
+    "name": "Estética y Comunicación",
+    "code": "CCO363",
+    "credits": 3,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Sexto Nivel",
+    "url": null
+  },
+  {
+    "name": "Comunicación y Medios Digitales",
+    "code": "1CCO20",
+    "credits": 2,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Sexto Nivel",
+    "url": null
+  },
+  {
+    "name": "Producción para Medios Audiovisuales",
+    "code": "CCE217",
+    "credits": 3,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Sexto Nivel",
+    "url": null
+  },
+  {
+    "name": "Registro de Imagen y Audio",
+    "code": "CCE228",
+    "credits": 4,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Sexto Nivel",
+    "url": null
+  },
+  {
+    "name": "Técnicas de Guion",
+    "code": "CCE261",
+    "credits": 3,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Sexto Nivel",
+    "url": null
+  },
+  {
+    "name": "Edición",
+    "code": "1CCE01",
+    "credits": 4,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Sexto Nivel",
+    "url": null
+  },
+  {
+    "name": "Métodos y Técnicas de Investigación",
+    "code": "CCO232",
+    "credits": 2,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Séptimo Nivel",
+    "url": null
+  },
+  {
+    "name": "Deontología de la Comunicación",
+    "code": "CCO233",
+    "credits": 2,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Séptimo Nivel",
+    "url": null
+  },
+  {
+    "name": "Gestión de la Comunicación en Organizaciones",
+    "code": "1CCO21",
+    "credits": 3,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Séptimo Nivel",
+    "url": null
+  },
+  {
+    "name": "Iluminación",
+    "code": "CCE215",
+    "credits": 4,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Séptimo Nivel",
+    "url": null
+  },
+  {
+    "name": "Realización de Audio y Video",
+    "code": "CCE232",
+    "credits": 5,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Séptimo Nivel",
+    "url": null
+  },
+  {
+    "name": "Taller de Audio",
+    "code": "CCE313",
+    "credits": 4,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Séptimo Nivel",
+    "url": null
+  },
+  {
+    "name": "Semiótica para Comunicaciones",
+    "code": "CCO234",
+    "credits": 3,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Octavo Nivel",
+    "url": null
+  },
+  {
+    "name": "Legislación en Comunicaciones",
+    "code": "CCO352",
+    "credits": 2,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Octavo Nivel",
+    "url": null
+  },
+  {
+    "name": "Video",
+    "code": "CCE216",
+    "credits": 1,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Octavo Nivel",
+    "url": null
+  },
+  {
+    "name": "Radio",
+    "code": "CCE241",
+    "credits": 1,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Octavo Nivel",
+    "url": null
+  },
+  {
+    "name": "Diseño de Investigación (Académico o Profesional)",
+    "code": null,
+    "credits": 4,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Noveno Nivel",
+    "url": null
+  },
+  {
+    "name": "Video",
+    "code": "CCE315",
+    "credits": 2,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Noveno Nivel",
+    "url": null
+  },
+  {
+    "name": "Marketing Audiovisual",
+    "code": "1CCE02",
+    "credits": 3,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Noveno Nivel",
+    "url": null
+  },
+  {
+    "name": "Trabajo de Investigación b (Académico o Profesional)",
+    "code": null,
+    "credits": 4,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Décimo Nivel",
+    "url": null
+  },
+  {
+    "name": "Proyecto de Comunicación Audiovisual",
+    "code": "CCE361",
+    "credits": 7,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Décimo Nivel",
+    "url": null
+  }
+]

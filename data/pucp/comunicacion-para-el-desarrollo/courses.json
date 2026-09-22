@@ -1,0 +1,234 @@
+[
+  {
+    "name": "Teorías de la Comunicación",
+    "code": "CCO202",
+    "credits": 3,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Quinto Nivel",
+    "url": null
+  },
+  {
+    "name": "Lenguaje de los Medios",
+    "code": "CCO203",
+    "credits": 4,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Quinto Nivel",
+    "url": null
+  },
+  {
+    "name": "Pensamiento Computacional para Comunicaciones",
+    "code": "1CCO19",
+    "credits": 2,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Quinto Nivel",
+    "url": null
+  },
+  {
+    "name": "Teorías y Políticas del Desarrollo",
+    "code": "CCE208",
+    "credits": 3,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Quinto Nivel",
+    "url": null
+  },
+  {
+    "name": "Comunicación y Persuasión",
+    "code": "CCE250",
+    "credits": 3,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Quinto Nivel",
+    "url": null
+  },
+  {
+    "name": "Métodos y Técnicas de Investigación",
+    "code": "CCO221",
+    "credits": 1,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Sexto Nivel",
+    "url": null
+  },
+  {
+    "name": "Estética y Comunicación",
+    "code": "CCO363",
+    "credits": 3,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Sexto Nivel",
+    "url": null
+  },
+  {
+    "name": "Comunicación y Medios Digitales",
+    "code": "1CCO20",
+    "credits": 2,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Sexto Nivel",
+    "url": null
+  },
+  {
+    "name": "Comunicación Intercultural",
+    "code": "CCE251",
+    "credits": 3,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Sexto Nivel",
+    "url": null
+  },
+  {
+    "name": "Producción Audiovisual para el Desarrollo",
+    "code": "CCE283",
+    "credits": 4,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Sexto Nivel",
+    "url": null
+  },
+  {
+    "name": "Métodos y Técnicas de Investigación",
+    "code": "CCO232",
+    "credits": 2,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Séptimo Nivel",
+    "url": null
+  },
+  {
+    "name": "Deontología de la Comunicación",
+    "code": "CCO233",
+    "credits": 2,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Séptimo Nivel",
+    "url": null
+  },
+  {
+    "name": "Gestión de la Comunicación en Organizaciones",
+    "code": "1CCO21",
+    "credits": 3,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Séptimo Nivel",
+    "url": null
+  },
+  {
+    "name": "Diagnóstico y Estrategia Comunicacional",
+    "code": "CCE230",
+    "credits": 4,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Séptimo Nivel",
+    "url": null
+  },
+  {
+    "name": "Comunicación y Conflictos Sociales",
+    "code": "CCE286",
+    "credits": 3,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Séptimo Nivel",
+    "url": null
+  },
+  {
+    "name": "Taller de Elaboración de Campañas Sociales",
+    "code": "CCE287",
+    "credits": 3,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Séptimo Nivel",
+    "url": null
+  },
+  {
+    "name": "Semiótica para Comunicaciones",
+    "code": "CCO234",
+    "credits": 3,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Octavo Nivel",
+    "url": null
+  },
+  {
+    "name": "Legislación en Comunicaciones",
+    "code": "CCO352",
+    "credits": 2,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Octavo Nivel",
+    "url": null
+  },
+  {
+    "name": "Diseño y Gestión de Proyectos de Comunicación",
+    "code": "CCE248",
+    "credits": 4,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Octavo Nivel",
+    "url": null
+  },
+  {
+    "name": "Economía para el Desarrollo",
+    "code": "CCE272",
+    "credits": 3,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Octavo Nivel",
+    "url": null
+  },
+  {
+    "name": "Comunicación Organizacional",
+    "code": "CCE275",
+    "credits": 4,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Octavo Nivel",
+    "url": null
+  },
+  {
+    "name": "Democracia y Desarrollo",
+    "code": "CCE311",
+    "credits": 3,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Octavo Nivel",
+    "url": null
+  },
+  {
+    "name": "Recursos Comunicacionales",
+    "code": "CCE358",
+    "credits": 3,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Octavo Nivel",
+    "url": null
+  },
+  {
+    "name": "Diseño de Investigación a (Académico o Profesional)",
+    "code": null,
+    "credits": 4,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Noveno Nivel",
+    "url": null
+  },
+  {
+    "name": "Taller de Temas de Desarrollo",
+    "code": "CCE273",
+    "credits": 4,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Noveno Nivel",
+    "url": null
+  },
+  {
+    "name": "Taller de Evaluación de Proyectos",
+    "code": "CCE310",
+    "credits": 4,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Noveno Nivel",
+    "url": null
+  },
+  {
+    "name": "Prácticas Creativas en Comunicación",
+    "code": "CCE312",
+    "credits": 4,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Noveno Nivel",
+    "url": null
+  },
+  {
+    "name": "Trabajo de Investigación b (Académico o Profesional)",
+    "code": null,
+    "credits": 4,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Décimo Nivel",
+    "url": null
+  },
+  {
+    "name": "Proyecto de Comunicación para el Desarrollo",
+    "code": "CCE355",
+    "credits": 7,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Décimo Nivel",
+    "url": null
+  }
+]

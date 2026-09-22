@@ -1,0 +1,226 @@
+[
+  {
+    "name": "Álgebra matricial y geometría analítica",
+    "code": null,
+    "credits": null,
+    "stage": "Estudios Generales Ciencias",
+    "cycle": "Nivel 1",
+    "url": "https://estudios-generales-ciencias.pucp.edu.pe/curso/algebra-matricial-y-geometria-analitica/"
+  },
+  {
+    "name": "Comunicación académica",
+    "code": null,
+    "credits": null,
+    "stage": "Estudios Generales Ciencias",
+    "cycle": "Nivel 1",
+    "url": "https://estudios-generales-ciencias.pucp.edu.pe/curso/comunicacion-academica/"
+  },
+  {
+    "name": "Fundamentos de cálculo",
+    "code": null,
+    "credits": null,
+    "stage": "Estudios Generales Ciencias",
+    "cycle": "Nivel 1",
+    "url": "https://estudios-generales-ciencias.pucp.edu.pe/curso/fundamentos-de-calculo/"
+  },
+  {
+    "name": "Fundamentos de física",
+    "code": null,
+    "credits": null,
+    "stage": "Estudios Generales Ciencias",
+    "cycle": "Nivel 1",
+    "url": "https://estudios-generales-ciencias.pucp.edu.pe/curso/fundamentos-de-fisica/"
+  },
+  {
+    "name": "Química 1",
+    "code": null,
+    "credits": null,
+    "stage": "Estudios Generales Ciencias",
+    "cycle": "Nivel 1",
+    "url": "https://estudios-generales-ciencias.pucp.edu.pe/curso/quimica-1/"
+  },
+  {
+    "name": "Laboratorio de química 1",
+    "code": null,
+    "credits": null,
+    "stage": "Estudios Generales Ciencias",
+    "cycle": "Nivel 1",
+    "url": "https://estudios-generales-ciencias.pucp.edu.pe/curso/laboratorio-de-quimica-1/"
+  },
+  {
+    "name": "Cálculo diferencial",
+    "code": null,
+    "credits": null,
+    "stage": "Estudios Generales Ciencias",
+    "cycle": "Nivel 2",
+    "url": "https://estudios-generales-ciencias.pucp.edu.pe/curso/calculo-diferencial/"
+  },
+  {
+    "name": "Ciencia y filosofía",
+    "code": null,
+    "credits": null,
+    "stage": "Estudios Generales Ciencias",
+    "cycle": "Nivel 2",
+    "url": "https://estudios-generales-ciencias.pucp.edu.pe/curso/ciencia-y-filosofia/"
+  },
+  {
+    "name": "Dibujo en ingeniería",
+    "code": null,
+    "credits": null,
+    "stage": "Estudios Generales Ciencias",
+    "cycle": "Nivel 2",
+    "url": "https://estudios-generales-ciencias.pucp.edu.pe/curso/dibujo-en-ingenieria/"
+  },
+  {
+    "name": "Física 1",
+    "code": null,
+    "credits": null,
+    "stage": "Estudios Generales Ciencias",
+    "cycle": "Nivel 2",
+    "url": "https://estudios-generales-ciencias.pucp.edu.pe/curso/fisica-1/"
+  },
+  {
+    "name": "Laboratorio de física 1",
+    "code": null,
+    "credits": null,
+    "stage": "Estudios Generales Ciencias",
+    "cycle": "Nivel 2",
+    "url": "https://estudios-generales-ciencias.pucp.edu.pe/curso/laboratorio-de-fisica-1/"
+  },
+  {
+    "name": "Trabajo académico",
+    "code": null,
+    "credits": null,
+    "stage": "Estudios Generales Ciencias",
+    "cycle": "Nivel 2",
+    "url": "https://estudios-generales-ciencias.pucp.edu.pe/curso/trabajo-academico/"
+  },
+  {
+    "name": "Idioma extranjero (Nivel básico de inglés)",
+    "code": null,
+    "credits": null,
+    "stage": "Estudios Generales Ciencias",
+    "cycle": "Nivel 2",
+    "url": "https://estudios-generales-ciencias.pucp.edu.pe/curso/idioma-extranjero-nivel-basico-de-ingles/"
+  },
+  {
+    "name": "Electivos de humanidades 1",
+    "code": null,
+    "credits": null,
+    "stage": "Estudios Generales Ciencias",
+    "cycle": "Nivel 2",
+    "url": "https://estudios-generales-ciencias.pucp.edu.pe/informacion-academica/informacion-sobre-los-cursos/?ge=1378"
+  },
+  {
+    "name": "Cálculo integral",
+    "code": null,
+    "credits": null,
+    "stage": "Estudios Generales Ciencias",
+    "cycle": "Nivel 3",
+    "url": "https://estudios-generales-ciencias.pucp.edu.pe/curso/calculo-integral/"
+  },
+  {
+    "name": "Cálculo en varias variables",
+    "code": null,
+    "credits": null,
+    "stage": "Estudios Generales Ciencias",
+    "cycle": "Nivel 3",
+    "url": "https://estudios-generales-ciencias.pucp.edu.pe/curso/calculo-en-varias-variables/"
+  },
+  {
+    "name": "Física 2",
+    "code": null,
+    "credits": null,
+    "stage": "Estudios Generales Ciencias",
+    "cycle": "Nivel 3",
+    "url": "https://estudios-generales-ciencias.pucp.edu.pe/curso/fisica-2/"
+  },
+  {
+    "name": "Laboratorio de física 2",
+    "code": null,
+    "credits": null,
+    "stage": "Estudios Generales Ciencias",
+    "cycle": "Nivel 3",
+    "url": "https://estudios-generales-ciencias.pucp.edu.pe/curso/laboratorio-de-fisica-2/"
+  },
+  {
+    "name": "Introducción a la ingeniería civil",
+    "code": null,
+    "credits": null,
+    "stage": "Estudios Generales Ciencias",
+    "cycle": "Nivel 3",
+    "url": "https://estudios-generales-ciencias.pucp.edu.pe/curso/introduccion-a-la-ingenieria-civil/"
+  },
+  {
+    "name": "Fundamentos de programación",
+    "code": null,
+    "credits": null,
+    "stage": "Estudios Generales Ciencias",
+    "cycle": "Nivel 3",
+    "url": "https://estudios-generales-ciencias.pucp.edu.pe/curso/fundamentos-de-programacion/"
+  },
+  {
+    "name": "Electivos de humanidades 2",
+    "code": null,
+    "credits": null,
+    "stage": "Estudios Generales Ciencias",
+    "cycle": "Nivel 3",
+    "url": "https://estudios-generales-ciencias.pucp.edu.pe/informacion-academica/informacion-sobre-los-cursos/?ge=1382"
+  },
+  {
+    "name": "Cálculo aplicado",
+    "code": null,
+    "credits": null,
+    "stage": "Estudios Generales Ciencias",
+    "cycle": "Nivel 4",
+    "url": "https://estudios-generales-ciencias.pucp.edu.pe/curso/calculo-aplicado/"
+  },
+  {
+    "name": "Campo de topografía",
+    "code": null,
+    "credits": null,
+    "stage": "Estudios Generales Ciencias",
+    "cycle": "Nivel 4",
+    "url": "https://estudios-generales-ciencias.pucp.edu.pe/curso/campo-de-topografia/"
+  },
+  {
+    "name": "Estática",
+    "code": null,
+    "credits": null,
+    "stage": "Estudios Generales Ciencias",
+    "cycle": "Nivel 4",
+    "url": "https://estudios-generales-ciencias.pucp.edu.pe/curso/estatica/"
+  },
+  {
+    "name": "Física 3",
+    "code": null,
+    "credits": null,
+    "stage": "Estudios Generales Ciencias",
+    "cycle": "Nivel 4",
+    "url": "https://estudios-generales-ciencias.pucp.edu.pe/curso/fisica-3/"
+  },
+  {
+    "name": "Laboratorio de física 3",
+    "code": null,
+    "credits": null,
+    "stage": "Estudios Generales Ciencias",
+    "cycle": "Nivel 4",
+    "url": "https://estudios-generales-ciencias.pucp.edu.pe/curso/laboratorio-de-fisica-3/"
+  },
+  {
+    "name": "Topografía",
+    "code": null,
+    "credits": null,
+    "stage": "Estudios Generales Ciencias",
+    "cycle": "Nivel 4",
+    "url": "https://estudios-generales-ciencias.pucp.edu.pe/curso/topografia/"
+  },
+  {
+    "name": "Electivos de Teología y religión",
+    "code": null,
+    "credits": null,
+    "stage": "Estudios Generales Ciencias",
+    "cycle": "Nivel 4",
+    "url": "https://estudios-generales-ciencias.pucp.edu.pe/informacion-academica/informacion-sobre-los-cursos/?ge=1383"
+  }
+]

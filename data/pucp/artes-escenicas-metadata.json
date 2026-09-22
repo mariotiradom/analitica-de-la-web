@@ -1,0 +1,36 @@
+{
+  "source": "pontificia_universidad_catolica_del_peru",
+  "faculty": "Facultad de Artes Escénicas",
+  "captured_at": "2026-09-22T19:13:25.992714+00:00",
+  "career_count": 4,
+  "careers": [
+    {
+      "name": "Danza",
+      "plan_url": "https://facultad-artes-escenicas.pucp.edu.pe/carreras/danza/plan-de-estudio-v2-danza/",
+      "pdf_url": "https://facultad-artes-escenicas.pucp.edu.pe/wp-content/uploads/2026/04/DANZA_PLAN-DE-ESTUDIOS.pdf",
+      "pdf_size_bytes": null
+    },
+    {
+      "name": "Teatro",
+      "plan_url": "https://facultad-artes-escenicas.pucp.edu.pe/carreras/teatro/plan-de-estudio-teatro/",
+      "pdf_url": "https://facultad-artes-escenicas.pucp.edu.pe/wp-content/uploads/2026/04/TEATRO_PLAN-DE-ESTUDIOS.pdf",
+      "pdf_size_bytes": null
+    },
+    {
+      "name": "Música",
+      "specializations": [
+        "Canto",
+        "Composición Musical",
+        "Ejecución Musical",
+        "Producción Musical"
+      ],
+      "pdf_count": 0
+    },
+    {
+      "name": "Creación y Producción Escénica",
+      "plan_url": "https://facultad-artes-escenicas.pucp.edu.pe/carreras/creacion-y-produccion-escenicas/plan-de-estudio-creacion-y-produccion-escenica/",
+      "pdf_url": "https://facultad-artes-escenicas.pucp.edu.pe/wp-content/uploads/2026/04/CREPO_PLAN-DE-ESTUDIOS-1.pdf",
+      "pdf_size_bytes": null
+    }
+  ]
+}

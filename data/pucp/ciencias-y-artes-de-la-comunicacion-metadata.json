@@ -1,0 +1,36 @@
+{
+  "source": "pontificia_universidad_catolica_del_peru",
+  "faculty": "Facultad de Ciencias y Artes de la Comunicación",
+  "captured_at": "2026-09-22T19:13:34.669511+00:00",
+  "career_count": 4,
+  "careers": [
+    {
+      "name": "Comunicación Audiovisual",
+      "plan_url": "https://facultad.pucp.edu.pe/comunicaciones/carreras/comunicacion-audiovisual/plan-de-estudios/",
+      "pdf_url": "https://facultad.pucp.edu.pe/comunicaciones/wp-content/uploads/2026/07/Nuevo-Plan-de-Estudios-Comunicacion-Audiovisual-desde-el-2025-1.pdf",
+      "pdf_size_bytes": null,
+      "course_count": 0
+    },
+    {
+      "name": "Comunicación para el desarrollo",
+      "plan_url": "https://facultad.pucp.edu.pe/comunicaciones/carreras/comunicacion-para-el-desarrollo/plan-de-estudios/",
+      "pdf_url": "https://facultad.pucp.edu.pe/comunicaciones/wp-content/uploads/2026/07/Nuevo-Plan-de-Estudios-Comunicacion-para-el-Desarrollo-desde-2025-1.pdf",
+      "pdf_size_bytes": null,
+      "course_count": 0
+    },
+    {
+      "name": "Publicidad",
+      "plan_url": "https://facultad.pucp.edu.pe/comunicaciones/carreras/publicidad/plan-de-estudios/",
+      "pdf_url": "https://facultad.pucp.edu.pe/comunicaciones/wp-content/uploads/2026/07/Nuevo-Plan-de-Estudios-Publicidad-desde-2025-1.pdf",
+      "pdf_size_bytes": null,
+      "course_count": 0
+    },
+    {
+      "name": "Periodismo",
+      "plan_url": "https://facultad.pucp.edu.pe/comunicaciones/carreras/periodismo/plan-de-estudios/",
+      "pdf_url": "https://facultad.pucp.edu.pe/comunicaciones/wp-content/uploads/2026/07/Nuevo-Plan-de-Estudios-Periodismo-desde-2025-1.pdf",
+      "pdf_size_bytes": null,
+      "course_count": 0
+    }
+  ]
+}

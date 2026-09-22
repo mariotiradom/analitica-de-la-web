@@ -1,0 +1,794 @@
+[
+  {
+    "name": "Técnicas Y Métodos Cuantitativos",
+    "code": "1GEO05",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 5",
+    "url": null
+  },
+  {
+    "name": "Introducción A Las Ciencias De La Tierra",
+    "code": "1GEO06",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 5",
+    "url": null
+  },
+  {
+    "name": "Geografía Urbana",
+    "code": "GEO241",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 5",
+    "url": null
+  },
+  {
+    "name": "Geografía Rural",
+    "code": "1GEO08",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 5",
+    "url": null
+  },
+  {
+    "name": "Técnicas Y Métodos Cualitativos",
+    "code": "1GEO07",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 5",
+    "url": null
+  },
+  {
+    "name": "Sistemas De Información Geográfica",
+    "code": "1GEO09",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 5",
+    "url": null
+  },
+  {
+    "name": "Geomorfología",
+    "code": "1GEO10",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Ética Y Responsabilidad Social En Geografía Y Medio Ambiente",
+    "code": "GEO147",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Teledetección Y Ciencia Geoespacial",
+    "code": "1GEO12",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Geografía Económica Y Recursos Naturales",
+    "code": "1GEO11",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Biogeografía",
+    "code": "1GEO13",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Hidrografía",
+    "code": "1GEO14",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 7",
+    "url": null
+  },
+  {
+    "name": "Análisis Espacial",
+    "code": "GEO305",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 7",
+    "url": null
+  },
+  {
+    "name": "Planificación Rural",
+    "code": "GEO316",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 7",
+    "url": null
+  },
+  {
+    "name": "Planificación Urbana",
+    "code": "GEO312",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 7",
+    "url": null
+  },
+  {
+    "name": "Riesgo De Desastres",
+    "code": "1GEO15",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 7",
+    "url": null
+  },
+  {
+    "name": "Edafología",
+    "code": "1GEO16",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Ordenamiento Territorial Y Ambiental",
+    "code": "GEO249",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Paisajes Peruanos Y Desarrollo",
+    "code": "GEO258",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Cambio Climático Y Territorio",
+    "code": "GEO256",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Gestión De Cuencas",
+    "code": "GEO317",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Seminario De Tesis 1",
+    "code": "1GEO17",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 9",
+    "url": null
+  },
+  {
+    "name": "Estudio Y Evaluación De Impactos Ambientales",
+    "code": "GEO257",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 9",
+    "url": null
+  },
+  {
+    "name": "Geografía Andina Y Amazónica",
+    "code": "GEO307",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 9",
+    "url": null
+  },
+  {
+    "name": "Ecogestión De Las Fronteras",
+    "code": "GEO302",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 9",
+    "url": null
+  },
+  {
+    "name": "Idiomas",
+    "code": "IDM303",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 9",
+    "url": null
+  },
+  {
+    "name": "Taller Integrador: Proyectos Y Gestión Ambiental Y Territorial",
+    "code": "1GEO18",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Geo312 (07) Geo316 (07)",
+    "code": "1GEO19",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario De Tesis 2",
+    "code": "GEO318",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "1Geo17 (07)",
+    "code": "1GEO26",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario De Geografía",
+    "code": "GEO309",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Geografía Cultural",
+    "code": "GEO311",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Geomorfología Del Litoral",
+    "code": "GEO320",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Geografía Minera Y Medio Ambiente",
+    "code": "GEO325",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Ecología Vegetal",
+    "code": "HUM212",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Geografía Del Transporte",
+    "code": "HUM214",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Geografía Del Turismo",
+    "code": "1GEO04",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Geografía Mundial Y Globalización",
+    "code": "1GEO20",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario En Tema Medioambiental",
+    "code": "1GEO21",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Geo Computación",
+    "code": "1GEO22",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Taller En Análisis Espacial Avanzado",
+    "code": "1GEO23",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Glaciología",
+    "code": "1GEO24",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Geografía Y Ecología De Montañas",
+    "code": "1GEO25",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Ecología Urbana",
+    "code": "1GEO26",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario En Ciudades Y Medioambiente",
+    "code": "1GEO27",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario De Geografía Humana Aplicada",
+    "code": "1GEO27",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Políticas Y Normatividad Territorial Y Ambiental",
+    "code": "1GEO29",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Formación Ciudadana Y Comunicación Ambiental",
+    "code": "QUI361",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Análisis Y Planificación Regional",
+    "code": "ANT315",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Meteorología Y Climatología",
+    "code": "CCE226",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Cartografía Y Lectura De Mapas",
+    "code": "HIS345",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Pensamiento Geográfico",
+    "code": "1SOC02",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Geografía De La Población",
+    "code": "HUM200",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Técnicas Y Métodos Cuantitativos",
+    "code": "1HUM05",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Introducción A Las Ciencias De La Tierra",
+    "code": "1HUM14",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Geografía Urbana",
+    "code": "1HUM16",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Geografía Rural",
+    "code": "1HUM17",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Técnicas Y Métodos Cualitativos",
+    "code": "1HUM18",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Geomorfología",
+    "code": "1HUM19",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Sistemas De Información Geográfica",
+    "code": "GEO225",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Biogeografía",
+    "code": "GEO231",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Ética Y Responsabilidad Social En Geografía Y Medio Ambiente",
+    "code": "GEO234",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Teledetección Y Ciencia Geoespacial",
+    "code": "GEO237",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Geografía Económica Y Recursos Naturales",
+    "code": "1GEO05",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Hidrografía",
+    "code": "1GEO06",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Riesgo De Desastres",
+    "code": "GEO241",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Edafología",
+    "code": "1GEO07",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Planificación Rural",
+    "code": "1GEO08",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Planificación Urbana",
+    "code": "1GEO10",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Análisis Espacial",
+    "code": "1GEO09",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Gestión De Cuencas",
+    "code": "1GEO13",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario De Tesis 1",
+    "code": "GEO147",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Paisajes Peruanos Y Desarrollo",
+    "code": "1GEO11",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Cambio Climático Y Territorio",
+    "code": "1GEO12",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Ordenamiento Territorial Y Ambiental",
+    "code": "1GEO14",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario De Tesis 2",
+    "code": "1GEO15",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Geografía Andina Y Amazónica",
+    "code": "1GEO16",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Ecogestión De Las Fronteras",
+    "code": "GEO312",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Estudio Y Evaluación De Impactos Ambientales",
+    "code": "GEO316",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Taller Integrador: Proyectos Y Gestión Ambiental Y Territorial",
+    "code": "GEO305",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario De Geografía",
+    "code": "GEO317",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Geografía Minera Y Medio Ambiente",
+    "code": "1GEO17",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Geografía Cultural",
+    "code": "GEO256",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Geomorfología Del Litoral",
+    "code": "GEO258",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Ecología Vegetal",
+    "code": "GEO249",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Geografía Del Transporte",
+    "code": "1GEO19",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Geografía Del Turismo",
+    "code": "GEO302",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Geografía Mundial  Y Globalización",
+    "code": "GEO307",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario De Tema Medioambiental",
+    "code": "GEO257",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Geocomputación",
+    "code": "1GEO18",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Taller En Análisis Espacial Avanzado",
+    "code": "1GEO26",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Glaciología",
+    "code": "GEO311",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Geografía Y Ecología De Montañas",
+    "code": "GEO309",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Ecología Urbana",
+    "code": "GEO318",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario En Ciudades Y Medioambiente",
+    "code": "GEO320",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario De Geografía Humana Aplicada",
+    "code": "GEO325",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Políticas Y Normatividad Territorial Y Ambiental",
+    "code": "HUM212",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Formación Ciudadana Y Comunicación Ambiental",
+    "code": "HUM214",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Análisis Y Planificación Regional",
+    "code": "1GEO04",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  }
+]

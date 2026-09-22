@@ -1,0 +1,70 @@
+{
+  "source": "pontificia_universidad_catolica_del_peru",
+  "faculty": "Facultad de Letras y Ciencias Humanas",
+  "captured_at": "2026-09-22T19:31:15.842485+00:00",
+  "career_count": 7,
+  "careers": [
+    {
+      "name": "Arqueología",
+      "plan_url": "https://facultad.pucp.edu.pe/letras-ciencias-humanas/carreras/arqueologia/plan-de-estudios/",
+      "course_count": 100,
+      "external_plan_urls": [
+        "https://planesllcchhpucp.com/arqueologia"
+      ],
+      "pdf_url": null
+    },
+    {
+      "name": "Ciencias de la Información",
+      "plan_url": "https://facultad.pucp.edu.pe/letras-ciencias-humanas/carreras/ciencias-de-la-informacion/plan-de-estudios/",
+      "course_count": 117,
+      "external_plan_urls": [
+        "https://planesllcchhpucp.com/cienciasdelainformacion"
+      ],
+      "pdf_url": null
+    },
+    {
+      "name": "Filosofía",
+      "plan_url": "https://facultad.pucp.edu.pe/letras-ciencias-humanas/carreras/filosofia/plan-de-estudios/",
+      "course_count": 64,
+      "external_plan_urls": [
+        "https://planesllcchhpucp.com/filosofia"
+      ],
+      "pdf_url": null
+    },
+    {
+      "name": "Geografía y Medio Ambiente",
+      "plan_url": "https://facultad.pucp.edu.pe/letras-ciencias-humanas/carreras/geografia-y-medio-ambiente/plan-de-estudios/",
+      "course_count": 99,
+      "external_plan_urls": [
+        "https://planesllcchhpucp.com/geografiaymedioambiente"
+      ],
+      "pdf_url": "https://facultad.pucp.edu.pe/letras-ciencias-humanas/wp-content/uploads/2017/11/1.-Malla-curricular-1.pdf"
+    },
+    {
+      "name": "Historia",
+      "plan_url": "https://facultad.pucp.edu.pe/letras-ciencias-humanas/carreras/historia/plan-de-estudios/",
+      "course_count": 119,
+      "external_plan_urls": [
+        "https://planesllcchhpucp.com/historia"
+      ],
+      "pdf_url": null
+    },
+    {
+      "name": "Humanidades",
+      "plan_url": "https://facultad.pucp.edu.pe/letras-ciencias-humanas/carreras/humanidades/plan-de-estudios/",
+      "course_count": 0,
+      "external_plan_urls": [],
+      "pdf_url": null
+    },
+    {
+      "name": "Lingüística y Literatura",
+      "plan_url": "https://facultad.pucp.edu.pe/letras-ciencias-humanas/carreras/linguistica-y-literatura/plan-de-estudios/",
+      "course_count": 273,
+      "external_plan_urls": [
+        "https://planesllcchhpucp.com/linguistica",
+        "https://planesllcchhpucp.com/literaturahispanica"
+      ],
+      "pdf_url": null
+    }
+  ]
+}

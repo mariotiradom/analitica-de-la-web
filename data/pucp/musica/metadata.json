@@ -1,0 +1,41 @@
+{
+  "source": "pontificia_universidad_catolica_del_peru",
+  "faculty": "Facultad de Artes Escénicas",
+  "career": "Música",
+  "career_url": "https://www.pucp.edu.pe/carrera/musica/",
+  "captured_at": "2026-09-22T19:13:25.075722+00:00",
+  "specializations": [
+    {
+      "specialization": "Canto",
+      "plan_url": "https://facultad-artes-escenicas.pucp.edu.pe/carreras/musica/plan-de-estudio/plan-de-estudio-canto/",
+      "pdf_url": "https://facultad-artes-escenicas.pucp.edu.pe/wp-content/uploads/2026/04/MUSICA_MENCION-EN-CANTO.pdf",
+      "pdf_file": null,
+      "pdf_size_bytes": null
+    },
+    {
+      "specialization": "Composición Musical",
+      "plan_url": "https://facultad-artes-escenicas.pucp.edu.pe/carreras/musica/plan-de-estudio/plan-de-estudio-composicion-musical/",
+      "pdf_url": "https://facultad-artes-escenicas.pucp.edu.pe/wp-content/uploads/2026/04/MUSICA_MENCION-EN-COMPOSICION-MUSICAL.pdf",
+      "pdf_file": null,
+      "pdf_size_bytes": null
+    },
+    {
+      "specialization": "Ejecución Musical",
+      "plan_url": "https://facultad-artes-escenicas.pucp.edu.pe/carreras/musica/plan-de-estudio/plan-de-estudio-ejecucion-musical/",
+      "pdf_url": "https://facultad-artes-escenicas.pucp.edu.pe/wp-content/uploads/2026/04/MUSICA_MENCION-EN-EJECUCION-MUSICAL.pdf",
+      "pdf_file": null,
+      "pdf_size_bytes": null
+    },
+    {
+      "specialization": "Producción Musical",
+      "plan_url": "https://facultad-artes-escenicas.pucp.edu.pe/carreras/musica/plan-de-estudio/plan-de-estudio-produccion-musical/",
+      "pdf_url": "https://facultad-artes-escenicas.pucp.edu.pe/wp-content/uploads/2026/04/MUSICA_MENCION-EN-PRODUCCION-MUSICAL.pdf",
+      "pdf_file": null,
+      "pdf_size_bytes": null
+    }
+  ],
+  "files": {
+    "html": "data/pucp/musica/source.html"
+  },
+  "notes": "La carrera de Música en la Facultad de Artes Escénicas cuenta con 4 menciones oficiales (Canto, Composición Musical, Ejecución Musical y Producción Musical), cada una con su plan de estudios oficial en PDF."
+}

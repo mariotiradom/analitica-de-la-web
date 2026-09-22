@@ -1,0 +1,17 @@
+{
+  "source": "pontificia_universidad_catolica_del_peru",
+  "faculty": "Facultad de Ciencias e Ingeniería",
+  "career": "Estadística",
+  "career_url": "https://www.pucp.edu.pe/carrera/estadistica/",
+  "fci_plan_url": "https://facultad.pucp.edu.pe/ingenieria/carreras/ciencias-estadisticas/plan-de-estudios/",
+  "eeggcc_plan_url": "https://estudios-generales-ciencias.pucp.edu.pe/plan_estudio/estadistica/",
+  "fci_pdf_url": "https://facultad-ciencias-ingenieria.pucp.edu.pe/wp-content/uploads/2026/07/FISICA_ppee_FCI-2026-2-1.pdf",
+  "eeggcc_pdf_url": null,
+  "captured_at": "2026-09-22T19:13:43.539359+00:00",
+  "files": {
+    "html": "data/pucp/estadistica/source.html",
+    "courses": "data/pucp/estadistica/courses.json"
+  },
+  "course_count": 0,
+  "notes": "Niveles 1 al 4 en HTML de Estudios Generales Ciencias (EEGGCC); niveles 5 en adelante en PDF de Facultad de Ciencias e Ingeniería (FCI)."
+}

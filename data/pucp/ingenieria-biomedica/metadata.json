@@ -1,0 +1,18 @@
+{
+  "source": "pontificia_universidad_catolica_del_peru",
+  "faculty": "Facultad de Ciencias e Ingeniería",
+  "career": "Ingeniería Biomédica PUCP",
+  "career_url": "https://www.pucp.edu.pe/carrera/ingenieria-biomedica/",
+  "fci_plan_url": "https://facultad-ciencias-ingenieria.pucp.edu.pe/carreras/ingenieria-biomedica/plan-de-estudios/",
+  "eeggcc_plan_url": "https://estudios-generales-ciencias.pucp.edu.pe/plan_estudio/ingenieria-biomedica/",
+  "fci_pdf_url": "https://facultad-ciencias-ingenieria.pucp.edu.pe/wp-content/uploads/2026/07/BIOMEDICA-1_ppee_FCI-2026-2.pdf",
+  "eeggcc_pdf_url": "https://estudios-generales-ciencias.pucp.edu.pe/wp-content/uploads/2026/07/PE_Biomedica_26.pdf",
+  "captured_at": "2026-09-22T19:13:52.749665+00:00",
+  "files": {
+    "html": "data/pucp/ingenieria-biomedica/source.html",
+    "eeggcc_html": "data/pucp/ingenieria-biomedica/eeggcc_source.html",
+    "courses": "data/pucp/ingenieria-biomedica/courses.json"
+  },
+  "course_count": 28,
+  "notes": "Niveles 1 al 4 en HTML de Estudios Generales Ciencias (EEGGCC); niveles 5 en adelante en PDF de Facultad de Ciencias e Ingeniería (FCI)."
+}

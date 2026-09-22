@@ -1,0 +1,2186 @@
+[
+  {
+    "name": "Idiomas",
+    "code": "IDM303",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 5",
+    "url": null
+  },
+  {
+    "name": "Seminario De Tesis 2",
+    "code": "LIN287",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 5",
+    "url": null
+  },
+  {
+    "name": "Crítica Textual",
+    "code": "LIT306",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Aplicaciones Profesionales De La Lingüística",
+    "code": "1LIN47",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Lin256 (04)",
+    "code": "1LIT01",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Latin",
+    "code": "LIN258",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Quechumara 1",
+    "code": "1LIN07",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Bilingüismo",
+    "code": "1LIN08",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Quechumara 2",
+    "code": "LIN259",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario De Linguística Amazónica",
+    "code": "1LIN09",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Lingüística Educacional",
+    "code": "ACT219",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Taller De Traducción Literaria",
+    "code": "LIN268",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Narrativa Peruana Contemporánea",
+    "code": "LIN269",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Taller De Formación En La Investigación Humanística",
+    "code": "LIN277",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Narrativa Española De La Edad De Oro",
+    "code": "LIT216",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario De Lingüística 2",
+    "code": "LIT313",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario Interdisciplinario",
+    "code": "1HUM05",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Lingüística Aplicada",
+    "code": "1LIN12",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Lin332 (07)",
+    "code": "1LIN13",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Lin273 (07)",
+    "code": "1LIN14",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Lin258 (07)",
+    "code": "1HUM16",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Lexicografía",
+    "code": "1HUM17",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario De Lingüística 1",
+    "code": "1HUM18",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario De Lingüística 3",
+    "code": "1HUM19",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas Libres En Humanidades 1",
+    "code": "1HUM29",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas Libres En Humanidades 2",
+    "code": "1HUM54",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas Libres En Humanidades 3",
+    "code": "1HUM55",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Gramática De La Lengua De Señas Peruana",
+    "code": "1HUM56",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario De Español Del Perú",
+    "code": "1HUM57",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario De Psicolingüística",
+    "code": "1HUM58",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario De Sintaxis",
+    "code": "1HUM59",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario De Fonología",
+    "code": "1HUM60",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario De Morfología",
+    "code": "1HUM61",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario De Sociolingüística",
+    "code": "1HUM62",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas Libres En Humanidades 4",
+    "code": "1HUM63",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas Libres Interdisciplinarios 1",
+    "code": "1HUM64",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas Libres Interdisciplinarios 2",
+    "code": "1HUM65",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas Libres Interdisciplinarios 3",
+    "code": "1HUM74",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas Libres Interdisciplinarios 4",
+    "code": "1HUM75",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario Interdisciplinario Internacional 1",
+    "code": "1HUM76",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario Interdisciplinario Internacional 2",
+    "code": "1HUM77",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario Interdisciplinario Internacional 3",
+    "code": "1HUM78",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario Interdisciplinario Internacional 4",
+    "code": "1HUM79",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Responsabilidad Social Para Las Humanidades",
+    "code": "1HUM80",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Historia Del Español 2",
+    "code": "1HUM81",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Análisis Del Discurso",
+    "code": "1LIN48",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario De Tesis 1",
+    "code": "1LIN49",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Lingüística Computacional",
+    "code": "1LIN50",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Lin256 (07)",
+    "code": "1LIN51",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "T09917 (07)",
+    "code": "1LIN52",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Sintaxis",
+    "code": "LIN248",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Sociolingüística",
+    "code": "LIN305",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Documentación Y Descripción Lingüística",
+    "code": "1LIN54",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Adquisición De Lenguaje",
+    "code": "1LIN04",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "T09898 (07)",
+    "code": "LIN220",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Morfología",
+    "code": "LIN256",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Historia Del Español 1",
+    "code": "LIN273",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Lingüística Amazónica",
+    "code": "1LIN42",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Pragmática Y Estudios De La Interacción",
+    "code": "1LIN46",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Metodologías Cuantitativas Y Experimentales En Lingüística",
+    "code": "1LIT41",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Semántica",
+    "code": "LIN225",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 7",
+    "url": null
+  },
+  {
+    "name": "Lingüística Andina",
+    "code": "LIN332",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Lin247 (07)",
+    "code": "1LIN46",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Lin247 (07)",
+    "code": "LIN250",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Fonología",
+    "code": "1LIN03",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Metodología Cualitativa En Lingüística",
+    "code": "LIN209",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Lingüística Histórica Y Contacto Lingüístico",
+    "code": "LIN247",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Introducción A La Teoría Literaria",
+    "code": "1LIN44",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Fonética",
+    "code": "1LIN43",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Tipología Lingüística",
+    "code": "1LIN01",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Gramática Del Español",
+    "code": "LIN250",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Historia De Las Ideas Lingüísticas",
+    "code": "LIN332",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Fonología",
+    "code": "1LIN46",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Lingüística Andina",
+    "code": "1LIN03",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Metodología Cualitativa En Lingüística",
+    "code": "LIN220",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Lingüística Histórica Y Contacto Lingüístico",
+    "code": "LIN256",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Morfología",
+    "code": "1LIN42",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Historia Del Español 1",
+    "code": "1LIN45",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Pragmática Y Estudios De La Interacción",
+    "code": "1LIT41",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Metodologías Cuantitativas Y Experimentales En Lingüística",
+    "code": "LIN273",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Ética Y Responsabilidad Social En Lingüística Y Literatura",
+    "code": "LIN248",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Lingüística Amazónica",
+    "code": "LIN305",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Sintaxis",
+    "code": "1LIN04",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Sociolingüística",
+    "code": "1LIN54",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Adquisición De Lenguaje",
+    "code": "LIN257",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Documentación Y Descripción  Lingüística",
+    "code": "LIN286",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Historia Del Español 2",
+    "code": "1LIN05",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Seminario De Tesis 1",
+    "code": "LIN287",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Análisis Del Discurso",
+    "code": "1LIT01",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Seminario De Tesis 2",
+    "code": "LIN258",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Latin",
+    "code": "1LIN07",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Quechumara 1",
+    "code": "1LIN08",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Seminario De Linguística Amazónica",
+    "code": "LIN259",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Bilingüismo",
+    "code": "1LIN09",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Quechumara 2",
+    "code": "ACT219",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Lingüística Educacional",
+    "code": "LIN268",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Taller De Traducción Literaria",
+    "code": "LIN269",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Seminario De Lingüística 2",
+    "code": "LIN277",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Seminario Interdisciplinario",
+    "code": "LIT313",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Lingüística Aplicada",
+    "code": "1LIN12",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Narrativa Española De La Edad De Oro",
+    "code": "1LIN13",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Lexicografía",
+    "code": "1LIN14",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Seminario De Lingüística 1",
+    "code": "1LIN49",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Seminario De Lingüística 3",
+    "code": "1LIN50",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Seminario De Psicolingüística",
+    "code": "1LIN51",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Seminario De Sintaxis",
+    "code": "LIT216",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Seminario De Fonología",
+    "code": "1HUM05",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Narrativa Peruana Contemporánea",
+    "code": "1LIN48",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Taller De Formación En La Investigación Humanística",
+    "code": "1LIN53",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Gramática De La Lengua De Señas Peruana",
+    "code": "1LIN55",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Seminario De Sociolingüística",
+    "code": "LIT306",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Seminario De Español Del Perú",
+    "code": "1LIN47",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Linguistica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Seminario De Tesis 2",
+    "code": "LIT285",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 5",
+    "url": null
+  },
+  {
+    "name": "Literatura Contemporánea Española",
+    "code": "LIT204",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Ética Y Responsabilidad Social En Lingüística Y Literatura",
+    "code": "1LIT41",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario De Tesis 1",
+    "code": "LIT284",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Lírica Peruana Contemporánea",
+    "code": "LIT209",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Teoría Literaria 3",
+    "code": "1LIT06",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Narrativa Peruana Contemporánea",
+    "code": "1LIT07",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Literatura Hispanoamericana Colonial 2",
+    "code": "LIT216",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Crítica Textual",
+    "code": "LIT306",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "1Lit04 (07)",
+    "code": "LIT201",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "1Lit05 (07)",
+    "code": "LIT244",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Lin256 (04)",
+    "code": "LIT312",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Literatura Medieval Española",
+    "code": "1LIT04",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Literatura Peruana Del Siglo Xix",
+    "code": "1LIT05",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Historia Del Español 1",
+    "code": "LIN256",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 7",
+    "url": null
+  },
+  {
+    "name": "Teoría Literaria 1",
+    "code": "LIT303",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 7",
+    "url": null
+  },
+  {
+    "name": "Lírica Española De La Edad De Oro",
+    "code": "LIT234",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Narrativa Hispanoamericana Contemporánea",
+    "code": "LIT240",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Literatura Hispanoamericana Del Siglo Xix",
+    "code": "LIT243",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Seminario (Sem)",
+    "code": "LIT245",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Taller (Tal)",
+    "code": "LIT254",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Seminario (Sem)",
+    "code": "LIT247",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Taller (Tal)",
+    "code": "LIT248",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Seminario De Teoría Literaria",
+    "code": "LIT249",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Seminario Interdisciplinario",
+    "code": "LIT250",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Seminario De Literatura Española",
+    "code": "LIT252",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Seminario De Literatura Peruana Colonial",
+    "code": "1LIT13",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Seminario De Literatura Peruana Contemporánea",
+    "code": "ACT219",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Seminario De Literatura Hispano Americana Colonial",
+    "code": "1LIT47",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Seminario De Literatura Hispano Americana Contemporánea",
+    "code": "ACT313",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Seminario De Literatura Hispano Americana Del Siglo Xix",
+    "code": "ACT314",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Lit303 (07)",
+    "code": "ACT315",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Lit303 (07)",
+    "code": "1LIT14",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Lit303 (07)",
+    "code": "1LIT92",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Taller De Traducción Literaria",
+    "code": "LIN220",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Formación Profesional En Literatura",
+    "code": "LIN225",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Taller De Creación Literaria: Teatro",
+    "code": "LIN247",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Taller De Creación Literaria: Narrativa",
+    "code": "LIN248",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Taller De Creación Literaria:  Poesía",
+    "code": "LIN250",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Taller De Didáctica De La Lengua Y De La Literatura",
+    "code": "LIN257",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Taller De Corrección De Estilo",
+    "code": "LIN258",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Morfología",
+    "code": "LIN259",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Semántica",
+    "code": "LIN273",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Historia Del Español 2",
+    "code": "LIN332",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Fonética",
+    "code": "LIN305",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Sintaxis",
+    "code": "LIT206",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Fonología",
+    "code": "LIT259",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Quechumara 1",
+    "code": "LIT262",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Quechumara 2",
+    "code": "LIT264",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Lingüística Amazónica",
+    "code": "LIT266",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Sociolingüística",
+    "code": "LIT267",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Literaturas Europeas",
+    "code": "LIT268",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Literatura Oral",
+    "code": "LIT272",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Literaturas Orientales",
+    "code": "LIT343",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Literatura Quechua",
+    "code": "LIT344",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Teatro Hispano Americano Contemporáneo",
+    "code": "LIT357",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Rítmica  Y Métrica",
+    "code": "1LIT08",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Lingüística  Andina",
+    "code": "1LIT09",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Literatura De Lengua Italiana",
+    "code": "1LIT10",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Lin247 (07)",
+    "code": "1LIT11",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Lin256 (07)",
+    "code": "1LIT12",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Lin332 (07)",
+    "code": "1LIT34",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Lin258 (07)",
+    "code": "1LIT35",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Literatura Y Cine",
+    "code": "1HUM05",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Literatura Griega Clásica",
+    "code": "1HUM16",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Literatura Latina Clásica",
+    "code": "1HUM17",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Literatura Comparada",
+    "code": "1HUM18",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Literatura De Lengua Francesa",
+    "code": "1HUM19",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Responsabilidad Social Para Las Humanidades",
+    "code": "1HUM29",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Literatura  De Lengua Inglesa",
+    "code": "1LIT91",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Seminario Interdisciplinario Internacional 1",
+    "code": "1LIT93",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Seminario Interdisciplinario Internacional 2",
+    "code": "1HUM54",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Seminario Interdisciplinario Internacional 3",
+    "code": "1HUM57",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Seminario Interdisciplinario Internacional 4",
+    "code": "1HUM60",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Taller De Formación En La Investigación Humanística",
+    "code": "1HUM63",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Introducción  Al Trabajo Editorial",
+    "code": "1HUM55",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Literatura Amazónica",
+    "code": "1HUM58",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Temas Libres En Humanidades 4",
+    "code": "1HUM61",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Temas Libres Interdisciplinarios 1",
+    "code": "1HUM64",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Temas Libres Interdisciplinarios 2",
+    "code": "1HUM56",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Temas Libres Interdisciplinarios 3",
+    "code": "1HUM59",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Temas Libres Interdisciplinarios 4",
+    "code": "1HUM62",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Pragmática Y Estudios De La Interacción",
+    "code": "1HUM65",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Temas Libres En Humanidades 1",
+    "code": "1HUM74",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Temas Libres En Humanidades 2",
+    "code": "1HUM75",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Temas Libres En Humanidades 3",
+    "code": "1HUM76",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Introducción  A La Tradición Clásica",
+    "code": "1HUM77",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Introducción  A La Narrativa Moderna",
+    "code": "1HUM78",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Introducción  A La Poesía Moderna",
+    "code": "1HUM79",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Introducción  Al Teatro Moderno",
+    "code": "1HUM80",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Teoría Del Teatro",
+    "code": "1HUM81",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Lírica Hispanoamericana Contemporánea",
+    "code": "1LIN42",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Narrativa Española De La Edad De Oro",
+    "code": "LIT239",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Latin",
+    "code": "LIT313",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Introducción A La Teoría Literaria",
+    "code": "1LIT01",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Lírica Española De La Edad De Oro",
+    "code": "LIN209",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Teoría Literaria 1",
+    "code": "LIT234",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Narrativa Hispanoamericana Contemporánea",
+    "code": "LIT303",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Literatura Hispanoamericana Del Siglo Xix",
+    "code": "LIT240",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Historia Del Español 1",
+    "code": "LIT243",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Narrativa Peruana Contemporánea",
+    "code": "LIN256",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Teatro Español De La Edad De Oro",
+    "code": "LIT244",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Teoría Literaria 2",
+    "code": "LIT312",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Literatura Medieval Española",
+    "code": "1LIT04",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Literatura Hispanoamericana Colonial 1",
+    "code": "LIT201",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Literatura Peruana Del Siglo Xix",
+    "code": "1LIT05",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Crítica Textual",
+    "code": "LIT216",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Teoría Literaria 3",
+    "code": "LIT306",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Lírica Peruana Contemporánea",
+    "code": "1LIT06",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Literatura Hispanoamericana Colonial 2",
+    "code": "LIT209",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Seminario De Tesis 1",
+    "code": "1LIT07",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Ética Y Responsabilidad Social En Lingüística Y Literatura",
+    "code": "LIT284",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Literatura Contemporánea Española",
+    "code": "1LIT41",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Seminario De Tesis 2",
+    "code": "LIT204",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Semántica",
+    "code": "LIT285",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Sintaxis",
+    "code": "LIN225",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Fonética",
+    "code": "LIN248",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Fonología",
+    "code": "LIN247",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Quechumara 1",
+    "code": "LIN250",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Historia Del Español 2",
+    "code": "LIN258",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Quechumara 2",
+    "code": "LIN257",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Lingüística Amazónica",
+    "code": "LIN259",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Sociolingüística",
+    "code": "LIN273",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Lingüística Andina",
+    "code": "LIN305",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Rítmica Y Métrica",
+    "code": "LIN332",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Literatura De Lengua Italiana",
+    "code": "LIT206",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Literaturas Europeas",
+    "code": "LIT259",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Literaturas Orientales",
+    "code": "LIT262",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Literatura Quechua",
+    "code": "LIT264",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Literatura Oral",
+    "code": "LIT266",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Literatura Y Cine",
+    "code": "LIT267",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Literatura Griega Clásica",
+    "code": "LIT272",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Teatro Hispanoamericano Contemporáneo",
+    "code": "LIT343",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Morfología",
+    "code": "LIT268",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Literatura Latina Clásica",
+    "code": "LIN220",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Literatura Comparada",
+    "code": "LIT344",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Introducción A La Tradición Clásica",
+    "code": "LIT357",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Introducción A La Narrativa Moderna",
+    "code": "1LIT08",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Introducción A La Poesía Moderna",
+    "code": "1LIT09",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Introducción Al Teatro Moderno",
+    "code": "1LIT10",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Teoría Del Teatro",
+    "code": "1LIT11",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Literatura De Lengua Francesa",
+    "code": "1LIT12",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Literatura De Lengua Inglesa",
+    "code": "1LIT34",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Introducción Al Trabajo Editorial",
+    "code": "1LIT35",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Literatura Amazónica",
+    "code": "1LIT91",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Taller De Formación En La Investigación Humanística",
+    "code": "1LIT93",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Seminario De Literatura Peruana Colonial",
+    "code": "1HUM05",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Seminario De Literatura Peruana Contemporánea",
+    "code": "LIT247",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Seminario De Literatura Hispanoamericana Colonial",
+    "code": "LIT249",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Seminario De Literatura Hispanoamericana Contemporánea",
+    "code": "LIT250",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Seminario De Literatura Hispanoamericana Del Siglo Xix",
+    "code": "LIT252",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Seminario De Teoría Literaria",
+    "code": "1LIT13",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Seminario De Literatura Española",
+    "code": "LIT245",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Seminario Interdisciplinario",
+    "code": "LIT248",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Taller De Didáctica De La Lengua Y De La Literatura",
+    "code": "LIT254",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Taller De Traducción Literaria",
+    "code": "1LIT14",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Taller De Creación Literaria: Teatro",
+    "code": "ACT219",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Taller De Creación Literaria: Narrativa",
+    "code": "ACT313",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Taller De Creación Literaria: Poesía",
+    "code": "ACT314",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Formación Profesional En Literatura",
+    "code": "ACT315",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Taller De Corrección De Estilo",
+    "code": "1LIT47",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas - Literaturahispanica",
+    "cycle": "Nivel 6",
+    "url": null
+  }
+]

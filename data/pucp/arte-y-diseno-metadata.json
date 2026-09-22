@@ -1,0 +1,43 @@
+{
+  "source": "pontificia_universidad_catolica_del_peru",
+  "faculty": "Facultad de Arte y Diseño",
+  "captured_at": "2026-09-22T19:13:17.988031+00:00",
+  "career_count": 7,
+  "careers": [
+    {
+      "name": "Educación Artística",
+      "plan_url": "https://facultad.arteydiseno.pucp.edu.pe/especialidades/educacion-artistica/plan-estudios/",
+      "course_count": 61
+    },
+    {
+      "name": "Diseño Gráfico",
+      "plan_url": "https://facultad.arteydiseno.pucp.edu.pe/especialidades/diseno-grafico/plan-estudios/",
+      "course_count": 65
+    },
+    {
+      "name": "Diseño Industrial",
+      "plan_url": "https://facultad.arteydiseno.pucp.edu.pe/especialidades/diseno-industrial/plan-estudios/",
+      "course_count": 62
+    },
+    {
+      "name": "Escultura",
+      "plan_url": "https://facultad.arteydiseno.pucp.edu.pe/especialidades/escultura/plan-estudios/",
+      "course_count": 57
+    },
+    {
+      "name": "Pintura",
+      "plan_url": "https://facultad.arteydiseno.pucp.edu.pe/especialidades/pintura/plan-estudios/",
+      "course_count": 63
+    },
+    {
+      "name": "Arte, moda y diseño textil",
+      "plan_url": "https://facultad.arteydiseno.pucp.edu.pe/especialidades/arte-moda-y-diseno-textil/plan-estudios/",
+      "course_count": 66
+    },
+    {
+      "name": "Grabado",
+      "plan_url": "https://facultad.arteydiseno.pucp.edu.pe/especialidades/grabado/plan-estudios/",
+      "course_count": 59
+    }
+  ]
+}

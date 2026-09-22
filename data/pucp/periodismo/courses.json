@@ -1,0 +1,234 @@
+[
+  {
+    "name": "Teorías de la Comunicación",
+    "code": "CCO202",
+    "credits": 3,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Quinto Nivel",
+    "url": null
+  },
+  {
+    "name": "Lenguaje de los Medios",
+    "code": "CCO203",
+    "credits": 4,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Quinto Nivel",
+    "url": null
+  },
+  {
+    "name": "Pensamiento Computacional para Comunicaciones",
+    "code": "1CCO19",
+    "credits": 2,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Quinto Nivel",
+    "url": null
+  },
+  {
+    "name": "Historia de los Medios de Comunicación",
+    "code": "1CCE03",
+    "credits": 3,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Quinto Nivel",
+    "url": null
+  },
+  {
+    "name": "Fuentes y Estructura del Estado",
+    "code": "CCE254",
+    "credits": 3,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Quinto Nivel",
+    "url": null
+  },
+  {
+    "name": "Fotoperiodismo",
+    "code": "CCE285",
+    "credits": 4,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Quinto Nivel",
+    "url": null
+  },
+  {
+    "name": "Métodos y Técnicas de Investigación",
+    "code": "CCO221",
+    "credits": 1,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Sexto Nivel",
+    "url": null
+  },
+  {
+    "name": "Estética y Comunicación",
+    "code": "CCO363",
+    "credits": 3,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Sexto Nivel",
+    "url": null
+  },
+  {
+    "name": "Comunicación y Medios Digitales",
+    "code": "1CCO20",
+    "credits": 2,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Sexto Nivel",
+    "url": null
+  },
+  {
+    "name": "Opinión Pública",
+    "code": "CCE219",
+    "credits": 3,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Sexto Nivel",
+    "url": null
+  },
+  {
+    "name": "Taller de Redacción Periodística",
+    "code": "1CCE04",
+    "credits": 4,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Sexto Nivel",
+    "url": null
+  },
+  {
+    "name": "Registro Audiovisual para Periodismo",
+    "code": "1CCE05",
+    "credits": 4,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Sexto Nivel",
+    "url": null
+  },
+  {
+    "name": "Métodos y Técnicas de Investigación",
+    "code": "CCO232",
+    "credits": 2,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Séptimo Nivel",
+    "url": null
+  },
+  {
+    "name": "Deontología de la Comunicación",
+    "code": "CCO233",
+    "credits": 2,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Séptimo Nivel",
+    "url": null
+  },
+  {
+    "name": "Gestión de la Comunicación en Organizaciones",
+    "code": "1CCO21",
+    "credits": 3,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Séptimo Nivel",
+    "url": null
+  },
+  {
+    "name": "Taller de Información Periodística",
+    "code": "1CCE06",
+    "credits": 4,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Séptimo Nivel",
+    "url": null
+  },
+  {
+    "name": "Diseño, Edición y Producción Editorial",
+    "code": "CCE256",
+    "credits": 4,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Séptimo Nivel",
+    "url": null
+  },
+  {
+    "name": "Periodismo Radial",
+    "code": "CCE257",
+    "credits": 4,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Séptimo Nivel",
+    "url": null
+  },
+  {
+    "name": "Semiótica para Comunicaciones",
+    "code": "CCO234",
+    "credits": 3,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Octavo Nivel",
+    "url": null
+  },
+  {
+    "name": "Legislación en Comunicaciones",
+    "code": "CCO352",
+    "credits": 2,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Octavo Nivel",
+    "url": null
+  },
+  {
+    "name": "Taller de Crónica y Reportaje",
+    "code": "1CCE07",
+    "credits": 4,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Octavo Nivel",
+    "url": null
+  },
+  {
+    "name": "Periodismo Televisivo",
+    "code": "CCE258",
+    "credits": 5,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Octavo Nivel",
+    "url": null
+  },
+  {
+    "name": "Diseño Periodístico e Infografía",
+    "code": "CCE259",
+    "credits": 4,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Octavo Nivel",
+    "url": null
+  },
+  {
+    "name": "Taller de Periodismo y Desarrollo Humano",
+    "code": "1CCE08",
+    "credits": 4,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Octavo Nivel",
+    "url": null
+  },
+  {
+    "name": "Diseño de Investigación a (Académico o Profesional)",
+    "code": null,
+    "credits": 4,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Noveno Nivel",
+    "url": null
+  },
+  {
+    "name": "Periodismo de Investigación",
+    "code": "CCE264",
+    "credits": 4,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Noveno Nivel",
+    "url": null
+  },
+  {
+    "name": "Periodismo Multimedia",
+    "code": "CCE317",
+    "credits": 4,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Noveno Nivel",
+    "url": null
+  },
+  {
+    "name": "Trabajo de Investigación b (Académico o Profesional)",
+    "code": null,
+    "credits": 4,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Décimo Nivel",
+    "url": null
+  },
+  {
+    "name": "Proyecto de Comunicación Periodística",
+    "code": "1CCE09",
+    "credits": 7,
+    "stage": "Facultad de Ciencias y Artes de la Comunicación",
+    "cycle": "Décimo Nivel",
+    "url": null
+  }
+]

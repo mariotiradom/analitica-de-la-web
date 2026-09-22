@@ -1,0 +1,14 @@
+{
+  "source": "pontificia_universidad_catolica_del_peru",
+  "faculty": "Facultad de Artes Escénicas",
+  "career": "Danza",
+  "career_url": "https://www.pucp.edu.pe/carrera/danza/",
+  "plan_url": "https://facultad-artes-escenicas.pucp.edu.pe/carreras/danza/plan-de-estudio-v2-danza/",
+  "pdf_url": "https://facultad-artes-escenicas.pucp.edu.pe/wp-content/uploads/2026/04/DANZA_PLAN-DE-ESTUDIOS.pdf",
+  "captured_at": "2026-09-22T19:13:19.674105+00:00",
+  "files": {
+    "html": "data/pucp/danza/source.html"
+  },
+  "pdf_size_bytes": null,
+  "notes": "La Facultad de Artes Escénicas publica sus mallas curriculares mediante documento oficial en formato PDF."
+}

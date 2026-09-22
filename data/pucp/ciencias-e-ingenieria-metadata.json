@@ -1,0 +1,120 @@
+{
+  "source": "pontificia_universidad_catolica_del_peru",
+  "faculty": "Facultad de Ciencias e Ingeniería",
+  "captured_at": "2026-09-22T19:14:08.623194+00:00",
+  "career_count": 16,
+  "careers": [
+    {
+      "name": "Estadística",
+      "plan_url": "https://facultad.pucp.edu.pe/ingenieria/carreras/ciencias-estadisticas/plan-de-estudios/",
+      "fci_pdf_url": "https://facultad-ciencias-ingenieria.pucp.edu.pe/wp-content/uploads/2026/07/FISICA_ppee_FCI-2026-2-1.pdf",
+      "eeggcc_pdf_url": null,
+      "course_count": 0
+    },
+    {
+      "name": "Física",
+      "plan_url": "https://facultad.pucp.edu.pe/ingenieria/carreras/fisica/plan-de-estudios/",
+      "fci_pdf_url": "https://facultad-ciencias-ingenieria.pucp.edu.pe/wp-content/uploads/2026/07/FISICA_ppee_FCI-2026-2-1.pdf",
+      "eeggcc_pdf_url": "https://estudios-generales-ciencias.pucp.edu.pe/wp-content/uploads/2026/07/PE_Fisica_26.pdf",
+      "course_count": 27
+    },
+    {
+      "name": "Matemáticas",
+      "plan_url": "https://facultad-ciencias-ingenieria.pucp.edu.pe/carreras/matematicas/plan-de-estudios/",
+      "fci_pdf_url": "https://facultad-ciencias-ingenieria.pucp.edu.pe/wp-content/uploads/2026/07/MATEMATICAS_ppee_FCI-2026-2.pdf",
+      "eeggcc_pdf_url": "https://estudios-generales-ciencias.pucp.edu.pe/wp-content/uploads/2026/07/PE_Matematicas_26.pdf",
+      "course_count": 26
+    },
+    {
+      "name": "Química",
+      "plan_url": "https://facultad-ciencias-ingenieria.pucp.edu.pe/carreras/quimica/plan-de-estudios/",
+      "fci_pdf_url": "https://facultad-ciencias-ingenieria.pucp.edu.pe/wp-content/uploads/2026/07/QUIMICA_ppee_FCI-2026-2.pdf",
+      "eeggcc_pdf_url": "https://estudios-generales-ciencias.pucp.edu.pe/wp-content/uploads/2026/07/PE_Quimica_26.pdf",
+      "course_count": 29
+    },
+    {
+      "name": "Ingeniería Ambiental y Sostenible",
+      "plan_url": "https://facultad-ciencias-ingenieria.pucp.edu.pe/carreras/ingenieria-ambiental-y-sostenible/plan-de-estudios/",
+      "fci_pdf_url": "https://facultad-ciencias-ingenieria.pucp.edu.pe/wp-content/uploads/2026/07/AMBIENTAL_ppee_FCI-2026-2-1.pdf",
+      "eeggcc_pdf_url": "https://estudios-generales-ciencias.pucp.edu.pe/wp-content/uploads/2026/07/PE_Ambiental_26.pdf",
+      "course_count": 30
+    },
+    {
+      "name": "Ingeniería Biomédica PUCP",
+      "plan_url": "https://facultad-ciencias-ingenieria.pucp.edu.pe/carreras/ingenieria-biomedica/plan-de-estudios/",
+      "fci_pdf_url": "https://facultad-ciencias-ingenieria.pucp.edu.pe/wp-content/uploads/2026/07/BIOMEDICA-1_ppee_FCI-2026-2.pdf",
+      "eeggcc_pdf_url": "https://estudios-generales-ciencias.pucp.edu.pe/wp-content/uploads/2026/07/PE_Biomedica_26.pdf",
+      "course_count": 28
+    },
+    {
+      "name": "Ingeniería Civil",
+      "plan_url": "https://facultad-ciencias-ingenieria.pucp.edu.pe/carreras/ingenieria-civil/plan-de-estudios/",
+      "fci_pdf_url": "https://facultad-ciencias-ingenieria.pucp.edu.pe/wp-content/uploads/2026/07/CIVIL_ppee_FCI-2026-2.pdf",
+      "eeggcc_pdf_url": "https://estudios-generales-ciencias.pucp.edu.pe/wp-content/uploads/2026/07/PE_Civil_26.pdf",
+      "course_count": 28
+    },
+    {
+      "name": "Ingeniería de las Telecomunicaciones",
+      "plan_url": "https://facultad-ciencias-ingenieria.pucp.edu.pe/carreras/ingenieria-de-las-telecomunicaciones/plan-de-estudios/",
+      "fci_pdf_url": "https://facultad-ciencias-ingenieria.pucp.edu.pe/wp-content/uploads/2026/07/TELECOMUNICACIONES_ppee_FCI-2026-2.pdf",
+      "eeggcc_pdf_url": "https://estudios-generales-ciencias.pucp.edu.pe/wp-content/uploads/2026/07/PE_Telecomunicaciones_26.pdf",
+      "course_count": 27
+    },
+    {
+      "name": "Ingeniería de Minas",
+      "plan_url": "https://facultad-ciencias-ingenieria.pucp.edu.pe/carreras/ingenieria-de-minas/plan-de-estudios/",
+      "fci_pdf_url": "https://facultad-ciencias-ingenieria.pucp.edu.pe/wp-content/uploads/2026/07/MINAS_ppee_FCI-2026-2.pdf",
+      "eeggcc_pdf_url": "https://estudios-generales-ciencias.pucp.edu.pe/wp-content/uploads/2026/07/PE_Minas_26.pdf",
+      "course_count": 27
+    },
+    {
+      "name": "Ingeniería Electrónica",
+      "plan_url": "https://facultad-ciencias-ingenieria.pucp.edu.pe/carreras/ingenieria-electronica/plan-de-estudios/",
+      "fci_pdf_url": "https://facultad-ciencias-ingenieria.pucp.edu.pe/wp-content/uploads/2026/07/ELECTRONICA_ppee_FCI-2026-2-1.pdf",
+      "eeggcc_pdf_url": "https://estudios-generales-ciencias.pucp.edu.pe/wp-content/uploads/2026/07/PE_Electronica_26.pdf",
+      "course_count": 27
+    },
+    {
+      "name": "Ingeniería Geológica",
+      "plan_url": "https://facultad-ciencias-ingenieria.pucp.edu.pe/carreras/ingenieria-geologica/plan-de-estudios/",
+      "fci_pdf_url": "https://facultad-ciencias-ingenieria.pucp.edu.pe/wp-content/uploads/2026/07/GEOLOGICA_ppee_FCI-2026-2.pdf",
+      "eeggcc_pdf_url": "https://estudios-generales-ciencias.pucp.edu.pe/wp-content/uploads/2026/07/PE_Geologica_26.pdf",
+      "course_count": 27
+    },
+    {
+      "name": "Ingeniería Industrial",
+      "plan_url": "https://facultad-ciencias-ingenieria.pucp.edu.pe/carreras/ingenieria-industrial/plan-de-estudios/",
+      "fci_pdf_url": "https://facultad-ciencias-ingenieria.pucp.edu.pe/wp-content/uploads/2026/07/INDUSTRIAL_ppee_FCI-2026-2.pdf",
+      "eeggcc_pdf_url": "https://estudios-generales-ciencias.pucp.edu.pe/wp-content/uploads/2026/07/PE_Industrial_26.pdf",
+      "course_count": 27
+    },
+    {
+      "name": "Ingeniería Informática",
+      "plan_url": "https://facultad-ciencias-ingenieria.pucp.edu.pe/carreras/ingenieria-informatica/plan-de-estudios/",
+      "fci_pdf_url": "https://facultad-ciencias-ingenieria.pucp.edu.pe/wp-content/uploads/2026/07/INFORMATICA_ppee_FCI-2026-2.pdf",
+      "eeggcc_pdf_url": "https://estudios-generales-ciencias.pucp.edu.pe/wp-content/uploads/2026/07/PE_Informatica_26.pdf",
+      "course_count": 26
+    },
+    {
+      "name": "Ingeniería Mecánica",
+      "plan_url": "https://facultad-ciencias-ingenieria.pucp.edu.pe/carreras/ingenieria-mecanica/plan-de-estudios/",
+      "fci_pdf_url": "https://facultad-ciencias-ingenieria.pucp.edu.pe/wp-content/uploads/2026/07/MECANICA_ppee_FCI-2026-2.pdf",
+      "eeggcc_pdf_url": "https://estudios-generales-ciencias.pucp.edu.pe/wp-content/uploads/2026/07/PE_Mecanica_26.pdf",
+      "course_count": 27
+    },
+    {
+      "name": "Ingeniería Mecatrónica",
+      "plan_url": "https://facultad-ciencias-ingenieria.pucp.edu.pe/carreras/ingenieria-mecatronica/plan-de-estudios/",
+      "fci_pdf_url": "https://facultad-ciencias-ingenieria.pucp.edu.pe/wp-content/uploads/2026/07/MECATRONICA_ppee_FCI-2026-2.pdf",
+      "eeggcc_pdf_url": "https://estudios-generales-ciencias.pucp.edu.pe/wp-content/uploads/2026/07/PE_Mecatronica_26.pdf",
+      "course_count": 26
+    },
+    {
+      "name": "Ingeniería Química",
+      "plan_url": "https://facultad-ciencias-ingenieria.pucp.edu.pe/carreras/ingenieria-quimica/plan-de-estudios/",
+      "fci_pdf_url": "https://facultad-ciencias-ingenieria.pucp.edu.pe/wp-content/uploads/2026/07/INGENIERIA-QUIMICA_ppee_FCI-2026-2.pdf",
+      "eeggcc_pdf_url": "https://estudios-generales-ciencias.pucp.edu.pe/wp-content/uploads/2026/07/PE_IngQuimica_26.pdf",
+      "course_count": 29
+    }
+  ]
+}

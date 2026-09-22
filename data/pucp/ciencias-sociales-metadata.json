@@ -1,0 +1,44 @@
+{
+  "source": "pontificia_universidad_catolica_del_peru",
+  "faculty": "Facultad de Ciencias Sociales",
+  "captured_at": "2026-09-22T19:13:38.681001+00:00",
+  "career_count": 6,
+  "careers": [
+    {
+      "name": "Antropología",
+      "plan_url": "https://facultad-ciencias-sociales.pucp.edu.pe/carreras/antropologia/planes-de-estudio/",
+      "pdf_url": "https://facultad-ciencias-sociales.pucp.edu.pe/wp-content/uploads/2024/08/Plan-de-Estudios-de-Antropologia-PUCP-310724.pdf",
+      "pdf_size_bytes": null
+    },
+    {
+      "name": "Ciencia Política y Gobierno",
+      "plan_url": "https://facultad-ciencias-sociales.pucp.edu.pe/carreras/ciencia-politica-y-gobierno/planes-de-estudio/",
+      "pdf_url": "https://facultad-ciencias-sociales.pucp.edu.pe/wp-content/uploads/2025/11/Plan-de-estudios-22-CPG-092025.pdf",
+      "pdf_size_bytes": null
+    },
+    {
+      "name": "Economía",
+      "plan_url": "https://facultad-ciencias-sociales.pucp.edu.pe/carreras/economia/plan-de-estudio/",
+      "pdf_url": "https://facultad-ciencias-sociales.pucp.edu.pe/wp-content/uploads/2026/04/Plan-de-estudios-Economia-vf-08-abril-2026.docx.pdf",
+      "pdf_size_bytes": null
+    },
+    {
+      "name": "Finanzas",
+      "plan_url": "https://facultad-ciencias-sociales.pucp.edu.pe/carreras/finanzas/planes-de-estudio/plan-de-estudios-07/",
+      "pdf_url": "https://facultad-ciencias-sociales.pucp.edu.pe/wp-content/uploads/2025/03/PLAN-DE-ESTUDIOS.pdf",
+      "pdf_size_bytes": null
+    },
+    {
+      "name": "Relaciones Internacionales",
+      "plan_url": "https://facultad-ciencias-sociales.pucp.edu.pe/carreras/relaciones-internacionales/planes-de-estudio/",
+      "pdf_url": "https://facultad-ciencias-sociales.pucp.edu.pe/wp-content/uploads/2026/08/Plan-de-Estudios-de-Relaciones-Internacionales-PUCP-2026-180826.docx.pdf",
+      "pdf_size_bytes": null
+    },
+    {
+      "name": "Sociología",
+      "plan_url": "https://facultad-ciencias-sociales.pucp.edu.pe/carreras/sociologia/planes-de-estudio/nuevo-plan-de-estudio/",
+      "pdf_url": "https://facultad-ciencias-sociales.pucp.edu.pe/wp-content/uploads/2024/11/Plan-de-Estudios-de-Sociologia-PUCP-261124.pdf",
+      "pdf_size_bytes": null
+    }
+  ]
+}

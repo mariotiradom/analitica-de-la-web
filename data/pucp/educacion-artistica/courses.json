@@ -1,0 +1,490 @@
+[
+  {
+    "name": "Introducción al Dibujo",
+    "code": null,
+    "credits": 4,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 1",
+    "url": null
+  },
+  {
+    "name": "Figura Humana",
+    "code": null,
+    "credits": 4,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 2",
+    "url": null
+  },
+  {
+    "name": "Introducción al Volumen",
+    "code": null,
+    "credits": 3,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 1",
+    "url": null
+  },
+  {
+    "name": "Dibujo Geométrico",
+    "code": null,
+    "credits": 2,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 2",
+    "url": null
+  },
+  {
+    "name": "Lenguaje Visual 1",
+    "code": null,
+    "credits": 5,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 1",
+    "url": null
+  },
+  {
+    "name": "Volumen y Modelado",
+    "code": null,
+    "credits": 3,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 2",
+    "url": null
+  },
+  {
+    "name": "Matemáticas",
+    "code": null,
+    "credits": 3,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 1",
+    "url": null
+  },
+  {
+    "name": "Lenguaje Visual 2",
+    "code": null,
+    "credits": 4,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 2",
+    "url": null
+  },
+  {
+    "name": "Introducción al Arte y Diseño Contemporáneos",
+    "code": null,
+    "credits": 3,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 1",
+    "url": null
+  },
+  {
+    "name": "Realidad Social Peruana",
+    "code": null,
+    "credits": 4,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 2",
+    "url": null
+  },
+  {
+    "name": "Lectura y Argumentación",
+    "code": null,
+    "credits": 3,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 1",
+    "url": null
+  },
+  {
+    "name": "Historia del Arte y Diseño 1",
+    "code": null,
+    "credits": 3,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 2",
+    "url": null
+  },
+  {
+    "name": "Lenguaje Visual 3",
+    "code": null,
+    "credits": 4,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 3",
+    "url": null
+  },
+  {
+    "name": "Idiomas Arte 1",
+    "code": null,
+    "credits": 0,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 4",
+    "url": null
+  },
+  {
+    "name": "Visualidad y Textualidad",
+    "code": null,
+    "credits": 2,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 3",
+    "url": null
+  },
+  {
+    "name": "Tecnologías Fotográficas",
+    "code": null,
+    "credits": 3,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 4",
+    "url": null
+  },
+  {
+    "name": "Métodos Constructivos del Espacio y el Volumen",
+    "code": null,
+    "credits": 2,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 3",
+    "url": null
+  },
+  {
+    "name": "Espacio, Forma y Contexto",
+    "code": null,
+    "credits": 3,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 4",
+    "url": null
+  },
+  {
+    "name": "Historia del Arte y Diseño 2",
+    "code": null,
+    "credits": 3,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 3",
+    "url": null
+  },
+  {
+    "name": "Taller de Investigación Formativa en Arte y Diseño",
+    "code": null,
+    "credits": 3,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 4",
+    "url": null
+  },
+  {
+    "name": "Filosofía",
+    "code": null,
+    "credits": 3,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 3",
+    "url": null
+  },
+  {
+    "name": "Desarrollo Humano",
+    "code": null,
+    "credits": 4,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 4",
+    "url": null
+  },
+  {
+    "name": "Electivo Tipo A",
+    "code": null,
+    "credits": 3,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 3",
+    "url": null
+  },
+  {
+    "name": "Introducción a la Educación Artística",
+    "code": null,
+    "credits": 4,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 4",
+    "url": null
+  },
+  {
+    "name": "Electivo de Especialidad",
+    "code": null,
+    "credits": 4,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 4",
+    "url": null
+  },
+  {
+    "name": "Didáctica General",
+    "code": null,
+    "credits": 3,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 5",
+    "url": null
+  },
+  {
+    "name": "Taller de Educación Artística en la Escuela",
+    "code": null,
+    "credits": 3,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Psicología del Aprendizaje",
+    "code": null,
+    "credits": 3,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 5",
+    "url": null
+  },
+  {
+    "name": "Didáctica de las Artes Integradas",
+    "code": null,
+    "credits": 3,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Investigación y Práctica Educativa 3: Rol Docente y Espacios Educativos Alternativos",
+    "code": null,
+    "credits": 3,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 5",
+    "url": null
+  },
+  {
+    "name": "Teoría de la Educación y Corrientes Educativas",
+    "code": null,
+    "credits": 4,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Procesos Cognitivos, Afectivos y Sociales",
+    "code": null,
+    "credits": 4,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 5",
+    "url": null
+  },
+  {
+    "name": "Investigación y Práctica Educativa 4: La Institución Educativa",
+    "code": null,
+    "credits": 3,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Historia del Arte y Diseño 3",
+    "code": null,
+    "credits": 3,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 5",
+    "url": null
+  },
+  {
+    "name": "Historia del Arte del Perú",
+    "code": null,
+    "credits": 4,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Desarrollo de la Expresión Plástica",
+    "code": null,
+    "credits": 3,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 5",
+    "url": null
+  },
+  {
+    "name": "Seminario de Investigación en Educación Artística",
+    "code": null,
+    "credits": 3,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Electivo Libre Disponibilidad",
+    "code": null,
+    "credits": 3,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 5",
+    "url": null
+  },
+  {
+    "name": "Programación y Diversificación Curricular en Secundaria",
+    "code": null,
+    "credits": 3,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 7",
+    "url": null
+  },
+  {
+    "name": "Diseño de Experiencias Educativas",
+    "code": null,
+    "credits": 3,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Taller de Educación Artística en el Ámbito Comunitario",
+    "code": null,
+    "credits": 3,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 7",
+    "url": null
+  },
+  {
+    "name": "Taller de Educación Artística en el Espacio Público",
+    "code": null,
+    "credits": 3,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Didácticas de las Artes Integradas en la Educación Secundaria",
+    "code": null,
+    "credits": 3,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 7",
+    "url": null
+  },
+  {
+    "name": "Gestión, Desarrollo y Educación",
+    "code": null,
+    "credits": 3,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Planificación y Gestión Educativa",
+    "code": null,
+    "credits": 3,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 7",
+    "url": null
+  },
+  {
+    "name": "Antropología de la Educación",
+    "code": null,
+    "credits": 3,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Teología",
+    "code": null,
+    "credits": 3,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 7",
+    "url": null
+  },
+  {
+    "name": "Investigación y Práctica Educativa 8: Acción Reflexiva y Transformación",
+    "code": null,
+    "credits": 4,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Investigación y Práctica 7: Indagación y Problematización",
+    "code": null,
+    "credits": 4,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 7",
+    "url": null
+  },
+  {
+    "name": "Electivo Libre Disponibilidad",
+    "code": null,
+    "credits": 2,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Electivo",
+    "code": null,
+    "credits": 3,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 7",
+    "url": null
+  },
+  {
+    "name": "Electivo",
+    "code": null,
+    "credits": 4,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Proyectos de Desarrollo desde el Arte y el Diseño 1",
+    "code": null,
+    "credits": 3,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 9",
+    "url": null
+  },
+  {
+    "name": "Idiomas Arte 2",
+    "code": null,
+    "credits": 0,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Investigación y Desempeño Pre Profesional 1",
+    "code": null,
+    "credits": 8,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 9",
+    "url": null
+  },
+  {
+    "name": "Proyectos Interdisciplinarios de Creación en Arte y Diseño",
+    "code": null,
+    "credits": 3,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Ética Profesional",
+    "code": null,
+    "credits": 3,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 9",
+    "url": null
+  },
+  {
+    "name": "Investigación y Desempeño Pre Profesional 2",
+    "code": null,
+    "credits": 8,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Electivo Libre Disponibilidad",
+    "code": null,
+    "credits": 4,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 9",
+    "url": null
+  },
+  {
+    "name": "Electivo Libre Disponibilidad",
+    "code": null,
+    "credits": 6,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Electivo",
+    "code": null,
+    "credits": 2,
+    "stage": "Plan de estudios por semestre académico",
+    "cycle": "Nivel 9",
+    "url": null
+  }
+]

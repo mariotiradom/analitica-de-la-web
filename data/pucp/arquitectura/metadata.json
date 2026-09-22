@@ -1,0 +1,20 @@
+{
+  "source": "pontificia_universidad_catolica_del_peru",
+  "faculty": "Facultad de Arquitectura y Urbanismo",
+  "career": "Arquitectura",
+  "career_url": "https://www.pucp.edu.pe/carrera/arquitectura/",
+  "plan_url": "https://facultad.pucp.edu.pe/arquitectura/informacion-academica/plan-de-estudios/",
+  "final_url": "https://arquitectura.pucp.edu.pe/estudios/pregrado/plan-de-estudios/",
+  "pdf_url": "https://arquitectura.pucp.edu.pe/wp-content/uploads/2026/05/Plan-de-Estudios-2026-1.pdf",
+  "captured_at": "2026-09-22T19:13:13.645190+00:00",
+  "files": {
+    "html": "data/pucp/arquitectura/source.html",
+    "courses": "data/pucp/arquitectura/courses.json"
+  },
+  "course_count": 49,
+  "stages": {
+    "Formación General": 21,
+    "Nivel de profundización": 17,
+    "Nivel Avanzado": 11
+  }
+}

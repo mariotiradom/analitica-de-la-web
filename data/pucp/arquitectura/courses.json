@@ -1,0 +1,394 @@
+[
+  {
+    "name": "Taller 1",
+    "code": "1ARC58",
+    "credits": 8,
+    "stage": "Formación General",
+    "cycle": "Nivel 1",
+    "url": "https://arquitectura.pucp.edu.pe/?post_type=curso&p=4216"
+  },
+  {
+    "name": "Representación 1",
+    "code": "1ARC52",
+    "credits": 3,
+    "stage": "Formación General",
+    "cycle": "Nivel 1",
+    "url": "https://arquitectura.pucp.edu.pe/?post_type=curso&p=12975"
+  },
+  {
+    "name": "Introducción a la Arquitectura",
+    "code": "1ARC42",
+    "credits": 3,
+    "stage": "Formación General",
+    "cycle": "Nivel 1",
+    "url": "https://arquitectura.pucp.edu.pe/?post_type=curso&p=4218"
+  },
+  {
+    "name": "Matemáticas 1",
+    "code": "MAT116",
+    "credits": 4,
+    "stage": "Formación General",
+    "cycle": "Nivel 1",
+    "url": "https://arquitectura.pucp.edu.pe/estudios/pregrado/cursos/matematicas-1/"
+  },
+  {
+    "name": "Taller de Escritura e Interpretación de Textos",
+    "code": null,
+    "credits": 4,
+    "stage": "Formación General",
+    "cycle": "Nivel 1",
+    "url": null
+  },
+  {
+    "name": "Taller 2",
+    "code": "1ARC59",
+    "credits": 8,
+    "stage": "Formación General",
+    "cycle": "Nivel 2",
+    "url": "https://arquitectura.pucp.edu.pe/estudios/pregrado/cursos/taller-2/"
+  },
+  {
+    "name": "Representación 2",
+    "code": "1ARC53",
+    "credits": 3,
+    "stage": "Formación General",
+    "cycle": "Nivel 2",
+    "url": "https://arquitectura.pucp.edu.pe/estudios/pregrado/cursos/dibujo-y-representacion-2/"
+  },
+  {
+    "name": "Matemáticas 2",
+    "code": "MAT146",
+    "credits": 4,
+    "stage": "Formación General",
+    "cycle": "Nivel 2",
+    "url": "https://arquitectura.pucp.edu.pe/estudios/pregrado/cursos/matematicas-2/"
+  },
+  {
+    "name": "Argumentación",
+    "code": null,
+    "credits": 3,
+    "stage": "Formación General",
+    "cycle": "Nivel 2",
+    "url": null
+  },
+  {
+    "name": "Filosofía (FIL)",
+    "code": null,
+    "credits": 4,
+    "stage": "Formación General",
+    "cycle": "Nivel 2",
+    "url": null
+  },
+  {
+    "name": "Taller 3",
+    "code": "ARC223",
+    "credits": 8,
+    "stage": "Formación General",
+    "cycle": "Nivel 3",
+    "url": "https://arquitectura.pucp.edu.pe/estudios/pregrado/cursos/taller-3/"
+  },
+  {
+    "name": "Representación 3",
+    "code": "1ARC54",
+    "credits": 3,
+    "stage": "Formación General",
+    "cycle": "Nivel 3",
+    "url": "https://arquitectura.pucp.edu.pe/estudios/pregrado/cursos/dibujo-y-representacion-3/"
+  },
+  {
+    "name": "Edificación y Sostenibilidad 1",
+    "code": "1ARC45",
+    "credits": 4,
+    "stage": "Formación General",
+    "cycle": "Nivel 3",
+    "url": "https://arquitectura.pucp.edu.pe/estudios/pregrado/cursos/edificacion-y-sostenibilidad-1/"
+  },
+  {
+    "name": "Población y Territorio",
+    "code": "URB103",
+    "credits": 3,
+    "stage": "Formación General",
+    "cycle": "Nivel 3",
+    "url": "https://arquitectura.pucp.edu.pe/estudios/pregrado/cursos/poblacion-y-territorio/"
+  },
+  {
+    "name": "Investigación Académica",
+    "code": null,
+    "credits": 3,
+    "stage": "Formación General",
+    "cycle": "Nivel 3",
+    "url": null
+  },
+  {
+    "name": "Taller 4",
+    "code": "ARC224",
+    "credits": 8,
+    "stage": "Formación General",
+    "cycle": "Nivel 4",
+    "url": "https://arquitectura.pucp.edu.pe/estudios/pregrado/cursos/taller-4/"
+  },
+  {
+    "name": "Estructuras 1",
+    "code": "1CIV95",
+    "credits": 4,
+    "stage": "Formación General",
+    "cycle": "Nivel 4",
+    "url": "https://arquitectura.pucp.edu.pe/estudios/pregrado/cursos/estructuras-1/"
+  },
+  {
+    "name": "Representación 4",
+    "code": "1ARC55",
+    "credits": 3,
+    "stage": "Formación General",
+    "cycle": "Nivel 4",
+    "url": "https://arquitectura.pucp.edu.pe/estudios/pregrado/cursos/representacion-4/"
+  },
+  {
+    "name": "Sistemas formales",
+    "code": "1ARC47",
+    "credits": 3,
+    "stage": "Formación General",
+    "cycle": "Nivel 4",
+    "url": "https://arquitectura.pucp.edu.pe/estudios/pregrado/cursos/sistemas-formales-del-siglo-xx/"
+  },
+  {
+    "name": "Idiomas 1",
+    "code": null,
+    "credits": 0,
+    "stage": "Formación General",
+    "cycle": "Nivel 4",
+    "url": null
+  },
+  {
+    "name": "Historia y sociedad del siglo XX",
+    "code": null,
+    "credits": 4,
+    "stage": "Formación General",
+    "cycle": "Nivel 4",
+    "url": null
+  },
+  {
+    "name": "Taller 5",
+    "code": "ARC225",
+    "credits": 8,
+    "stage": "Nivel de profundización",
+    "cycle": "Nivel 5",
+    "url": "https://arquitectura.pucp.edu.pe/estudios/pregrado/cursos/taller-5/"
+  },
+  {
+    "name": "Edificación y Sostenibilidad 2",
+    "code": "1ARC01",
+    "credits": 4,
+    "stage": "Nivel de profundización",
+    "cycle": "Nivel 5",
+    "url": "https://arquitectura.pucp.edu.pe/estudios/pregrado/cursos/edificacion-y-sostenibilidad-2/"
+  },
+  {
+    "name": "Historia y Teoría de la Arquitectura 1",
+    "code": "1ARC02",
+    "credits": 3,
+    "stage": "Nivel de profundización",
+    "cycle": "Nivel 5",
+    "url": "https://arquitectura.pucp.edu.pe/estudios/pregrado/cursos/historia-y-teoria-de-la-arquitectura-1/"
+  },
+  {
+    "name": "Urbanismo y Territorio",
+    "code": "1URB01",
+    "credits": 3,
+    "stage": "Nivel de profundización",
+    "cycle": "Nivel 5",
+    "url": "https://arquitectura.pucp.edu.pe/estudios/pregrado/cursos/urbanismo-y-territorio/"
+  },
+  {
+    "name": "Teología y Ciencias de la Religión (TCR)",
+    "code": null,
+    "credits": 4,
+    "stage": "Nivel de profundización",
+    "cycle": "Nivel 5",
+    "url": null
+  },
+  {
+    "name": "Taller 6",
+    "code": "ARC226",
+    "credits": 8,
+    "stage": "Nivel de profundización",
+    "cycle": "Nivel 6",
+    "url": "https://arquitectura.pucp.edu.pe/estudios/pregrado/cursos/taller-6/"
+  },
+  {
+    "name": "Estructuras 2",
+    "code": "1ARC03",
+    "credits": 4,
+    "stage": "Nivel de profundización",
+    "cycle": "Nivel 6",
+    "url": "https://arquitectura.pucp.edu.pe/estudios/pregrado/cursos/estructuras-2/"
+  },
+  {
+    "name": "Historia y teoría de la arquitectura 2",
+    "code": "1ARC66",
+    "credits": 3,
+    "stage": "Nivel de profundización",
+    "cycle": "Nivel 6",
+    "url": "https://arquitectura.pucp.edu.pe/estudios/pregrado/cursos/historia-y-teoria-de-la-arquitectura-2/"
+  },
+  {
+    "name": "Taller de Urbanismo 1",
+    "code": "URB209",
+    "credits": 3,
+    "stage": "Nivel de profundización",
+    "cycle": "Nivel 6",
+    "url": "https://arquitectura.pucp.edu.pe/estudios/pregrado/cursos/taller-de-urbanismo-1-2/"
+  },
+  {
+    "name": "Taller 7",
+    "code": "ARC227",
+    "credits": 8,
+    "stage": "Nivel de profundización",
+    "cycle": "Nivel 7",
+    "url": "https://arquitectura.pucp.edu.pe/estudios/pregrado/cursos/taller-7/"
+  },
+  {
+    "name": "Edificación y Sostenibilidad 3",
+    "code": "1ARC05",
+    "credits": 4,
+    "stage": "Nivel de profundización",
+    "cycle": "Nivel 7",
+    "url": "https://arquitectura.pucp.edu.pe/estudios/pregrado/cursos/edificacion-y-sostenibilidad-3/"
+  },
+  {
+    "name": "Historia y Teoría de la Arquitectura 3",
+    "code": "1ARC48",
+    "credits": 4,
+    "stage": "Nivel de profundización",
+    "cycle": "Nivel 7",
+    "url": "https://arquitectura.pucp.edu.pe/estudios/pregrado/cursos/historia-y-teoria-de-la-arquitectura-3/"
+  },
+  {
+    "name": "Taller de Urbanismo 2",
+    "code": "URB210",
+    "credits": 3,
+    "stage": "Nivel de profundización",
+    "cycle": "Nivel 7",
+    "url": "https://arquitectura.pucp.edu.pe/estudios/pregrado/cursos/taller-de-urbanismo-2/"
+  },
+  {
+    "name": "Taller 8",
+    "code": "ARC228",
+    "credits": 8,
+    "stage": "Nivel de profundización",
+    "cycle": "Nivel 8",
+    "url": "https://arquitectura.pucp.edu.pe/estudios/pregrado/cursos/taller-8/"
+  },
+  {
+    "name": "Estructuras 3",
+    "code": "1ARC07",
+    "credits": 4,
+    "stage": "Nivel de profundización",
+    "cycle": "Nivel 8",
+    "url": "https://arquitectura.pucp.edu.pe/estudios/pregrado/cursos/estructuras-3/"
+  },
+  {
+    "name": "Historia y teoría de la arquitectura 4",
+    "code": "1ARC06",
+    "credits": 4,
+    "stage": "Nivel de profundización",
+    "cycle": "Nivel 8",
+    "url": "https://arquitectura.pucp.edu.pe/estudios/pregrado/cursos/historia-y-teoria-de-la-arquitectura-4/"
+  },
+  {
+    "name": "Taller de Urbanismo 3",
+    "code": "URB217",
+    "credits": 3,
+    "stage": "Nivel de profundización",
+    "cycle": "Nivel 8",
+    "url": "https://arquitectura.pucp.edu.pe/estudios/pregrado/cursos/taller-de-urbanismo-3/"
+  },
+  {
+    "name": "Prácticas Supervisadas",
+    "code": "ARC244",
+    "credits": 1,
+    "stage": "Nivel Avanzado",
+    "cycle": "Nivel 9",
+    "url": "https://arquitectura.pucp.edu.pe/?post_type=curso&p=4254"
+  },
+  {
+    "name": "Taller de investigación",
+    "code": "ARC232",
+    "credits": 5,
+    "stage": "Nivel Avanzado",
+    "cycle": "Nivel 9",
+    "url": "https://arquitectura.pucp.edu.pe/estudios/pregrado/cursos/taller-de-investigacion/"
+  },
+  {
+    "name": "Ética de la arquitectura",
+    "code": "1ARC56",
+    "credits": 2,
+    "stage": "Nivel Avanzado",
+    "cycle": "Nivel 9",
+    "url": "https://arquitectura.pucp.edu.pe/estudios/pregrado/cursos/etica-del-arquitecto/"
+  },
+  {
+    "name": "Taller 9",
+    "code": "1ARC71",
+    "credits": 11,
+    "stage": "Nivel Avanzado",
+    "cycle": "Nivel 10",
+    "url": "https://arquitectura.pucp.edu.pe/estudios/pregrado/cursos/taller-9/"
+  },
+  {
+    "name": "Seminario PFC 1",
+    "code": "1ARC09",
+    "credits": 3,
+    "stage": "Nivel Avanzado",
+    "cycle": "Nivel 10",
+    "url": "https://arquitectura.pucp.edu.pe/?post_type=curso&p=12938"
+  },
+  {
+    "name": "Electivo-Obligatorio (EOB)",
+    "code": null,
+    "credits": 2,
+    "stage": "Nivel Avanzado",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas de Edificación y Sostenibilidad Contemporánea",
+    "code": "1ARC57",
+    "credits": 4,
+    "stage": "Nivel Avanzado",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Taller 10",
+    "code": "1ARC72",
+    "credits": 11,
+    "stage": "Nivel Avanzado",
+    "cycle": "Nivel 11",
+    "url": "https://arquitectura.pucp.edu.pe/estudios/pregrado/cursos/taller-10/"
+  },
+  {
+    "name": "Seminario PFC 2",
+    "code": "1ARC10",
+    "credits": 3,
+    "stage": "Nivel Avanzado",
+    "cycle": "Nivel 11",
+    "url": "https://arquitectura.pucp.edu.pe/?post_type=curso&p=12960"
+  },
+  {
+    "name": "Idiomas 2",
+    "code": "IDM307",
+    "credits": 0,
+    "stage": "Nivel Avanzado",
+    "cycle": "Nivel 11",
+    "url": null
+  },
+  {
+    "name": "Temas de Arquitectura Contemporánea",
+    "code": "1ARC11",
+    "credits": 3,
+    "stage": "Nivel Avanzado",
+    "cycle": "Nivel 11",
+    "url": null
+  }
+]

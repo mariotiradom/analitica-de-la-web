@@ -17,6 +17,7 @@ utec-download-curriculum = "university_scraper.utec_cli:main"
 up-download-study-plan = "university_scraper.up_cli:main"
 cayetano-download-curriculum = "university_scraper.cayetano_cli:main"
 ulima-download-curriculum = "university_scraper.ulima_cli:main"
+pucp-download-curriculum = "university_scraper.pucp_cli:main"
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]

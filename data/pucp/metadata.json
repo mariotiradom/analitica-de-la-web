@@ -1,0 +1,466 @@
+{
+  "source": "pontificia_universidad_catolica_del_peru",
+  "catalog_url": "https://www.pucp.edu.pe/pregrado/carreras/por-facultad/",
+  "captured_at": "2026-09-22T19:50:00.881543+00:00",
+  "career_count": 55,
+  "faculties": [
+    "Facultad de Arquitectura y Urbanismo",
+    "Facultad de Arte y Diseño",
+    "Facultad de Artes Escénicas",
+    "Facultad de Ciencias Contables",
+    "Facultad de Ciencias Sociales",
+    "Facultad de Ciencias e Ingeniería",
+    "Facultad de Ciencias y Artes de la Comunicación",
+    "Facultad de Derecho",
+    "Facultad de Educación",
+    "Facultad de Gastronomía, Hotelería y Turismo",
+    "Facultad de Gestión y Alta Dirección",
+    "Facultad de Letras y Ciencias Humanas",
+    "Facultad de Psicología"
+  ],
+  "careers": [
+    {
+      "name": "Arquitectura",
+      "faculty": "Facultad de Arquitectura y Urbanismo",
+      "career_url": "https://www.pucp.edu.pe/carrera/arquitectura/",
+      "plan_url": "https://facultad.pucp.edu.pe/arquitectura/informacion-academica/plan-de-estudios/",
+      "modality": "Modalidad: Presencial",
+      "description": "Si quieres convertirte en un arquitecto profesional, en la PUCP recibirás una integrada con la experiencia del proyecto arquitectónico, y del estudio de nuestro espacio físico, de la sociedad y la cultura contemporánea."
+    },
+    {
+      "name": "Educación Artística",
+      "faculty": "Facultad de Arte y Diseño",
+      "career_url": "https://www.pucp.edu.pe/carrera/educacion-artistica/",
+      "plan_url": "https://facultad.pucp.edu.pe/arte/informacion-academica/educacion-artistica/presentacion/",
+      "modality": "Modalidad: Presencial",
+      "description": "La Educación Artística promueve el análisis del contexto cultural reflejado en las imágenes y productos audiovisuales, y desarrolla la capacidad de gestión en proyectos educativos para diferentes espacios laborales, como museos, proyectos de desarrollo local (ONG y sector público), proyectos de arte comunitario y escuelas."
+    },
+    {
+      "name": "Diseño Gráfico",
+      "faculty": "Facultad de Arte y Diseño",
+      "career_url": "https://www.pucp.edu.pe/carrera/diseno-grafico/",
+      "plan_url": "https://facultad.pucp.edu.pe/arte/informacion-academica/diseno-grafico/plan-de-estudios/",
+      "modality": "Modalidad: Presencial",
+      "description": "La Especialidad de Diseño Gráfico forma diseñadores que investigan, planifican y realizan un diseño creativo y funcional, con fundamentos éticos, humanistas, artísticos y tecnológicos, y con capacidad previsora e innovadora."
+    },
+    {
+      "name": "Diseño Industrial",
+      "faculty": "Facultad de Arte y Diseño",
+      "career_url": "https://www.pucp.edu.pe/carrera/diseno-industrial/",
+      "plan_url": "https://facultad.pucp.edu.pe/arte/informacion-academica/diseno-industrial/plan-de-estudios/",
+      "modality": "Modalidad: Presencial",
+      "description": "Como egresado de esta Especialidad, serás capaz de investigar para resolver los diversos problemas dentro del campo de la producción en serie en cualquiera de sus ramas."
+    },
+    {
+      "name": "Escultura",
+      "faculty": "Facultad de Arte y Diseño",
+      "career_url": "https://www.pucp.edu.pe/carrera/escultura/",
+      "plan_url": "https://facultad.pucp.edu.pe/arte/informacion-academica/escultura/plan-de-estudios/",
+      "modality": "Modalidad: Presencial",
+      "description": "La enseñanza en la Especialidad de Escultura busca formar escultores vitales, sensibles y comprometidos con la comunidad, que puedan aportar creativamente con propuestas innovadoras capaces de transformar positivamente el entorno social, cultural y territorial."
+    },
+    {
+      "name": "Pintura",
+      "faculty": "Facultad de Arte y Diseño",
+      "career_url": "https://www.pucp.edu.pe/carrera/pintura/",
+      "plan_url": "https://facultad.pucp.edu.pe/arte/informacion-academica/pintura/plan-de-estudios/",
+      "modality": "Modalidad: Presencial",
+      "description": "Basados en estos fundamentos, los pintores egresados de la Facultad de Arte de la PUCP representan una visión del mundo y de su contexto sociocultural apoyados en un lenguaje personal que ha tenido un desarrollo formativo integral e interdisciplinario dentro de la Facultad."
+    },
+    {
+      "name": "Arte, moda y diseño textil",
+      "faculty": "Facultad de Arte y Diseño",
+      "career_url": "https://www.pucp.edu.pe/carrera/arte-moda-y-diseno-textil/",
+      "plan_url": "https://facultad.pucp.edu.pe/arte/informacion-academica/arte-moda-diseno-textil/plan-de-estudios/",
+      "modality": "Modalidad: Presencial",
+      "description": "La Especialidad de Arte, Moda y Diseño Textil desarrolla una visión integral sobre la creación, difusión y gestión del diseño y de la moda, explorando sus componentes culturales, estratégicos, creativos y comunicativos desde una propuesta de valoración sustantiva del patrimonio peruano de textiles, vestimenta y accesorios."
+    },
+    {
+      "name": "Grabado",
+      "faculty": "Facultad de Arte y Diseño",
+      "career_url": "https://www.pucp.edu.pe/carrera/grabado/",
+      "plan_url": "https://facultad.pucp.edu.pe/arte/informacion-academica/grabado/plan-de-estudios/",
+      "modality": "Modalidad: Presencial",
+      "description": "La formación artística en la PUCP te permitirá dominar los sistemas de impresión y edición gráfica (intaglio, litografía, serigrafía, xilografía), y los procesos más modernos de edición digital y electrográfica de la imagen por medio de excelentes métodos de estudio teórico y práctico en proyectos de investigación artísticos e interdisciplinarios."
+    },
+    {
+      "name": "Danza",
+      "faculty": "Facultad de Artes Escénicas",
+      "career_url": "https://www.pucp.edu.pe/carrera/danza/",
+      "plan_url": "https://facultad.pucp.edu.pe/artes-escenicas/especialidades/danza/plan-de-estudios/",
+      "modality": "Modalidad: Presencial",
+      "description": "Nuestros alumnos encuentran una formación profesional integral, que fomenta la investigación y la creación, a través de la sensibilización y el entrenamiento técnico que utilizan a la danza como una herramienta corporal de expresión e interpretación individual y social."
+    },
+    {
+      "name": "Teatro",
+      "faculty": "Facultad de Artes Escénicas",
+      "career_url": "https://www.pucp.edu.pe/carrera/teatro/",
+      "plan_url": "https://facultad-artes-escenicas.pucp.edu.pe/teatro/plan-de-estudio/",
+      "modality": "Modalidad: Presencial",
+      "description": "La especialidad de Teatro busca formar jóvenes interesados en su realidad social que, entendiendo la estética del teatro de hoy, tengan la preparación para investigar y crear nuevas formas de expresión dramática."
+    },
+    {
+      "name": "Música",
+      "faculty": "Facultad de Artes Escénicas",
+      "career_url": "https://www.pucp.edu.pe/carrera/musica/",
+      "plan_url": "https://facultad-artes-escenicas.pucp.edu.pe/musica/plan-de-estudio-musica/",
+      "modality": "Modalidad: Presencial",
+      "description": "En la Facultad de Artes Escénicas, fomentamos tu libertad creativa y respetamos la diversidad cultural, lo que te permitirá elegir libremente los estilos y las formas musicales que quieras desarrollar profesionalmente."
+    },
+    {
+      "name": "Creación y Producción Escénica",
+      "faculty": "Facultad de Artes Escénicas",
+      "career_url": "https://www.pucp.edu.pe/carrera/creacion-y-produccion-escenica/",
+      "plan_url": "https://facultad-artes-escenicas.pucp.edu.pe/creacion-y-produccion-escenica/plan-de-estudio/",
+      "modality": "Modalidad: Presencial",
+      "description": "La Especialidad de Creación y Producción Escénica forma creadores, productores e investigadores que conocen los procesos que hacen posible el diseño, la realización y sostenibilidad de proyectos de artes escénicas que conecten con el público e impacten en la sociedad."
+    },
+    {
+      "name": "Contabilidad",
+      "faculty": "Facultad de Ciencias Contables",
+      "career_url": "https://www.pucp.edu.pe/carrera/contabilidad/",
+      "plan_url": "https://facultad.pucp.edu.pe/ciencias-contables/informacion-academica/plan-de-estudios/",
+      "modality": "Modalidad: Presencial",
+      "description": "El mundo de los negocios requiere de profesionales en Contabilidad que posean competencias sólidas relacionadas con la organización, análisis y gestión de la información financiera, elemento vital para la toma de decisiones empresariales."
+    },
+    {
+      "name": "Estadística",
+      "faculty": "Facultad de Ciencias e Ingeniería",
+      "career_url": "https://www.pucp.edu.pe/carrera/estadistica/",
+      "plan_url": "https://facultad.pucp.edu.pe/ingenieria/carreras/ciencias-estadisticas/plan-de-estudios/",
+      "modality": "Modalidad: Presencial",
+      "description": "La Estadística es usada para apoyar la toma de decisiones dentro de los gobiernos, partidos políticos, compañías financieras, empresas de opinión pública, compañías de seguros, bancos, hospitales, organizaciones sociales e industrias."
+    },
+    {
+      "name": "Física",
+      "faculty": "Facultad de Ciencias e Ingeniería",
+      "career_url": "https://www.pucp.edu.pe/carrera/fisica/",
+      "plan_url": "https://facultad.pucp.edu.pe/ingenieria/carreras/fisica/plan-de-estudios/",
+      "modality": "Modalidad: Presencial",
+      "description": "Estudiando la carrera de Física en la PUCP, comprenderás que se trata de una ciencia en constante evolución: con cada pregunta que se logra responder, aparecen muchas otras que representan nuevos desafíos."
+    },
+    {
+      "name": "Matemáticas",
+      "faculty": "Facultad de Ciencias e Ingeniería",
+      "career_url": "https://www.pucp.edu.pe/carrera/matematicas/",
+      "plan_url": "https://facultad-ciencias-ingenieria.pucp.edu.pe/carreras/matematicas/plan-de-estudios/",
+      "modality": "Modalidad: Presencial",
+      "description": "Como egresado de la Especialidad, podrás desempeñarte como matemático, como docente o investigador aplicando tus conocimientos en la industria. Posibles organismos empleadores de matemáticos son las universidades, institutos de investigación, industrias y empresas de áreas tan diversas como la ingeniería, la administración, la informática, la banca y los seguros."
+    },
+    {
+      "name": "Química",
+      "faculty": "Facultad de Ciencias e Ingeniería",
+      "career_url": "https://www.pucp.edu.pe/carrera/quimica/",
+      "plan_url": "https://facultad-ciencias-ingenieria.pucp.edu.pe/carreras/quimica/plan-de-estudios/",
+      "modality": "Modalidad: Presencial",
+      "description": "La Química estudia la materia y sus propiedades, las interacciones entre las sustancias químicas, y las leyes que gobiernan los procesos que ocurren a nuestro alrededor relacionados con la vida, el ambiente y la industria."
+    },
+    {
+      "name": "Ingeniería Ambiental y Sostenible",
+      "faculty": "Facultad de Ciencias e Ingeniería",
+      "career_url": "",
+      "plan_url": "",
+      "modality": null,
+      "description": null
+    },
+    {
+      "name": "Ingeniería Biomédica PUCP",
+      "faculty": "Facultad de Ciencias e Ingeniería",
+      "career_url": "https://www.pucp.edu.pe/carrera/ingenieria-biomedica/",
+      "plan_url": "https://facultad-ciencias-ingenieria.pucp.edu.pe/carreras/ingenieria-biomedica/plan-de-estudios/",
+      "modality": "Modalidad: Presencial",
+      "description": "Utiliza los conocimientos en ciencias básicas y principios de ingeniería para resolver problemas médicos, innovar en soluciones y crear productos orientados a mejorar la calidad de vida de las personas, transformando la salud en el Perú."
+    },
+    {
+      "name": "Ingeniería Civil",
+      "faculty": "Facultad de Ciencias e Ingeniería",
+      "career_url": "https://www.pucp.edu.pe/carrera/ingenieria-civil/",
+      "plan_url": "https://facultad-ciencias-ingenieria.pucp.edu.pe/carreras/ingenieria-civil/plan-de-estudios/",
+      "modality": "Modalidad: Presencial",
+      "description": "Estudiando Ingeniería Civil en la PUCP, podrás ser un profesional capaz de asumir cargos de nivel gerencial, y ser responsable del planeamiento, diseño y construcción de todas las obras que el país necesite de manera sostenida y sustentable."
+    },
+    {
+      "name": "Ingeniería de las Telecomunicaciones",
+      "faculty": "Facultad de Ciencias e Ingeniería",
+      "career_url": "https://www.pucp.edu.pe/carrera/ingenieria-de-las-telecomunicaciones/",
+      "plan_url": "https://facultad-ciencias-ingenieria.pucp.edu.pe/carreras/ingenieria-de-las-telecomunicaciones/plan-de-estudios/",
+      "modality": "Modalidad: Presencial",
+      "description": "Como ingeniero de telecomunicaciones, te encargarás de planificar, diseñar y de mantener operativa esta infraestructura. También, construirás y configurarás las aplicaciones que permitan su funcionamiento, y determinen los costos y tiempos de operación de un servicio eficaz, seguro y eficiente."
+    },
+    {
+      "name": "Ingeniería de Minas",
+      "faculty": "Facultad de Ciencias e Ingeniería",
+      "career_url": "https://www.pucp.edu.pe/carrera/ingenieria-de-minas/",
+      "plan_url": "https://facultad-ciencias-ingenieria.pucp.edu.pe/carreras/ingenieria-de-minas/plan-de-estudios/",
+      "modality": "Modalidad: Presencial",
+      "description": "Al ser el Perú un país privilegiado en recursos minerales, su industria minera tiene una gran importancia por su aporte a la economía nacional. En la PUCP, obtendrás una sólida base de conocimientos técnicos y científicos, además de una formación ética y social comprometida con el medio ambiente, la ecología y la sociedad. Aprenderás la ciencia y el arte de los procesos de extracción de los recursos metálicos y no metálicos de la corteza terrestre."
+    },
+    {
+      "name": "Ingeniería Electrónica",
+      "faculty": "Facultad de Ciencias e Ingeniería",
+      "career_url": "https://www.pucp.edu.pe/carrera/ingenieria-electronica/",
+      "plan_url": "https://facultad-ciencias-ingenieria.pucp.edu.pe/carreras/ingenieria-electronica/plan-de-estudios/",
+      "modality": "Modalidad: Presencial",
+      "description": "Un ingeniero electrónico de la PUCP es capaz de desarrollar soluciones y productos tecnológicos con el fin de modernizar procesos productivos y mejorar la calidad de vida de las personas."
+    },
+    {
+      "name": "Ingeniería Geológica",
+      "faculty": "Facultad de Ciencias e Ingeniería",
+      "career_url": "https://www.pucp.edu.pe/carrera/ingenieria-geologica/",
+      "plan_url": "https://facultad-ciencias-ingenieria.pucp.edu.pe/carreras/ingenieria-geologica/plan-de-estudios/",
+      "modality": "Modalidad: Presencial",
+      "description": "La PUCP considera como una oportunidad y una gran responsabilidad ofrecer al mercado profesional peruano egresados que hayan gozado de una formación universitaria sólida acompañada de principios éticos y que permita también un mayor acercamiento con la industria minera. Es este el objetivo del surgimiento de una nueva carrera, caracterizada por una alta calidad académica, basada principalmente en el apoyo de la solidez de la carrera de Ingeniería de Minas de la PUCP."
+    },
+    {
+      "name": "Ingeniería Industrial",
+      "faculty": "Facultad de Ciencias e Ingeniería",
+      "career_url": "https://www.pucp.edu.pe/carrera/ingenieria-industrial/",
+      "plan_url": "https://facultad-ciencias-ingenieria.pucp.edu.pe/carreras/ingenieria-industrial/plan-de-estudios/",
+      "modality": "Modalidad: Presencial",
+      "description": "El ingeniero industrial se ocupa del diseño, implementación, gestión, optimización y dirección de sistemas de producción de bienes y servicios. Para ello, administra diversos recursos, como personas, materiales, equipos, energía, tecnología e información, y trabaja siempre con el objetivo de brindar a la sociedad una mejor calidad de vida."
+    },
+    {
+      "name": "Ingeniería Informática",
+      "faculty": "Facultad de Ciencias e Ingeniería",
+      "career_url": "https://www.pucp.edu.pe/carrera/ingenieria-informatica/",
+      "plan_url": "https://facultad-ciencias-ingenieria.pucp.edu.pe/carreras/ingenieria-informatica/plan-de-estudios/",
+      "modality": "Modalidad: Presencial",
+      "description": "Como ingeniero informático, desarrollarás distintas soluciones necesarias para la automatización de la información con una sólida base científica y tecnológica acreditada internacionalmente. Además, realizarás actividades de alto nivel de abstracción, como análisis y diseño, y actividades de gran responsabilidad, como gestión de proyectos y tecnologías."
+    },
+    {
+      "name": "Ingeniería Mecánica",
+      "faculty": "Facultad de Ciencias e Ingeniería",
+      "career_url": "https://www.pucp.edu.pe/carrera/ingenieria-mecanica/",
+      "plan_url": "https://facultad-ciencias-ingenieria.pucp.edu.pe/carreras/ingenieria-mecanica/plan-de-estudios/",
+      "modality": "Modalidad: Presencial",
+      "description": "El ingeniero mecánico se encarga de la concepción, diseño, fabricación, mantenimiento, control y gestión de maquinarias, equipos e instalaciones industriales en general. Su labor consiste tanto en desarrollar como en aplicar tecnologías competitivas y apropiadas para la industria."
+    },
+    {
+      "name": "Ingeniería Mecatrónica",
+      "faculty": "Facultad de Ciencias e Ingeniería",
+      "career_url": "https://www.pucp.edu.pe/carrera/ingenieria-mecatronica/",
+      "plan_url": "https://facultad-ciencias-ingenieria.pucp.edu.pe/carreras/ingenieria-mecatronica/plan-de-estudios/",
+      "modality": "Modalidad: Presencial",
+      "description": "En un mundo globalizado, el conocimiento científico y tecnológico traspasa todas las fronteras. Para ser competitivo, nuestro país debe invertir en la creación, manejo, desarrollo y difusión de este conocimiento."
+    },
+    {
+      "name": "Ingeniería Química",
+      "faculty": "Facultad de Ciencias e Ingeniería",
+      "career_url": "",
+      "plan_url": "",
+      "modality": null,
+      "description": null
+    },
+    {
+      "name": "Antropología",
+      "faculty": "Facultad de Ciencias Sociales",
+      "career_url": "https://www.pucp.edu.pe/carrera/antropologia/",
+      "plan_url": "https://facultad-ciencias-sociales.pucp.edu.pe/carreras/antropologia/planes-de-estudio/",
+      "modality": "Modalidad: Presencial",
+      "description": "La Antropología estudia la diversidad de las culturas humanas y sus particularidades. Se interesa por los procesos de encuentro e interacción mutua en los que se configuran modos de pensar, prácticas culturales y sociales, y diferentes formas de organización."
+    },
+    {
+      "name": "Ciencia Política y Gobierno",
+      "faculty": "Facultad de Ciencias Sociales",
+      "career_url": "https://www.pucp.edu.pe/carrera/ciencia-politica-y-gobierno/",
+      "plan_url": "https://facultad-ciencias-sociales.pucp.edu.pe/carreras/ciencia-politica-y-gobierno/planes-de-estudio/",
+      "modality": "Modalidad: Presencial",
+      "description": "La Ciencia Política estudia y permite comprender las relaciones de poder en general, y, en particular, el funcionamiento de las instituciones públicas y el proceso de toma de decisiones de Estado y de política pública, en el que intervienen diversos actores políticos y sociales."
+    },
+    {
+      "name": "Economía",
+      "faculty": "Facultad de Ciencias Sociales",
+      "career_url": "https://www.pucp.edu.pe/carrera/economia/",
+      "plan_url": "https://facultad-ciencias-sociales.pucp.edu.pe/carreras/economia/sobre-la-carrera/",
+      "modality": "Modalidad: Presencial",
+      "description": "Como egresado de Economía de la PUCP, gozarás de mucho prestigio: podrás ser aceptado en los estudios de posgrado de universidades reconocidas en el extranjero, ocupar posiciones de alta responsabilidad en organismos públicos y privados, ser docente o investigador en escuelas de Economía en el extranjero."
+    },
+    {
+      "name": "Finanzas",
+      "faculty": "Facultad de Ciencias Sociales",
+      "career_url": "",
+      "plan_url": "",
+      "modality": null,
+      "description": null
+    },
+    {
+      "name": "Relaciones Internacionales",
+      "faculty": "Facultad de Ciencias Sociales",
+      "career_url": "",
+      "plan_url": "",
+      "modality": null,
+      "description": null
+    },
+    {
+      "name": "Sociología",
+      "faculty": "Facultad de Ciencias Sociales",
+      "career_url": "https://www.pucp.edu.pe/carrera/sociologia/",
+      "plan_url": "https://facultad-ciencias-sociales.pucp.edu.pe/carreras/sociologia/sobre-la-carrera/",
+      "modality": "Modalidad: Presencial",
+      "description": "En un país de profundas brechas étnicas y sociales, la Sociología adquiere especial relevancia. Esta es una disciplina que estudia las relaciones entre personas y grupos sociales, así como la dinámica y estructura de las sociedades y los procesos de cambio en la vida cotidiana, en la cultura y en las instituciones. En ese sentido, la profundización en el conocimiento de la realidad nacional, las tensiones y conflictos existentes, y los desafíos de la globalización son temas de interés de los sociólogos."
+    },
+    {
+      "name": "Comunicación Audiovisual",
+      "faculty": "Facultad de Ciencias y Artes de la Comunicación",
+      "career_url": "https://www.pucp.edu.pe/carrera/comunicacion-audiovisual/",
+      "plan_url": "https://facultad.pucp.edu.pe/comunicaciones/carreras/comunicacion-audiovisual/plan-de-estudios/",
+      "modality": "Modalidad: Presencial",
+      "description": "Un comunicador audiovisual planifica, estructura y realiza productos desde una perspectiva creativa, estética y tecnológica, y los expresa a través de imágenes y sonidos. Para tal fin, integra el uso de los lenguajes audiovisuales, la apreciación estética y el conocimiento de las estructuras narrativas."
+    },
+    {
+      "name": "Comunicación para el desarrollo",
+      "faculty": "Facultad de Ciencias y Artes de la Comunicación",
+      "career_url": "https://www.pucp.edu.pe/carrera/comunicacion-para-el-desarrollo/",
+      "plan_url": "https://facultad.pucp.edu.pe/comunicaciones/carreras/comunicacion-para-el-desarrollo/plan-de-estudios/",
+      "modality": "Modalidad: Presencial",
+      "description": "La carrera de Comunicación para el Desarrollo tiene como misión formar profesionales con capacidad para diseñar políticas, estrategias y proyectos de comunicación dirigidos a la promoción del desarrollo, concebido como un proceso orientado a la ampliación de libertades y al ejercicio de derechos y capacidades de las personas."
+    },
+    {
+      "name": "Publicidad",
+      "faculty": "Facultad de Ciencias y Artes de la Comunicación",
+      "career_url": "https://www.pucp.edu.pe/carrera/publicidad/",
+      "plan_url": "https://facultad.pucp.edu.pe/comunicaciones/carreras/publicidad/plan-de-estudios/",
+      "modality": "Modalidad: Presencial",
+      "description": "Como publicista de la PUCP, estarás en la capacidad de crear y ejecutar campañas promocionales y publicitarias, así como de investigar y observar tendencias y procesos que originan innovación y nuevos recursos en los campos de la planificación, la gestión y las tecnologías de difusión."
+    },
+    {
+      "name": "Periodismo",
+      "faculty": "Facultad de Ciencias y Artes de la Comunicación",
+      "career_url": "https://www.pucp.edu.pe/carrera/periodismo/",
+      "plan_url": "https://facultad.pucp.edu.pe/comunicaciones/carreras/periodismo/plan-de-estudios/",
+      "modality": "Modalidad: Presencial",
+      "description": "La Especialidad de Periodismo busca formar profesionales que se desempeñen con solvencia en los diferentes formatos (medios impresos y digitales, radio y televisión), y que dominen las técnicas de redacción y narración propias de cada género y subgénero periodístico."
+    },
+    {
+      "name": "Derecho",
+      "faculty": "Facultad de Derecho",
+      "career_url": "https://www.pucp.edu.pe/carrera/derecho/",
+      "plan_url": "https://facultad-derecho.pucp.edu.pe/estudiantes/plan-de-estudios/",
+      "modality": "Modalidad: Presencial",
+      "description": "El egresado de la Facultad dispondrá de las herramientas para iniciarse profesionalmente y desempeñarse con integridad y responsabilidad social, a partir de valores éticos, el desarrollo de habilidades profesionales, y un conocimiento integral del Derecho y de su relación con disciplinas afines."
+    },
+    {
+      "name": "Educación Primaria",
+      "faculty": "Facultad de Educación",
+      "career_url": "https://www.pucp.edu.pe/carrera/educacion-primaria/",
+      "plan_url": "https://facultad-educacion.pucp.edu.pe/carreras/educacion-primaria/",
+      "modality": "Modalidad: Presencial",
+      "description": "La Facultad de Educación te formará como un docente capaz de transformar la enseñanza, con una formación interdisciplinar e intercultural, y con una ética inspirada en el compromiso humano y social que conduzca a la mejora de la calidad educativa del país."
+    },
+    {
+      "name": "Educación Inicial",
+      "faculty": "Facultad de Educación",
+      "career_url": "https://www.pucp.edu.pe/carrera/educacion-inicial/",
+      "plan_url": "https://facultad-educacion.pucp.edu.pe/carreras/educacion-inicial/",
+      "modality": "Modalidad: Presencial",
+      "description": "La carrera de Educación Inicial ha sido diseñada para jóvenes con iniciativa, responsabilidad y creatividad que disfruten del trabajo y del juego con niños pequeños, y que sean, además, sensibles a sus necesidades y capaces de generar oportunidades de aprendizaje originales que desarrollen el inmenso potencial de los niños."
+    },
+    {
+      "name": "Educación Secundaria",
+      "faculty": "Facultad de Educación",
+      "career_url": "https://www.pucp.edu.pe/carrera/educacion-secundaria/",
+      "plan_url": "https://facultad-educacion.pucp.edu.pe/carreras/educacion-secundaria/",
+      "modality": "Modalidad: Presencial",
+      "description": "Forma profesionales con competencias en el diseño, ejecución y evaluación de los procesos de enseñanza aprendizaje, capaces de generar experiencias educativas significativas y respetuosas de los derechos, las características, los intereses y las necesidades de los adolescentes del país en el contexto global."
+    },
+    {
+      "name": "Gastronomía",
+      "faculty": "Facultad de Gastronomía, Hotelería y Turismo",
+      "career_url": "https://www.pucp.edu.pe/carrera/gastronomia/",
+      "plan_url": "https://facultad.pucp.edu.pe/gastronomia-hoteleria-turismo/programa-de-gastronomia/plan-de-estudios/",
+      "modality": "Modalidad: Presencial",
+      "description": "Gastronomía en la PUCP está orientada a formar profesionales comprometidos con una gastronomía que pone en el centro el respeto de las culturas y del medio ambiente, la salud y bienestar de las personas así como el desarrollo de las cadenas de valor y sistemas alimentarios sostenibles. Serás un profesional innovador que marcará la pauta en la evolución del sector gastronómico en el Perú y en el mundo, generador de experiencias, conocimiento y soluciones."
+    },
+    {
+      "name": "Hotelería",
+      "faculty": "Facultad de Gastronomía, Hotelería y Turismo",
+      "career_url": "https://www.pucp.edu.pe/carrera/hoteleria/",
+      "plan_url": "https://facultad.pucp.edu.pe/gastronomia-hoteleria-turismo/especialidad/turismo/plan-de-estudios/",
+      "modality": "Modalidad: Presencial",
+      "description": "Al estudiar Ciencias y Artes de la Hospitalidad: Hotelería en la PUCP, desarrollarás tu creatividad y pensamiento crítico para formarte como un profesional que está orientado al servicio, y que es capaz de identificar, diseñar y gestionar soluciones viables y sostenibles para la industria hotelera."
+    },
+    {
+      "name": "Turismo",
+      "faculty": "Facultad de Gastronomía, Hotelería y Turismo",
+      "career_url": "https://www.pucp.edu.pe/carrera/turismo/",
+      "plan_url": "https://facultad.pucp.edu.pe/gastronomia-hoteleria-turismo/especialidad/turismo/plan-de-estudios/",
+      "modality": "Modalidad: Presencial",
+      "description": "Al estudiar Ciencias y Artes de la Hospitalidad: Turismo en la PUCP, serás un profesional con un alto sentido ético que es capaz de relacionarse óptimamente con el entorno. De esta forma, tu relación con el mismo se dará mediante la gestión de proyectos y de destinos turísticos, así como de experiencias innovadoras para cada tipo de turista."
+    },
+    {
+      "name": "Gestión",
+      "faculty": "Facultad de Gestión y Alta Dirección",
+      "career_url": "https://www.pucp.edu.pe/carrera/gestion/",
+      "plan_url": "https://facultad.pucp.edu.pe/gestion-direccion/pregrado-en-gestion/plan-de-estudios/",
+      "modality": "Modalidad: Presencial",
+      "description": "Nuestros egresados se caracterizan por su visión estratégica, el manejo de habilidades operativas excepcionales orientadas al logro de resultados, un gran compromiso con el país y su actitud emprendedora."
+    },
+    {
+      "name": "Arqueología",
+      "faculty": "Facultad de Letras y Ciencias Humanas",
+      "career_url": "https://www.pucp.edu.pe/carrera/arqueologia/",
+      "plan_url": "https://facultad.pucp.edu.pe/letras-ciencias-humanas/carreras/arqueologia/plan-de-estudios/",
+      "modality": "Modalidad: Presencial",
+      "description": "La PUCP te ofrece la oportunidad de convertirte en investigador, promotor y gestor de este patrimonio sobre la base de un profundo conocimiento del pasado prehispánico, y respaldado por ricas y variadas experiencias prácticas en el campo y en el laboratorio."
+    },
+    {
+      "name": "Ciencias de la Información",
+      "faculty": "Facultad de Letras y Ciencias Humanas",
+      "career_url": "https://www.pucp.edu.pe/carrera/ciencias-de-la-informacion/",
+      "plan_url": "https://facultad.pucp.edu.pe/letras-ciencias-humanas/carreras/ciencias-de-la-informacion/plan-de-estudios/",
+      "modality": "Modalidad: Presencial",
+      "description": "La Especialidad de Ciencias de la Información forma profesionales capacitados en el tratamiento estratégico de la información para la toma de decisiones."
+    },
+    {
+      "name": "Filosofía",
+      "faculty": "Facultad de Letras y Ciencias Humanas",
+      "career_url": "https://www.pucp.edu.pe/carrera/filosofia/",
+      "plan_url": "https://facultad.pucp.edu.pe/letras-ciencias-humanas/carreras/filosofia/plan-de-estudios/",
+      "modality": "Modalidad: Presencial",
+      "description": "En la Especialidad de Filosofía, desarrollarás una reflexión propia y creativa con respecto a tu realidad y podrás convertirte en un investigador que cuestiona los presupuestos sobre los cuales se fundan nuestras creencias y acciones."
+    },
+    {
+      "name": "Geografía y Medio Ambiente",
+      "faculty": "Facultad de Letras y Ciencias Humanas",
+      "career_url": "https://www.pucp.edu.pe/carrera/geografia-y-medio-ambiente/",
+      "plan_url": "https://facultad.pucp.edu.pe/letras-ciencias-humanas/carreras/geografia-y-medio-ambiente/plan-de-estudios/",
+      "modality": "Modalidad: Presencial",
+      "description": "Como geógrafo, gracias a tu conocimiento del territorio, contribuirás con el desarrollo nacional, regional y local a partir de la formulación de planes de ordenamiento territorial, planes de gestión integrada de recursos hídricos, planes de gestión de riesgos de desastre y planes de manejo ambiental, entre otras acciones."
+    },
+    {
+      "name": "Historia",
+      "faculty": "Facultad de Letras y Ciencias Humanas",
+      "career_url": "https://www.pucp.edu.pe/carrera/historia/",
+      "plan_url": "https://facultad.pucp.edu.pe/letras-ciencias-humanas/carreras/historia/plan-de-estudios/",
+      "modality": "Modalidad: Presencial",
+      "description": "Serás un historiador reflexivo, riguroso en tus investigaciones, y con una gran capacidad de análisis y síntesis, cualidades que te permitirán realizar actividades en diferentes campos de la cultura, la educación y el desarrollo social."
+    },
+    {
+      "name": "Humanidades",
+      "faculty": "Facultad de Letras y Ciencias Humanas",
+      "career_url": "https://www.pucp.edu.pe/carrera/humanidades/",
+      "plan_url": "https://facultad.pucp.edu.pe/letras-ciencias-humanas/carreras/humanidades/plan-de-estudios/",
+      "modality": "Modalidad: Presencial",
+      "description": "Como estudiante de este programa, la formación interdisciplinaria te permitirá abordar de manera crítica los procesos y problemas de nuestra realidad acudiendo a las perspectivas de análisis que proporcionan las diferentes disciplinas."
+    },
+    {
+      "name": "Lingüística y Literatura",
+      "faculty": "Facultad de Letras y Ciencias Humanas",
+      "career_url": "https://www.pucp.edu.pe/carrera/linguistica-y-literatura/",
+      "plan_url": "https://facultad.pucp.edu.pe/letras-ciencias-humanas/carreras/linguistica-y-literatura/plan-de-estudios/",
+      "modality": "Modalidad: Presencial",
+      "description": "La Lingüística y la Literatura comparten como objeto de estudio las manifestaciones del lenguaje en tanto medio de representación y sistema de expresión. Partiendo de esta base común, la Lingüística se interesa por analizar la estructura del lenguaje, estudiar su evolución histórica, y observar las relaciones entre el lenguaje y la sociedad. La Literatura, por su parte, se interesa por los mecanismos creativos que permiten el uso de la lengua con una finalidad estética, la formación de tradiciones discursivas y el lugar social de la obra literaria."
+    },
+    {
+      "name": "Psicología",
+      "faculty": "Facultad de Psicología",
+      "career_url": "https://www.pucp.edu.pe/carrera/psicologia/",
+      "plan_url": "https://facultad.pucp.edu.pe/psicologia/carrera/plan-de-estudios/plan-de-estudios-2014/",
+      "modality": "Modalidad: Presencial",
+      "description": "Podrás desempeñarte con eficiencia en la evaluación del comportamiento humano, y en la intervención individual o social que apunte a mejorar las relaciones humanas y el desarrollo integral de las personas"
+    }
+  ],
+  "files": {
+    "catalog_html": "data/pucp/catalog.html"
+  }
+}

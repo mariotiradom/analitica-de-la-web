@@ -1,0 +1,18 @@
+{
+  "source": "pontificia_universidad_catolica_del_peru",
+  "faculty": "Facultad de Ciencias e Ingeniería",
+  "career": "Ingeniería Ambiental y Sostenible",
+  "career_url": "",
+  "fci_plan_url": "https://facultad-ciencias-ingenieria.pucp.edu.pe/carreras/ingenieria-ambiental-y-sostenible/plan-de-estudios/",
+  "eeggcc_plan_url": "https://estudios-generales-ciencias.pucp.edu.pe/plan_estudio/ingenieria-ambiental-y-sostenible/",
+  "fci_pdf_url": "https://facultad-ciencias-ingenieria.pucp.edu.pe/wp-content/uploads/2026/07/AMBIENTAL_ppee_FCI-2026-2-1.pdf",
+  "eeggcc_pdf_url": "https://estudios-generales-ciencias.pucp.edu.pe/wp-content/uploads/2026/07/PE_Ambiental_26.pdf",
+  "captured_at": "2026-09-22T19:13:51.194886+00:00",
+  "files": {
+    "html": "data/pucp/ingenieria-ambiental-y-sostenible/source.html",
+    "eeggcc_html": "data/pucp/ingenieria-ambiental-y-sostenible/eeggcc_source.html",
+    "courses": "data/pucp/ingenieria-ambiental-y-sostenible/courses.json"
+  },
+  "course_count": 30,
+  "notes": "Niveles 1 al 4 en HTML de Estudios Generales Ciencias (EEGGCC); niveles 5 en adelante en PDF de Facultad de Ciencias e Ingeniería (FCI)."
+}

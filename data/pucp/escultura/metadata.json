@@ -1,0 +1,14 @@
+{
+  "source": "pontificia_universidad_catolica_del_peru",
+  "faculty": "Facultad de Arte y Diseño",
+  "career": "Escultura",
+  "career_url": "https://www.pucp.edu.pe/carrera/escultura/",
+  "plan_url": "https://facultad.pucp.edu.pe/arte/informacion-academica/escultura/plan-de-estudios/",
+  "final_url": "https://facultad.arteydiseno.pucp.edu.pe/especialidades/escultura/plan-estudios/",
+  "captured_at": "2026-09-22T19:13:16.584307+00:00",
+  "files": {
+    "html": "data/pucp/escultura/source.html",
+    "courses": "data/pucp/escultura/courses.json"
+  },
+  "course_count": 57
+}

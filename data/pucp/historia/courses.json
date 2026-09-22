@@ -1,0 +1,954 @@
+[
+  {
+    "name": "Historia De La Formación De Occidente",
+    "code": "HIS375",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 5",
+    "url": null
+  },
+  {
+    "name": "Fuentes Históricas",
+    "code": "1HIS28",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 5",
+    "url": null
+  },
+  {
+    "name": "Paleografía Y Diplomática",
+    "code": "HIS232",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 5",
+    "url": null
+  },
+  {
+    "name": "Historia Del Perú 2: Siglos Xvi Y Xvii",
+    "code": "HIS242",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 5",
+    "url": null
+  },
+  {
+    "name": "Metodología De La Investigación Histórica 2",
+    "code": "HIS377",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 5",
+    "url": null
+  },
+  {
+    "name": "Historia De América Contemporánea: Siglos Xix A Xxi",
+    "code": "HIS378",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 5",
+    "url": null
+  },
+  {
+    "name": "Historia Del Mundo Medieval",
+    "code": "HIS379",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Historiografía Occidental",
+    "code": "1HIS29",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Historia Económica",
+    "code": "HIS345",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Teoría De La Historia",
+    "code": "HIS368",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Historia Del Perú 4: Siglo Xix (1839-1930)",
+    "code": "HIS385",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Historia Del Mundo Contemporáneo",
+    "code": "HIS386",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Taller De Formación Profesional",
+    "code": "1HIS30",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Seminario De Investigación 3: Perú Republicano",
+    "code": "1HIS33",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Historia Del Perú 3: Siglo Xviii E Independencia",
+    "code": "HIS380",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Historia Del Mundo Moderno",
+    "code": "HIS381",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Etnohistoria Andina Colonial",
+    "code": "HIS382",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Seminario De Investigación 1: Perú Antiguo",
+    "code": "1HIS31",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Seminario De Investigación 2: Perú Colonial",
+    "code": "1HIS32",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 7",
+    "url": null
+  },
+  {
+    "name": "His373  (07)   His242  (07)",
+    "code": "HIS318",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 7",
+    "url": null
+  },
+  {
+    "name": "Historia  Social",
+    "code": "HIS388",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 7",
+    "url": null
+  },
+  {
+    "name": "Seminario De Tesis 1",
+    "code": "HIS389",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 7",
+    "url": null
+  },
+  {
+    "name": "Historia Del Perú 5: 1930 Hasta La Actualidad",
+    "code": "HIS391",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 7",
+    "url": null
+  },
+  {
+    "name": "Ética Profesional Del Historiador",
+    "code": "1HIS09",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 9",
+    "url": null
+  },
+  {
+    "name": "Seminario De Tesis 2",
+    "code": "HIS392",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 9",
+    "url": null
+  },
+  {
+    "name": "Seminario Inter- Disciplinario",
+    "code": "HIS393",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 9",
+    "url": null
+  },
+  {
+    "name": "Idiomas",
+    "code": "IDM303",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 9",
+    "url": null
+  },
+  {
+    "name": "Libre Disponibilidad (Eld)",
+    "code": "HIS395",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Libre Disponibilidad (Eld)",
+    "code": "FIL324",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Filosofía De La Historia",
+    "code": "HIS308",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Historia De España Medieval Y Moderna",
+    "code": "HIS294",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Historia De Las Religiones",
+    "code": "HIS317",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Historia De La Iglesia En El Perú Y América Latina",
+    "code": "HIS349",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Historia Del Pensamiento Y La Cultura Políticos",
+    "code": "HIS396",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Historia De La Ciencia Y La Tecnología",
+    "code": "HIS397",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas De Historia Peruana",
+    "code": "HIS398",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Historia De Los Estados Unidos De América",
+    "code": "HIS399",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas De Historia De América",
+    "code": "HIS400",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas De Historia Mundial",
+    "code": "HIS401",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Historia Del Arte",
+    "code": "HIS402",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Historia Del Presente Y Memoria",
+    "code": "HIS405",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas De Historia Contemporánea",
+    "code": "HIS403",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Corrientes Y Temáticas De La Historiografía Contemporánea",
+    "code": "HIS644",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Historia De La Población Y Etnicidad",
+    "code": "HIS645",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Sem. De Historia De Los Movimientos Y Partidos Políticos",
+    "code": "HIS650",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario De Historia Económica De América Latina",
+    "code": "HIS666",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario De Historia Social Latino Americana",
+    "code": "HIS680",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario Sobre Historia Regional",
+    "code": "HIS686",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Sem. Sobre Pensamiento Cultura E Identidad Latinoamericana",
+    "code": "HUM200",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario Sobre Demografía Histórica",
+    "code": "HIS404",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Taller De Responsabilidad Social",
+    "code": "HIS406",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Historia Andina Republicana",
+    "code": "1HUM05",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Historia De Las Mujeres Y De Género",
+    "code": "1HUM14",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Taller De Formación En La Investigación Humanística",
+    "code": "1HUM16",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Humanidades Digitales",
+    "code": "1HUM17",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario Inter-Disciplinario Internacional 1",
+    "code": "1HUM18",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario Inter-Disciplinario Internacional 2",
+    "code": "1HUM19",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario Inter-Disciplinario Internacional 3",
+    "code": "1HUM29",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario Inter-Disciplinario Internacional 4",
+    "code": "1HUM54",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Responsabilidad Social Para Las Humanidades",
+    "code": "1HUM55",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas Libres Inter-Disciplinarios 1",
+    "code": "1HUM56",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas Libres Inter-Disciplinarios 2",
+    "code": "1HUM57",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas Libres Inter-Disciplinarios 3",
+    "code": "1HUM58",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas Libres Inter-Disciplinarios 4",
+    "code": "1HUM59",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas Libres En Humanidades 1",
+    "code": "1HUM60",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas Libres En Humanidades 2",
+    "code": "1HUM61",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas Libres En Humanidades 3",
+    "code": "1HUM62",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas Libres En Humanidades 4",
+    "code": "1HUM63",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Metodología De La Investigación Histórica 1",
+    "code": "1HUM64",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Historia Del Perú 1: Periodo Antiguo",
+    "code": "1HUM65",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Historia De América Antigua Y Colonial",
+    "code": "1HUM78",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Historia De La Formación De Occidente",
+    "code": "1HUM79",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Historiografía Peruana",
+    "code": "1HUM80",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Metodología De La Investigación Histórica 2",
+    "code": "1HUM81",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Historia Del Mundo Medieval",
+    "code": "1HUM74",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Historiografía Occidental",
+    "code": "1HUM75",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Paleografía Y Diplomática",
+    "code": "1HUM76",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Historia Del Perú 3: Siglo Xviii E Independencia",
+    "code": "1HUM77",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Historia Del Mundo Moderno",
+    "code": "HIS371",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Etnohistoria Andina Colonial",
+    "code": "HIS373",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario De Investigación 1: Perú Antiguo",
+    "code": "HIS374",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario De Investigación 2: Perú Colonial",
+    "code": "HIS375",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Teoría De La Historia",
+    "code": "HIS236",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Historia Económica",
+    "code": "HIS377",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Historia Del Perú 4: Siglo Xix (1839-1930)",
+    "code": "HIS379",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Taller De Formación Profesional",
+    "code": "1HIS29",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario De Investigación 3: Perú Republicano",
+    "code": "HIS232",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario De Tesis 1",
+    "code": "HIS380",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Historia Social",
+    "code": "HIS381",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Historia Del Perú 5: 1930 Hasta La Actualidad",
+    "code": "HIS382",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Historia Cultural Y De Mentalidades",
+    "code": "1HIS31",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Ética Profesional Del Historiador",
+    "code": "1HIS32",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario Interdisciplinario",
+    "code": "HIS368",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario De Tesis 2",
+    "code": "HIS345",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Historia De Las Religiones",
+    "code": "HIS385",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Historia De La Ciencia Y La Tecnología",
+    "code": "1HIS30",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas De Historia Peruana",
+    "code": "1HIS33",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas De Historia De América",
+    "code": "HIS388",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas De Historia Mundial",
+    "code": "HIS318",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Historia Del Arte",
+    "code": "HIS389",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Historia Del Presente Y Memoria",
+    "code": "HIS391",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas De Historia Contemporánea",
+    "code": "1HIS09",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Historia Andina Republicana",
+    "code": "HIS393",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Historia De La Población Y Etnicidad",
+    "code": "HIS392",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Historia De Las Mujeres Y De Género",
+    "code": "HIS308",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario Sobre Historia Regional",
+    "code": "HIS349",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario Sobre Demografía Histórica",
+    "code": "HIS396",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Historia De La Iglesia En El Perú Y América Latina",
+    "code": "HIS398",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Historia Del Pensamiento Y La Cultura Políticos",
+    "code": "HIS399",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Corrientes Y Temáticas De La Historiografía Contemporánea",
+    "code": "HIS400",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Sem. De Historia De Los Movimientos Y Partidos Políticos",
+    "code": "HIS401",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario De Historia Económica De América Latina",
+    "code": "HIS402",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Historia De España Medieval Y Moderna",
+    "code": "HIS404",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Taller De Formación En La Investigación Humanística",
+    "code": "HIS405",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario Interdisciplinario Internacional 1",
+    "code": "HIS406",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario Interdisciplinario Internacional 2",
+    "code": "HIS666",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario Interdisciplinario Internacional 3",
+    "code": "HIS686",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario Interdisciplinario Internacional 4",
+    "code": "HIS317",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Responsabilidad Social Para Las Humanidades",
+    "code": "HIS395",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  }
+]

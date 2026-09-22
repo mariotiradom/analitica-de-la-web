@@ -1,0 +1,23 @@
+{
+  "source": "pontificia_universidad_catolica_del_peru",
+  "faculty": "Facultad de Ciencias Contables",
+  "career": "Contabilidad",
+  "career_url": "https://www.pucp.edu.pe/carrera/contabilidad/",
+  "plan_url": "https://facultad.pucp.edu.pe/ciencias-contables/informacion-academica/plan-de-estudios/",
+  "plan_2026_url": "https://facultad-ciencias-contables.pucp.edu.pe/carrera/plan-de-estudios/plan-2026/",
+  "plan_2021_url": "https://facultad-ciencias-contables.pucp.edu.pe/carrera/plan-de-estudios/plan-2021/",
+  "pdf_url": "https://drive.google.com/file/d/1J98u86jp8BzZ1XfBkUPXJgaSccpHX2Nx/view?usp=sharing",
+  "plan_2026_image_url": "https://drive.google.com/file/d/14F2SEZCVz_lshT6rcL24r8Kt0qUPg-ES/view?usp=sharing",
+  "eeggll_pdf_url": "https://estudios-generales-letras.pucp.edu.pe/wp-content/uploads/2026/06/Plan-de-estudios-2026-version-web-editable-19-JUNIO.pdf",
+  "captured_at": "2026-09-22T19:50:09.153584+00:00",
+  "files": {
+    "source_html": "data/pucp/contabilidad/source.html",
+    "plan_2026_source_html": "data/pucp/contabilidad/plan_2026_source.html",
+    "plan_2021_source_html": "data/pucp/contabilidad/plan_2021_source.html",
+    "pdf": "data/pucp/contabilidad/plan-estudios.pdf",
+    "plan_2026_image": "data/pucp/contabilidad/plan-estudios-2026.png",
+    "pdf_eeggll": "data/pucp/contabilidad/plan-estudios-eeggll.pdf"
+  },
+  "pdf_size_bytes": 696844,
+  "notes": "El plan de Contabilidad consta de 10 semestres: 4 semestres en Estudios Generales Letras (EEGGLL, preservado en plan-estudios-eeggll.pdf) y 6 semestres en la Facultad de Ciencias Contables (preservado en plan-estudios.pdf para el plan 2021 y plan-estudios-2026.png para el plan 2026). La facultad no publica tablas de cursos en HTML."
+}

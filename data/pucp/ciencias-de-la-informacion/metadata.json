@@ -1,0 +1,25 @@
+{
+  "source": "pontificia_universidad_catolica_del_peru",
+  "faculty": "Facultad de Letras y Ciencias Humanas",
+  "career": "Ciencias de la Información",
+  "career_url": "https://www.pucp.edu.pe/carrera/ciencias-de-la-informacion/",
+  "plan_url": "https://facultad.pucp.edu.pe/letras-ciencias-humanas/carreras/ciencias-de-la-informacion/plan-de-estudios/",
+  "external_plan_urls": [
+    "https://planesllcchhpucp.com/cienciasdelainformacion"
+  ],
+  "pdf_url": null,
+  "eeggll_plan_url": "https://estudios-generales-letras.pucp.edu.pe/planes/plan-de-estudios-a-partir-del-2026-1/",
+  "eeggll_pdf_url": "https://estudios-generales-letras.pucp.edu.pe/wp-content/uploads/2026/06/Plan-de-estudios-2026-version-web-editable-19-JUNIO.pdf",
+  "eeggll_interactive_map_url": "https://view.genially.com/6644de6aea2afd001405944b",
+  "captured_at": "2026-09-22T19:31:06.572728+00:00",
+  "files": {
+    "eeggll_html": "data/pucp/ciencias-de-la-informacion/eeggll_source.html",
+    "eeggll_pdf": "data/pucp/ciencias-de-la-informacion/plan-estudios-eeggll.pdf",
+    "html": "data/pucp/ciencias-de-la-informacion/source.html",
+    "planes_html": "data/pucp/ciencias-de-la-informacion/planes_source.html",
+    "courses": "data/pucp/ciencias-de-la-informacion/courses.json"
+  },
+  "course_count": 117,
+  "pdf_size_bytes": null,
+  "notes": "Los niveles 1 al 4 corresponden a Estudios Generales Letras (EEGGLL), cuyo plan se preserva en plan-estudios-eeggll.pdf. Los niveles a partir del quinto ciclo corresponden a la Facultad de Letras y Ciencias Humanas y están publicados en HTML (planesllcchhpucp.com)."
+}

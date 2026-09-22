@@ -1,0 +1,802 @@
+[
+  {
+    "name": "Arqueología De Sociedades De Cazadores Recolectores",
+    "code": "1ARQ64",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 5",
+    "url": null
+  },
+  {
+    "name": "Excavación Arqueológica",
+    "code": "ARQ280",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 5",
+    "url": null
+  },
+  {
+    "name": "Análisis De Datos En Arqueología",
+    "code": "1ARQ15",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 5",
+    "url": null
+  },
+  {
+    "name": "Arqueología Del Perú 2: El Periodo Inicial Y El Horizonte Temprano",
+    "code": "1ARQ01",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 5",
+    "url": null
+  },
+  {
+    "name": "Arqueología De Sociedades Aldeanas",
+    "code": "1ARQ66",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 5",
+    "url": null
+  },
+  {
+    "name": "Laboratorio De Arqueología 2: Análisis De Material Lítico",
+    "code": "1ARQ73",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Historia Del Pensamiento Arqueológico",
+    "code": "ARQ335",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Arqueología Del Perú 3: El Período Intermedio Temprano Y El Horizonte Medio En El Norte",
+    "code": "1ARQ65",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Arqueología De Formaciones Estatales E Imperiales",
+    "code": "1ARQ19",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Seminario De Arqueología 1: Estudios Andinos",
+    "code": "1ARQ67",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Laboratorio De Arqueología 3: Análisis De Cerámica",
+    "code": "1ARQ68",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 7",
+    "url": null
+  },
+  {
+    "name": "Ética Y Responsabilidad Social En Arqueología",
+    "code": "ARQ293",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 7",
+    "url": null
+  },
+  {
+    "name": "Arqueología Del Perú 4: El Período Intermedio Temprano Y El Horizonte Medio En El Sur",
+    "code": "1ARQ28",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 7",
+    "url": null
+  },
+  {
+    "name": "Seminario De Tesis 1",
+    "code": "1ARQ21",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 7",
+    "url": null
+  },
+  {
+    "name": "Laboratorio De Arqueología 4: Osteología Humana",
+    "code": "1ARQ69",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 7",
+    "url": null
+  },
+  {
+    "name": "Seminario De Arqueología 2: Teoría Y Métodos",
+    "code": "1ARQ70",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Arqueología Del Perú 5: El Período Intermedio Tardío",
+    "code": "1ARQ24",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Seminario De Tesis 2",
+    "code": "1ARQ30",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Seminario De Arqueología 3: Estudios De Patrimonio",
+    "code": "1ARQ71",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Laboratorio De Arqueología 5: Análisis Espacial",
+    "code": "1ARQ74",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 9",
+    "url": null
+  },
+  {
+    "name": "Debates Contemporáneos En Teoría Arqueológica",
+    "code": "ARQ330",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Etnografía Andina Aplicada A La Arqueología",
+    "code": "IDM303",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Idiomas",
+    "code": "ARQ338",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Arqueología Del Perú 6: El Horizonte Tardío",
+    "code": "1ARQ26",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario De Tesis 3",
+    "code": "1ARQ31",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario De Arqueología 4: Bioarqueología Y Antropología Forense",
+    "code": "1ARQ72",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas En Arqueología 3",
+    "code": "GEO240",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas En Arqueología 4",
+    "code": "ARQ317",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas En Arqueología 5",
+    "code": "ARQ319",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas En Arqueología 1",
+    "code": "ARQ318",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Introducción A Los Sistemas De Información Geográfica",
+    "code": "ARQ336",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas En Arqueología 2",
+    "code": "ARQ337",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Etnohistoria Andina Colonial",
+    "code": "HIS382",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Taller De Responsabilidad Social",
+    "code": "HUM200",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario Interdisciplinario",
+    "code": "HUM320",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Lingüística Andina",
+    "code": "LIN332",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Geología General",
+    "code": "MIN230",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Taller De Formación  En La Investigación Humanística",
+    "code": "1HUM05",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Humanidades Digitales",
+    "code": "1HUM14",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario Inter-Disciplinario Internacional 1",
+    "code": "1HUM18",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario  Inter-Disciplinario Internacional 3",
+    "code": "1HUM16",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Responsabilidad Social Para Las Humanidades",
+    "code": "1HUM29",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario  Inter-Disciplinario Internacional 2",
+    "code": "1HUM54",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario  Inter-Disciplinario Internacional 4",
+    "code": "1HUM55",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas Libres En Humanidades 1",
+    "code": "1HUM56",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas Libres En Humanidades 2",
+    "code": "1HUM57",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas Libres En Humanidades 3",
+    "code": "1HUM58",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas Libres En Humanidades 4",
+    "code": "1HUM59",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas Libres Inter-Disciplinarios 1",
+    "code": "1HUM17",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas Libres Inter-Disciplinarios 2",
+    "code": "1HUM19",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas Libres Inter-Disciplinarios 3",
+    "code": "1HUM60",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas Libres Inter-Disciplinarios 4",
+    "code": "1HUM61",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Arqueología Del Perú 1: El Periodo Precerámico",
+    "code": "1HUM62",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Forma, Espacio Y Tiempo En Arqueología",
+    "code": "1HUM63",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Prospección Arqueológica",
+    "code": "1HUM64",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Laboratorio De Arqueología 1: Introducción Al Análisis De Materiales Arqueológicos",
+    "code": "1HUM65",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Arqueología De Sociedades De Cazadores Recolectores",
+    "code": "1HUM74",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Análisis De Datos En Arqueología",
+    "code": "1HUM75",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Arqueología Del Perú 2: El Periodo Inicial Y El Horizonte Temprano",
+    "code": "1HUM76",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Laboratorio De Arqueología 2: Análisis De Material Lítico",
+    "code": "1HUM77",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Excavación Arqueológica",
+    "code": "1HUM78",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Arqueología De Sociedades Aldeanas",
+    "code": "1HUM79",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario De Arqueología 1: Estudios Andinos",
+    "code": "1HUM80",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Laboratorio De Arqueología 3: Análisis De Cerámica",
+    "code": "1HUM81",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Arqueología Del Perú 3: El Período Intermedio Temprano Y El Horizonte Medio En El Norte",
+    "code": "1ARQ12",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Historia Del Pensamiento Arqueológico",
+    "code": "1ARQ14",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario De Tesis 1",
+    "code": "ARQ278",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Ética Y Responsabilidad Social En Arqueología",
+    "code": "1ARQ17",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario De Arqueología 2: Teoría Y Métodos",
+    "code": "1ARQ64",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Laboratorio De Arqueología 4: Osteología Humana",
+    "code": "1ARQ01",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Arqueología Del Perú 4:  El Período Intermedio Temprano Y El Horizonte Medio En El Sur",
+    "code": "1ARQ15",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario De Arqueología 3: Estudios De Patrimonio",
+    "code": "1ARQ73",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Laboratorio De Arqueología 5: Análisis Espacial",
+    "code": "ARQ280",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario De Tesis 2",
+    "code": "1ARQ66",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario De Arqueología 4: Bioarqueología Y  Antropología Forense",
+    "code": "1ARQ67",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario De Tesis 3",
+    "code": "1ARQ68",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Debates Contemporáneos En Teoría Arqueológica",
+    "code": "1ARQ19",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Etnografía Andina Aplicada A La Arqueología",
+    "code": "ARQ335",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Arqueología Del Perú 6:  El Horizonte Tardío",
+    "code": "1ARQ28",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas En Arqueología 3",
+    "code": "ARQ293",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Taller De Formación En La Investigación Humanística",
+    "code": "1ARQ70",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas En Arqueología 4",
+    "code": "1ARQ69",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas En Arqueología 5",
+    "code": "1ARQ21",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas En Arqueología 1",
+    "code": "1ARQ71",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas En Arqueología 2",
+    "code": "1ARQ74",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Etnohistoria Andina Colonial",
+    "code": "1ARQ30",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario Interdisciplinario",
+    "code": "1ARQ72",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario Interdisciplinario Internacional 1",
+    "code": "1ARQ31",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario Interdisciplinario Internacional 2",
+    "code": "ARQ330",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario Interdisciplinario Internacional 3",
+    "code": "ARQ338",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario Interdisciplinario Internacional 4",
+    "code": "1ARQ26",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Responsabilidad Social Para Las Humanidades",
+    "code": "ARQ317",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas Libres En Humanidades 1",
+    "code": "1HUM05",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas Libres En Humanidades 2",
+    "code": "ARQ318",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas Libres En Humanidades 3",
+    "code": "ARQ319",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas Libres En Humanidades 4",
+    "code": "ARQ336",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas Libres Interdisciplinarios 1",
+    "code": "ARQ337",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas Libres Interdisciplinarios 2",
+    "code": "HIS382",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas Libres Interdisciplinarios 3",
+    "code": "HUM320",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Temas Libres Interdisciplinarios 4",
+    "code": "1HUM16",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  }
+]

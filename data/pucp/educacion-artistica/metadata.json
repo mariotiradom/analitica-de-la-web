@@ -1,0 +1,14 @@
+{
+  "source": "pontificia_universidad_catolica_del_peru",
+  "faculty": "Facultad de Arte y Diseño",
+  "career": "Educación Artística",
+  "career_url": "https://www.pucp.edu.pe/carrera/educacion-artistica/",
+  "plan_url": "https://facultad.pucp.edu.pe/arte/informacion-academica/educacion-artistica/presentacion/",
+  "final_url": "https://facultad.arteydiseno.pucp.edu.pe/especialidades/educacion-artistica/plan-estudios/",
+  "captured_at": "2026-09-22T19:13:15.199054+00:00",
+  "files": {
+    "html": "data/pucp/educacion-artistica/source.html",
+    "courses": "data/pucp/educacion-artistica/courses.json"
+  },
+  "course_count": 61
+}

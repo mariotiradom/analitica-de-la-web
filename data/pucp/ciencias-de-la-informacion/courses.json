@@ -1,0 +1,938 @@
+[
+  {
+    "name": "Gestión De La Información Corporativa",
+    "code": "CIF203",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Seminario De Investigación 1",
+    "code": "CIF205",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Sistemas De Información Gerencial",
+    "code": "INF249",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Prácticas Preprofesionales",
+    "code": "CIF207",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Competencias Informacionales",
+    "code": "CIF206",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Preservación Digital",
+    "code": "CIF204",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 10",
+    "url": null
+  },
+  {
+    "name": "Gestión De Proyectos",
+    "code": "CIF232",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Recuperación De Información",
+    "code": "INF256",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Arquitectura De La Información",
+    "code": "CIF233",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Información, Sociedad Y Conocimiento",
+    "code": "CIF234",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Deontología Y Ética De La Información",
+    "code": "CIF235",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Ges256  (07)",
+    "code": "CIF226",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Cif200  (07)",
+    "code": "CIF227",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Gestión De Recursos De Información",
+    "code": "CIF228",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Organización De Información",
+    "code": "CIF229",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Análisis De La Producción Científica",
+    "code": "HUM350",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Métodos De Investigación Cualitativos",
+    "code": "INF257",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 8",
+    "url": null
+  },
+  {
+    "name": "Introducción A Las Ciencias De La Información",
+    "code": "CIF200",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 7",
+    "url": null
+  },
+  {
+    "name": "Fundamentos De Gestión",
+    "code": "GES256",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 7",
+    "url": null
+  },
+  {
+    "name": "Tecnologías De Información",
+    "code": "INF247",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 7",
+    "url": null
+  },
+  {
+    "name": "Información Y Usuarios",
+    "code": "CIF215",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 5",
+    "url": null
+  },
+  {
+    "name": "Cif216  (04)",
+    "code": "CIF216",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 5",
+    "url": null
+  },
+  {
+    "name": "Redacción Científica",
+    "code": "CIF217",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 5",
+    "url": null
+  },
+  {
+    "name": "Comunicación Académico-Científica",
+    "code": "CIF219",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 5",
+    "url": null
+  },
+  {
+    "name": "Hcif225",
+    "code": "CIF223",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 5",
+    "url": null
+  },
+  {
+    "name": "Gestión De Servicios De Información",
+    "code": "CIF224",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 5",
+    "url": null
+  },
+  {
+    "name": "Representación  De La Información",
+    "code": "INF254",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 5",
+    "url": null
+  },
+  {
+    "name": "Administración 2",
+    "code": "ADM201",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Metodología 1",
+    "code": "CIS221",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Relaciones Humanas",
+    "code": "ADM211",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Mercadeo 1",
+    "code": "ADM204",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Administración De Recursos Humanos",
+    "code": "ADM209",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Técnicas Y Métodos De Investigación Antropológica",
+    "code": "ANT224",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Etnografía Andina",
+    "code": "ANT241",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Etnología Amazónica",
+    "code": "ANT242",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Antropología Urbana",
+    "code": "ANT243",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Folklore Y Arte Popular",
+    "code": "ANT252",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Lenguaje Y Sociedad",
+    "code": "ANT254",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Procesos Socio Econ. Perú",
+    "code": "CIS265",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Políticas Económicas",
+    "code": "ECO203",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Desarrollo Económico",
+    "code": "ECO282",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Teoría De La Educación",
+    "code": "EDU121",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Filosofía De La Educación",
+    "code": "EDU209",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Corrientes Pedagógicas Contemporáneas",
+    "code": "EDU236",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Antropología Educacional",
+    "code": "EDU261",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Metodología De La Historia 1",
+    "code": "HIS212",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Metodología De La Historia 2",
+    "code": "HIS213",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Historia Del Perú 1",
+    "code": "HIS250",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Historia Del Perú 3",
+    "code": "HIS252",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Historia Del Perú 4",
+    "code": "HIS253",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Historia Del Perú 5",
+    "code": "HIS254",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Historia Universal 1",
+    "code": "HIS261",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Historia Universal 2",
+    "code": "HIS262",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Historia Universal 3",
+    "code": "HIS263",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Historia Universal 4",
+    "code": "HIS264",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Historia De América 2",
+    "code": "HIS267",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Introducción A La Teoría Literaria",
+    "code": "HIS268",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Historiografía Lit. Perua.",
+    "code": "LIN209",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Literatura Comparada",
+    "code": "LIT205",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Literatura Francesa",
+    "code": "LIT317",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Literatura Inglesa",
+    "code": "LIT332",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Literatura Italiana",
+    "code": "LIT333",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Literatura Alemana",
+    "code": "LIT334",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Literatura Contemporánea Española",
+    "code": "LIT336",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Lírica Peruana Contemporánea",
+    "code": "LIT204",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Narrativa Peruana Contemporánea",
+    "code": "LIT209",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Narrativa Española Del Siglo De Oro",
+    "code": "LIT217",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Problemas Urbano Industriales",
+    "code": "LIT221",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Literatura Griega Clásica",
+    "code": "SOC271",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Literatura Latina Clásica",
+    "code": "LIT343",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Historia De La Psicología",
+    "code": "LIT344",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Sistemas Psicológicos 1",
+    "code": "PSB210",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Sistemas Psicológicos 2",
+    "code": "PSB211",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Psicología Social",
+    "code": "PSB212",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Teoría Sociológica 1",
+    "code": "PSB252",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Problemas Políticos",
+    "code": "SOC201",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Problemas Rurales",
+    "code": "SOC274",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Historia De América 3",
+    "code": "SOC277",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Economía",
+    "code": "ECO207",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Historia Del Conocimiento Registrado",
+    "code": "CIF201",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Taller De Promoción De La Lectura",
+    "code": "CIF202",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Temas Y Estudios De Información",
+    "code": "CIF213",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Archivistica",
+    "code": "CIF214",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Bibliotecas Digitales",
+    "code": "CIF303",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Archivística 2",
+    "code": "CIF304",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Información Y Sistemas Cognitivos",
+    "code": "CIF305",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Museología",
+    "code": "HUM200",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Conservación Y Restauración Documental",
+    "code": "HUM204",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Gestión Cultural",
+    "code": "HUM270",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Taller De Museografía",
+    "code": "HUM351",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Taller De Responsabilidad Social",
+    "code": "HUM352",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Taller De Publicación Digital",
+    "code": "HUM353",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Introducción A La Semiología",
+    "code": "LIN321",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Telecomunicaciones Y Redes De Información",
+    "code": "TEL340",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Taller De Formación En La Investigación Humanística",
+    "code": "1HUM05",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Inf247  (07)",
+    "code": "1HUM14",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Responsabilidad Social Para Las Humanidades",
+    "code": "1HUM16",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Taller De Métodos Computacionales En Humanidades Digitales 1",
+    "code": "1HUM17",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Taller De Métodos Computacionales En Humanidades Digitales 2",
+    "code": "1HUM18",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Temas Libres En Humanidades 4",
+    "code": "1HUM19",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Temas Libres Interdisciplinarios 1",
+    "code": "1HUM29",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Temas Libres Interdisciplinarios 2",
+    "code": "1HUM49",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Temas Libres Interdisciplinarios 3",
+    "code": "1HUM50",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Temas Libres Interdisciplinarios 4",
+    "code": "1HUM54",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Temas Libres En Humanidades 1",
+    "code": "1HUM57",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Temas Libres En Humanidades 2",
+    "code": "1HUM60",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Temas Libres En Humanidades 3",
+    "code": "1HUM63",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Humanidades Digitales",
+    "code": "1HUM55",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Seminario Interdisciplinario Internacional 1",
+    "code": "1HUM58",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Seminario Interdisciplinario Internacional 2",
+    "code": "1HUM61",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Seminario Interdisciplinario Internacional 3",
+    "code": "1HUM64",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Seminario Interdisciplinario Internacional 4",
+    "code": "1HUM56",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Información Y Usuarios",
+    "code": "1HUM59",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Comunicación Académico-Científica",
+    "code": "1HUM62",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Fundamentos De Gestión",
+    "code": "1HUM65",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Tecnologías De Información",
+    "code": "1HUM74",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  },
+  {
+    "name": "Introducción A Las Ciencias De La Información",
+    "code": "1HUM75",
+    "credits": null,
+    "stage": "Facultad de Letras y Ciencias Humanas",
+    "cycle": "Nivel 6",
+    "url": null
+  }
+]
